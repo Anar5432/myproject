@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "1846-cı il 6 dekabr reskriptinə görə:",
+      "options": [
+        "Hər bir kəndliyə 5 desyatin torpaq payıın verildi",
+        "Təhkimçiliyin ləğvi",
+        "Dövlət kəndlilər vergilərdən azad edildi",
+        "Sahibkar kəndlilər vergilərdən azad edildi",
+        "Bəy və ağaların torpaq üzərində xüsusi mülkiyyət hüququ təsdiq edildi"
+      ],
+      "answer": "Bəy və ağaların torpaq üzərində xüsusi mülkiyyət hüququ təsdiq edildi"
+    },
+    {
+      "question": "Quba xanı Fətəli xanın  müqavilə ilə müvəqqəti olaraq himayəsinə götürdüyü xanlıq hansı ıdı?",
+      "options": [
+        "Dərbənd",
+        "Şəki",
+        "Ərdəbil",
+        "Salyan",
+        "Şamaxı"
+      ],
+      "answer": "Şamaxı"
+    },
+    {
+      "question": "Azərbaycanda yerli feodalların-vassalların köçəri monqol əyanlarından asılılığını gücləndirmək siyasəti yeridən monqol canişini:",
+      "options": [
+        "Molor noyon",
+        "Toğa Teymur",
+        "Arpa xan",
+        "Həsən xan",
+        "Arqun ağa"
+      ],
+      "answer": "Arqun ağa"
+    },
+    {
+      "question": "Siyasi partiyaların yaranmasının ardıcıllığını müəyyən edin:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Xürrəmilərin Xilafət orduları üzərindəki qələbələrinin səbəblərinə aiddir:",
+      "options": [
+        "Xəzərlərin Xürrəmilərə yardım göstərməsi. müharibəsi  ilə bir vaxta düşməsi.",
+        "Ərəblərin döyüş meydanında  düzgün taktika seçə bilməmələri.",
+        "Ərəb ordusunda çoxsaylı türk süvarilərinin olması.",
+        "Xürrəmilərin Bizans imperiyasından böyük miqdarda qoşun alması.",
+        "Xilafət sarayında hakimyyət üstündə çəkişmələrin güclənməsi, ərəblərə qarşı Suriya və Misirdəki üsyanların Xürrəmilərin azadlıq"
+      ],
+      "answer": "Xilafət sarayında hakimyyət üstündə çəkişmələrin güclənməsi, ərəblərə qarşı Suriya və Misirdəki üsyanların Xürrəmilərin azadlıq"
+    },
+    {
+      "question": "Xanlıqlar dövründə hansı məhkəmə idarələri mövcud olmuşdur?",
+      "options": [
+        "silki məhkəmələr",
+        "qazı və əsnaf məhkəmələri",
+        "şəhər və divan məhkəmələri",
+        "əyalət və kənd məhkəmələri",
+        "divan, şəriət və əsnaf məhkəmələri"
+      ],
+      "answer": "divan, şəriət və əsnaf məhkəmələri"
+    },
+    {
+      "question": "Kəlbəcər  rayonu ermənilər tərəfindən  işğal olundu:",
+      "options": [
+        "1993- cü il oktyabrın 28- də",
+        "1995-ci il iyunun 2- də",
+        "1992-  ci il mayın 5- də",
+        "1992- ci il martın 3- də",
+        "1993- cü il aperiln 3- də"
+      ],
+      "answer": "1993- cü il aperiln 3- də"
+    },
+    {
+      "question": "Kür-Araz mədəniyyəti əhatə edir?",
+      "options": [
+        "e.ə.VI minilliyi",
+        "e.ə.II minilliyi",
+        "e.ə.VI-V minillikləri",
+        "e.ə.II-I minillikləri",
+        "e.ə.IV minilliyin ikinci yarısından e.ə.III  minilliyin sonuna qədər"
+      ],
+      "answer": "e.ə.IV minilliyin ikinci yarısından e.ə.III  minilliyin sonuna qədər"
+    },
+    {
+      "question": "Səfiəddin Urməvi",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "1, 4",
+        "2, 3",
+        "1, 2"
+      ],
+      "answer": "1, 2"
+    },
+    {
+      "question": "Quba xanı Fətəli xanın “nigah diplomatiyasından” istifadə edərək işğal etdiyi xanlıq necə adlanır?",
+      "options": [
+        "Şamaxı",
+        "Gəncə",
+        "Şəki",
+        "Qarabağ",
+        "Bakı"
+      ],
+      "answer": "Bakı"
+    }
+  ],
+  "answers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

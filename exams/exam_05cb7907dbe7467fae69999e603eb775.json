@@ -1,0 +1,366 @@
+{
+  "questions": [
+    {
+      "question": "Sİ sistemi hansı vahidlərdən yaranır?",
+      "options": [
+        "elektrik",
+        "əsas",
+        "törəmə",
+        "uzunluq",
+        "əsas və törəmə"
+      ],
+      "answer": "əsas və törəmə"
+    },
+    {
+      "question": "Hansı ölçmə metodunda qeydlərin və periodik siqnalların üst-üstə düşməsinin istifadəsi ilə axtarılan kəmiyyət və nümunənin ölçü arasındakı fərqi ölçürlər?",
+      "options": [
+        "müqayisə",
+        "əvəzetmə",
+        "differensial",
+        "bilavasitə",
+        "üst-üstə düşmə"
+      ],
+      "answer": "üst-üstə düşmə"
+    },
+    {
+      "question": "Çevrilmələrin nominal statistik xüsusiyyəti çıxış kəmiyyətinin qiymətinə əsasən nəyi tapmağa imkan verir?",
+      "options": [
+        "zamanı",
+        "şkala bölgülərini",
+        "istismar zamanı etibarlığı",
+        "normalı",
+        "giriş kəmiyyətini nominal"
+      ],
+      "answer": "giriş kəmiyyətini nominal"
+    },
+    {
+      "question": "Aşağıdakılardan hansı detalın yararlı olmasını göstərir?",
+      "options": [
+        "Yuxarı hədd ölçüsü müsaidə sahəsindən kənarda olduqda",
+        "Hədd sapmaların fərqi nominal ölçüdən kiçik olduqda",
+        "Hədd sapmalarının cəmi nominal ölçüdən böyük olduqda",
+        "Aşağı hədd ölçüsü müsaidə sahəsindən kənarda olduqda",
+        "Həqiqi ölçü müsaidə sahəsi daxilində ya da hədd ölçülərə bərabər olduqda"
+      ],
+      "answer": "Həqiqi ölçü müsaidə sahəsi daxilində ya da hədd ölçülərə bərabər olduqda"
+    },
+    {
+      "question": "Əsas val hansı hərflə işarə olunur?",
+      "options": [
+        "C",
+        "D",
+        "e",
+        "F",
+        "h"
+      ],
+      "answer": "h"
+    },
+    {
+      "question": "Etalonun, təkrarladığı fiziki kəmiyyət vahidinin ölçülərini uzun müddət sabit saxlamaq xüsusiyyəti necə adlanır?",
+      "options": [
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "Ölçmə-hesablama",
+        "Ölçmə sistemləri",
+        "Ölçmə qurğuları stasionar",
+        "Dəyişməzlik"
+      ],
+      "answer": "Dəyişməzlik"
+    },
+    {
+      "question": "Verilmiş ölçüyə malik fiziki kəmiyyəti təzələmək üçün istifadə olunan ölçmə vasitələrinə nə deyilir?",
+      "options": [
+        "vəhdət",
+        "cərgə",
+        "interval",
+        "ətalətlilik",
+        "ölcü"
+      ],
+      "answer": "ölcü"
+    },
+    {
+      "question": "Teхnоlоji əməliyyatların aparılması zamanı teхnоlоgiyanın ətraf mühitə müхtəlif təsirlərinin buraхıla bilən nоrmaları hansı növ standartlarla standartlaşdırılır?",
+      "options": [
+        "milli standartlar",
+        "dövlət standartları",
+        "nəzarət metodları standartları",
+        "əməliyyatlar üçün standartlar",
+        "proseslər üçün standartlar"
+      ],
+      "answer": "proseslər üçün standartlar"
+    },
+    {
+      "question": "Aşağıdakılardan hansı max ara boşluğunu göstərir?",
+      "options": [
+        "D - d",
+        "...",
+        "....",
+        "..",
+        "."
+      ],
+      "answer": "."
+    },
+    {
+      "question": "Hansı əsasverici standarta görə müxtəlif kateqoriyalı standartlar növlərə bölünür?",
+      "options": [
+        "AZS 1.5 - 96",
+        "AZS 1.2 - 96",
+        "AZS 1.3 - 96",
+        "AZS 1.6 - 96",
+        "AZS 1.0 - 96"
+      ],
+      "answer": "AZS 1.0 - 96"
+    },
+    {
+      "question": "Metrologiya nə haqqında elmdir?",
+      "options": [
+        "tənzimləmə",
+        "qabaqlama",
+        "idarə etmə",
+        "sürətləndirmə",
+        "ölçmələrin vəhdətinin təmin olunması"
+      ],
+      "answer": "ölçmələrin vəhdətinin təmin olunması"
+    },
+    {
+      "question": "Beynəlxalq qanunverici metrologiya  təşkilatı (BQMT) neçənci ildə yaradılmışdır?",
+      "options": [
+        "1964",
+        "1952",
+        "1975",
+        "1946",
+        "1956"
+      ],
+      "answer": "1956"
+    },
+    {
+      "question": "Bir və ya bir neçə fiziki kəmiyyətin ölçülməsi üçün nəzərdə tutulmuş, funksional cəhətdən birləşmiş ölçü, ölçmə qurğuları, ölçü çeviriciləri və stasionar ölçmə qurğuları toplusu necə adlanır?",
+      "options": [
+        "Ölçmə-hesablama kompleksləri",
+        "Ölçmə sistemləri",
+        "Dəyişməzlik",
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "Ölçmə qurğuları stasionar"
+      ],
+      "answer": "Ölçmə qurğuları stasionar"
+    },
+    {
+      "question": "Ffiziki kəmiyyətlərin vahidlə müəyyən edilmiş, zəruri dəqiqliklə verilmiş ölçülərinin təkrarlama və saxlaması üçün nəzərdə tutulmuş proses",
+      "options": [
+        "sorbsiyaya",
+        "dartma",
+        "desorbsiya",
+        "kalibirləmə",
+        "ölçmə"
+      ],
+      "answer": "ölçmə"
+    },
+    {
+      "question": "Ölçmələri nələrə görə təsnifləşdirirlər?",
+      "options": [
+        "mürəkkəbliyinə",
+        "sadələyinə",
+        "rənginə",
+        "ölçüsunə",
+        "əlamətlərinə"
+      ],
+      "answer": "əlamətlərinə"
+    },
+    {
+      "question": "Keyfiyyətcə  əksər fiziki obyektlər üçün ümumi, lakin kəmiyyətcə hər bir obyekt üçün ayrıca qiymətə malk olan xassə nədir?",
+      "options": [
+        "temperatur",
+        "təziq",
+        "ölçmə",
+        "kütlə",
+        "fiziki kəmiyyət"
+      ],
+      "answer": "fiziki kəmiyyət"
+    },
+    {
+      "question": "Cərgə şkalası üzrə ölçmələri yüngülləşdirmək üçün bu şkalada bir neçə nöqtəni nə kimi qəbul edirlər?",
+      "options": [
+        "ölçmə vasitələrinin şkalası",
+        "doğru cavab yoxdur",
+        "fiziki kəmiyyətin şkalası",
+        "adların şkalası",
+        "dayaq (reper) nöqtəsi"
+      ],
+      "answer": "dayaq (reper) nöqtəsi"
+    },
+    {
+      "question": "Estetik göstəricilər məmulatın hansı xassəsini xarakterizə edir?",
+      "options": [
+        "Erqonomik göstəriciləri",
+        "Uzunömürlülüyü",
+        "Texnoloji göstəricilərini",
+        "Təyinat göstəriciləri",
+        "Kompozisiyasının bütövlülüyünü"
+      ],
+      "answer": "Kompozisiyasının bütövlülüyünü"
+    },
+    {
+      "question": "Əsasən iyerarxiya təsnifatlaşdırılmasının tətbiqi zamanı istifadə edilən kodlaşdırma metodu hansıdır?",
+      "options": [
+        "informativ",
+        "avtomatik",
+        "asılı olmayan",
+        "paralel",
+        "ardıcıl"
+      ],
+      "answer": "ardıcıl"
+    },
+    {
+      "question": "İqtisadi kəmiyyətlə əmtəə məhsullarının  nəyi ölçülür?",
+      "options": [
+        "fiziki kəmiyyətləri",
+        "təcili",
+        "sabitliyi",
+        "zamanı",
+        "dəyər və qiyməti"
+      ],
+      "answer": "dəyər və qiyməti"
+    },
+    {
+      "question": "Aşağıdakılardan hansı ISO-nun Şura komitəsi deyildir?",
+      "options": [
+        "Elmi-texniki informasiya üzrə komitə",
+        "Plan komitəsi",
+        "Məhsulun standartlara uyğunluğunun qiymətləndirilməsi üzrə komitə",
+        "Standartlaşdırmanın elmi prinsiplərini öyrənmək üzrə komitə",
+        "Birləşmiş proqram komitəsi"
+      ],
+      "answer": "Birləşmiş proqram komitəsi"
+    },
+    {
+      "question": "Fiziki kəmiyyətlərin şkalası deyildir",
+      "options": [
+        "Unifikasiya",
+        "Ölçmə vasitələrinin şkalası",
+        "Fiziki kəmiyyətin şkalası",
+        "Cərgə şkalası",
+        "Doğru cavab yoxdur"
+      ],
+      "answer": "Doğru cavab yoxdur"
+    },
+    {
+      "question": "Metrologiyanın keyfiyyətin ölçülməsinə həsr olunmuş kvalimetriya bölməsində məhsulun keyfiyyət göstəricilərinin neşə növü şəhr edilir?",
+      "options": [
+        "23",
+        "10",
+        "5",
+        "4",
+        "12"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "Ölçülən kəmiyyətin çevrilmə metoduna görə hansı cihazlar vardır?",
+      "options": [
+        "sorbsiyalı",
+        "desorbsiyalı",
+        "doğru cavab yoxdur",
+        "daimi",
+        "müqayisəedici"
+      ],
+      "answer": "müqayisəedici"
+    },
+    {
+      "question": "Ölkə ISO-ya hansı şəkildə üzv ola bilər?",
+      "options": [
+        "assosiasiya edən üzv",
+        "komissiya-üzv",
+        "rəhbəredən üzv",
+        "əlaqələndirici üzv",
+        "müxbir üzv"
+      ],
+      "answer": "müxbir üzv"
+    },
+    {
+      "question": "ISО-nun işində оrtaya çıхan ümumi məsələləri öyrənmək üçün şuranın nəzdində bir sıra kоmitələr yaradılmışdır. Aşağıdakılardan hansı belə komitələrdəndir?",
+      "options": [
+        "İxtisaslaşdırma üzrə komitə",
+        "Standartların tərcüməsi üzrə beynəlxalq komitə",
+        "Məhsulun keyfiyyətinin qiymətləndirilməsi üzrə komitə",
+        "Standartların beynəlxalq nəşri üzrə komitə",
+        "Inkişaf etməkdə olan ölkələrə yardım komitəsi"
+      ],
+      "answer": "Inkişaf etməkdə olan ölkələrə yardım komitəsi"
+    },
+    {
+      "question": "Metrologiya sahəsində əsas terminlər və təyinatlar  harada verilib?",
+      "options": [
+        "sahə standartlarında",
+        "müəssisə standartlarında",
+        "QOST-da",
+        "regional standartlarda",
+        "dövlət standartlarında"
+      ],
+      "answer": "dövlət standartlarında"
+    },
+    {
+      "question": "Əsas fiziki vahidlərindən başqa, sistemində hansı vahıdlərdən də istifadə olunur?",
+      "options": [
+        "müqayise",
+        "doğru cavab yoxdur",
+        "dəyişən",
+        "abit",
+        "törəmə"
+      ],
+      "answer": "törəmə"
+    },
+    {
+      "question": "Yuxarı hədd ölçü hansı ölçüyə deyilir?",
+      "options": [
+        "Hesabatdan tapılmış ölçüyə",
+        "Ölçmə yolu ilə təyin edilmiş ölçüyə",
+        "Təsadüfi ölçüyə",
+        "Nominal ölçü ilə yuxarı hədd ölçüsünün cəminə",
+        "Ən kiçik hədd fərqinə"
+      ],
+      "answer": "Ən kiçik hədd fərqinə"
+    },
+    {
+      "question": "ISO-nun Icraiyyə komitəsinə neçə komitə-üzv daxildir?",
+      "options": [
+        "3",
+        "11",
+        "7",
+        "18",
+        "12"
+      ],
+      "answer": "12"
+    }
+  ],
+  "answers": [
+    "əsas",
+    "əvəzetmə",
+    "istismar zamanı etibarlığı",
+    "Hədd sapmalarının cəmi nominal ölçüdən böyük olduqda",
+    "e",
+    "Ölçmə sistemləri",
+    "ətalətlilik",
+    "əməliyyatlar üçün standartlar",
+    "..",
+    "AZS 1.3 - 96",
+    "sürətləndirmə",
+    "1946",
+    "Dəyişməzlik",
+    "kalibirləmə",
+    "ölçüsunə",
+    "kütlə",
+    "adların şkalası",
+    "Təyinat göstəriciləri",
+    "paralel",
+    "zamanı",
+    "Standartlaşdırmanın elmi prinsiplərini öyrənmək üzrə komitə",
+    "Cərgə şkalası",
+    "4",
+    "doğru cavab yoxdur",
+    "müxbir üzv",
+    "Məhsulun keyfiyyətinin qiymətləndirilməsi üzrə komitə",
+    "QOST-da",
+    "dəyişən",
+    "Təsadüfi ölçüyə",
+    "7"
+  ]
+}

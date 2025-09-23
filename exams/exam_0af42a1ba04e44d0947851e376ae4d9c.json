@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Şeyx Cüneydin  1460 - cı il Şirvana və Dağıstana səfərı nəticələndi:",
+      "options": [
+        "Şirvanşahların paytaxtını ələ keçirdi",
+        "Şeyx Cüneyd çərkəzlərin hücumuna məruz qalaraq öldürüldü",
+        "Şirvanşahları  məğlub edərək Ərdəbil şeyxiliyinin nüfuzunu artırdı",
+        "Ağqoyunlu hökmdarından gözlədiyi dəstəyi ala bilmədiyi üçün geri çəkildi",
+        "Şirvanşah I Xəlilüllah və Cahanşah ittifaqına qarşı  mübarizədə məğlub oldu"
+      ],
+      "answer": "Şirvanşah I Xəlilüllah və Cahanşah ittifaqına qarşı  mübarizədə məğlub oldu"
+    },
+    {
+      "question": "Lulubilərin xırda hakimlərini  mərkəzi  dövlətdə  birləşdirən  Lullubi hökmdarı :",
+      "options": [
+        "Satuni",
+        "İşpakay",
+        "Partatua",
+        "Sukusşiranna",
+        "İmmaşqun"
+      ],
+      "answer": "İmmaşqun"
+    },
+    {
+      "question": "1870- ci il 14 may islahatı ilə:",
+      "options": [
+        "Zaqatala dairəsində  təhkimçilik hüququ ləğv olundu",
+        "Balaxanıda neft mədənlərində məcburi əmək ləğv olundu.",
+        "Azərbaycanda məhkəmələr Rusiyadakı kimi  seçilmirdi, komendatlar tərəfindən təyin olunurdu.",
+        "Quba qəzası və Zaqatala dairəsində kəndlilər ancaq məhsul və can vergisindən azad oldular.",
+        "Kəndlilərdən yığılacaq vergilər 1847-ci il “Əsasnamə”lərində nəzərdə tutulduğu kimi qaldı."
+      ],
+      "answer": "Kəndlilərdən yığılacaq vergilər 1847-ci il “Əsasnamə”lərində nəzərdə tutulduğu kimi qaldı."
+    },
+    {
+      "question": "II Dunya müharibəsi illərində Azərbaycanda sənaye malları satışı üzrə kartoçka sistemi tətbiq edildi:",
+      "options": [
+        "1941-cı ilin sentyabrında",
+        "1943-cü ilin mayında",
+        "1940-cı ilin martında",
+        "1939-cu ilin sentyabrında",
+        "1942-cı ilin aprelində"
+      ],
+      "answer": "1942-cı ilin aprelində"
+    },
+    {
+      "question": "Girdiman vilayətinin hakimi Varaz  Qriqor xristianlığın hansı təriqətini qəbul etdi:",
+      "options": [
+        "Pravaslav",
+        "Monofizitlik",
+        "Nestorian",
+        "Nikey",
+        "Xalkedon"
+      ],
+      "answer": "Xalkedon"
+    },
+    {
+      "question": "Möhüründə iki qılınc , aypara və ulduz təsviri var idi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "1472- ci ildə Həsən bəy Osmanlı dövlətinə qarşı hərbi ittifaq yaratmışdı:",
+      "options": [
+        "Portuqaliya ilə",
+        "Macarıstanla",
+        "Polşa ilə",
+        "Roma ilə",
+        "Venesiya ilə"
+      ],
+      "answer": "Venesiya ilə"
+    },
+    {
+      "question": "Alban  hökmdarı Cavanşir ərəblərə qarşı ittifaq qurmuşdu:",
+      "options": [
+        "Sünik hökmdarı Sunbat ilə",
+        "Sasani hökmdarı III Yezdəgirdlə",
+        "Xəzər xaqanı Şat ilə",
+        "Gürcü hökmdarı III Georgi ilə",
+        "Bizanz imperatoru II Konstantinlə"
+      ],
+      "answer": "Bizanz imperatoru II Konstantinlə"
+    },
+    {
+      "question": "Suriya qaynaqlarına görə Albaniya ərazisi orta əsrlərdə necə adlandırılırdı",
+      "options": [
+        "Arran",
+        "Aqvan",
+        "Alpan",
+        "Alovan",
+        "Aran"
+      ],
+      "answer": "Aran"
+    },
+    {
+      "question": "Ərəblərin Bərdəyə yürüşü nəticəsində:",
+      "options": [
+        "Əbəblər Bərdəyə daxil ola bilmədilər.",
+        "II Bələncər döyüşünə qədər Bərdə müdafiə olundu.",
+        "Şəhər talan edildi.",
+        "Əhali xəzərlərdən kömək alaraq müqavimət göstərdilər.",
+        "Bərdə əhalisi də xərac və cizyə vermək şərti ilə ərəblərlə müqavilə bağladı."
+      ],
+      "answer": "Bərdə əhalisi də xərac və cizyə vermək şərti ilə ərəblərlə müqavilə bağladı."
+    }
+  ],
+  "answers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

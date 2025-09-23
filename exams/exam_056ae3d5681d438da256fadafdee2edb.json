@@ -1,0 +1,462 @@
+{
+  "questions": [
+    {
+      "question": "Hacı  Çələbinin  Kartli və Kaxetiya  çarlarına qarşı mübarizəsində  hansı xanlıq və sultanlıqlar  ona kömək  etmişdi?",
+      "options": [
+        "Naxçıvan, Qazax, Gəncə, İrəvan, Urmiya",
+        "Naxçivan, Borçalı , Qazax, Urmiya, Qarabağ",
+        "Qaradağ , Borçalı, Qazax , Qarabağ, Gəncə",
+        "İrəvan, Naxçıvan , Qaradağ, Gəncə, Qazax",
+        "Qazax , Şəmşəddil, Borcalı, İrəvan, Gəncə"
+      ],
+      "answer": "Qazax , Şəmşəddil, Borcalı, İrəvan, Gəncə"
+    },
+    {
+      "question": "Uzun Həsən Teymuri  hökmdarı Əbu  Səidlə müharibə etmək  üçün ittifaqa  girdi:",
+      "options": [
+        "Osmanlı sultanı ilə",
+        "Cahanşahın  oğlu  Həsənəli  ilə",
+        "Trabzon Yunan  dövləti ilə",
+        "Teymuri şahzadəsi Məhəmməd  Yadigarla",
+        "Şirvanşah  Fərrux  Yasar  və Ərdəbil  hökmdarı Şeyx Heydərlə"
+      ],
+      "answer": "Şirvanşah  Fərrux  Yasar  və Ərdəbil  hökmdarı Şeyx Heydərlə"
+    },
+    {
+      "question": "Ağqoyunlu hökmdarı Uzun Həsənin Gürcüstana hücumunun səbəbi:",
+      "options": [
+        "Ağqoyunlu  dövləti daxilində siyasi sabitliyin pozulmasında gürcülərin  rol oynaması",
+        "Ağqoyunlu  hökmdarına qarşı Uğurlu Məhəmmədin qiyamına gürcülərin dəstək  verməsi",
+        "Şirvanşahlarla Gürcü knyazlarının  Ağqoyunlara qarşı birləşməsi",
+        "Gürcü knyazlarının Misirlə  ittifaqa girməsi",
+        "Gürcü knyazlarının Ağqoyunlu hökmdarına Türkiyyəyə  qarşı mübarizədə dəstək  verməməsi"
+      ],
+      "answer": "Gürcü knyazlarının Ağqoyunlu hökmdarına Türkiyyəyə  qarşı mübarizədə dəstək  verməməsi"
+    },
+    {
+      "question": "Azərbaycanın cənub bölgəsində milli dövlətçiliyə qarşı qaldırılmış qiyam yatırıldı:",
+      "options": [
+        "1995- ci ilin martında",
+        "1991- ci ilin avqustunda",
+        "1994- ci ilin aprelində",
+        "1989- cu ilin sentyabrında",
+        "1993- cü ilin iyununda"
+      ],
+      "answer": "1993- cü ilin iyununda"
+    },
+    {
+      "question": "IX əsrdə Müstəqil Şirvanşahlar dövlətini  yaratdı:",
+      "options": [
+        "Məhəmməd ibn Xalid",
+        "Məniçöhr ibn Yezid",
+        "əş Şəmax ibn Şüca",
+        "Əbu Tahir",
+        "Heysəm ibn Xalid"
+      ],
+      "answer": "Heysəm ibn Xalid"
+    },
+    {
+      "question": "Dünya azərbaycanlılarının həmrəylik gününün qeyd olunması haqqında qərar qəbul olundu:",
+      "options": [
+        "1993- cü il fevralın 25- də",
+        "1988- ci il noyabrın 3- də",
+        "1992- ci il sentyabrın 15- də",
+        "1989- cu il fevralın 12- də",
+        "1991- ci il dekabrın 25- də"
+      ],
+      "answer": "1991- ci il dekabrın 25- də"
+    },
+    {
+      "question": "Hökmdar şəhəri haqqında məlumat verməsi",
+      "options": [
+        "1,4",
+        "2,3",
+        "3,4",
+        "1,3",
+        "1,2"
+      ],
+      "answer": "1,2"
+    },
+    {
+      "question": "1846-cı il 6 dekabr reskriptinə görə:",
+      "options": [
+        "Hər bir kəndliyə 5 desyatin torpaq payıın verildi",
+        "Təhkimçiliyin ləğvi",
+        "Dövlət kəndlilər vergilərdən azad edildi",
+        "Sahibkar kəndlilər vergilərdən azad edildi",
+        "Bəy və ağaların torpaq üzərində xüsusi mülkiyyət hüququ təsdiq edildi"
+      ],
+      "answer": "Bəy və ağaların torpaq üzərində xüsusi mülkiyyət hüququ təsdiq edildi"
+    },
+    {
+      "question": "Qaraqoyunluların Şirvanşahlara  düşmən  münasibəti hansı  hökmdarın dövründə dəyişdi:",
+      "options": [
+        "Həsənəlinin",
+        "İsfəndiyarın",
+        "Qara  Yusifin",
+        "İskəndərin",
+        "Cahanşahın"
+      ],
+      "answer": "Cahanşahın"
+    },
+    {
+      "question": "Cəlari Sultan Əhmədlə qohumluq əlaqəsi yaratmışdı",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "“Difai” partiyasının  şöbələrinin ən böyüyü harada yerləşirdi?",
+      "options": [
+        "Gəncədə",
+        "Naxçıvanda",
+        "İrəvanda",
+        "Bakıda",
+        "Şuşada"
+      ],
+      "answer": "Şuşada"
+    },
+    {
+      "question": "IX əsrdə Dərbənddən Kür çayınadək Xəzər dənizi sahillərindəki Azərbaycan torpaqlarını əhatə edirdi",
+      "options": [
+        "Rəvvadilər",
+        "Salarilər",
+        "Şəddadilər",
+        "Sacilər",
+        "Şirvanşahlar"
+      ],
+      "answer": "Şirvanşahlar"
+    },
+    {
+      "question": "XII əsr Azərbaycan elminin nümayəndələri:",
+      "options": [
+        "Zülfüqar Şirvani, Məhəmməd Naxçıvani, Mahmud İbn Maqsud",
+        "Zeynəlabdin Şirvani, Nizam Təbrizi, Hacı Əlişah Təbrizi",
+        "Mahmud Şəbüstəri, Mahmud İbn İlyas, Əbdülqadir Marağayi",
+        "Übeyd Təbrizi, Əbdülmömin Təbrizi, Zülfüqar Şirvani",
+        "Fazil Fəridəddin Şirvani, Bəhmənyar ibn Mərzban, Əbu Zəkəriyyə, Əbu Mənsur"
+      ],
+      "answer": "Fazil Fəridəddin Şirvani, Bəhmənyar ibn Mərzban, Əbu Zəkəriyyə, Əbu Mənsur"
+    },
+    {
+      "question": "XI əsrin 60-cı illərinin əvvəllərində Şirvanda, Təbrizdə, Salmasda, Xoyda xalq kütlələrinin feodal zülmünə qarşı baş vermiş çıxışlarının səbəbi nə idi?",
+      "options": [
+        "Gürcülərin işğalçı yürüşləri",
+        "Slavyanların işğalçı yürüşləri",
+        "Səlcuqların yürüşləri",
+        "Səlcuqların Şirvanşahlar dövlətini özlərinə tabe etməsi",
+        "Xəracın məbləği və toplanma qaydası"
+      ],
+      "answer": "Xəracın məbləği və toplanma qaydası"
+    },
+    {
+      "question": "Şah I İsmayılın diplomatik münasibətlər yaratmağa can atdığı ilk Avropa dövləti:",
+      "options": [
+        "Avstriya",
+        "Almaniya",
+        "Fransa",
+        "Polşa",
+        "Venesiya"
+      ],
+      "answer": "Venesiya"
+    },
+    {
+      "question": "Azərbaycan və Təbriz uğrunda mübarizəyə qoşulmuşdu",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Ön Qafqaz quberniyaları:Yelizavetpol, Bakı, İrəvan və qismən Tiflis quberniyaları ali müsəlman silkindən olan şəxslərin, habelə erməni məliklərinin torpaqlarında sakin olan  dövlət kəndlilərinin torpaq quruluşu haqqında  “Əsasnamə” nin qəbulundan neçə il sonra “Əkinçi” qəzetinin nəşrinə başlandı?",
+      "options": [
+        "14 il",
+        "9 il",
+        "17 il",
+        "38 il",
+        "5 il"
+      ],
+      "answer": "5 il"
+    },
+    {
+      "question": "Quba xanı Fətəli xanın cənub xanlıqlarında möhkəmlənə bilməməsinin əsas səbəbləri:",
+      "options": [
+        "Dağıstan feodallarının birləşmiş quvvələrinin Dərbəndi ələ keçirməsi",
+        "Qarabağ xanlığının Quba üzərinə yürüşü",
+        "Cənub xanlıqlarının güclü müdafiə olunması",
+        "Şimal – şərqi Azərbaycanda vəziyyətin qeyri – sabit olması",
+        "Dağıstan feodallarının arxadan onu hədələməsi və Rusiyanın narazılığı"
+      ],
+      "answer": "Dağıstan feodallarının arxadan onu hədələməsi və Rusiyanın narazılığı"
+    },
+    {
+      "question": "Quba xanı Fətəli xanın Qarabağa hücumu neçənci ildə həyata keçirilmişdi?",
+      "options": [
+        "1774  - 1775",
+        "1772  - 1774",
+        "1783  - 1784",
+        "1784 – 1785",
+        "1780 – 1781"
+      ],
+      "answer": "1780 – 1781"
+    },
+    {
+      "question": "Şah I Abbasın islahatlarına aiddir:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "XX əsrin əvvəllərində Qaçaq Süleyman Ağahüseynoğlu mövcud quruluşa qarşı mübarizə aparırdı?",
+      "options": [
+        "Gəncə , Bakı qəzalarında",
+        "Nuxa, Şamaxı qəzalarında",
+        "Lənkəran, Şuşa qəzalarında",
+        "Qazax, Cavanşir qəzalarında",
+        "Cəbrayıl- Qaryagin, Şuşa qəzalarında"
+      ],
+      "answer": "Cəbrayıl- Qaryagin, Şuşa qəzalarında"
+    },
+    {
+      "question": "Qaraqoyunlu bəyliyini möhkəmləndirmişdi",
+      "options": [
+        "1,4,5",
+        "2,3,4",
+        "3,4,5",
+        "1,2,3",
+        "1,3,5"
+      ],
+      "answer": "1,3,5"
+    },
+    {
+      "question": "Aşağıda göstərilənlərin  Məzyədilər sülaləsinin hansı nümayəndəsinə aid olduğunu müəyyən edin:1)Xilafətdə bir sıra hərbi-inzibati vəzifələr icra etmiş 2)Ərməniyə və Azərbaycanda xilafətin valisi olmuşdur 3)Bərdədə vəfat etmişdir.",
+      "options": [
+        "Əsəd ibn Məziyəd.",
+        "Məhəmməd ibn Yəzid.",
+        "Heysəm ibn Xalid.",
+        "Xalid ibn Məziyəd.",
+        "Yəzid ibn Məziyəd."
+      ],
+      "answer": "Yəzid ibn Məziyəd."
+    },
+    {
+      "question": "Quba xanı Fətəli xanın “nigah diplomatiyasından” istifadə edərək işğal etdiyi xanlıq necə adlanır?",
+      "options": [
+        "Şamaxı",
+        "Gəncə",
+        "Şəki",
+        "Qarabağ",
+        "Bakı"
+      ],
+      "answer": "Bakı"
+    },
+    {
+      "question": "SSRİ  konstitusiyasının 6- cı maddəsi  ləğv  edildi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "1905- ci ilin yazında Azərbaycanın  liberal  ziyalılarının Rusiya  hökumətinə təqdim  etdiyi  petisiyada xüsusi yer ayrılmışdı:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Skit padşahlığı yerləşirdi:",
+      "options": [
+        "Urmiya gölü və Mesopotomiya arasında",
+        "Mannanın mərkəzi torpaqlarında",
+        "Fars ərazisi və Ekbatana ətrafında",
+        "Midiya və Manna arasında",
+        "Urmiya  gölünün şimal və qərb hissəsində ,Manna və Urartu arasında"
+      ],
+      "answer": "Urmiya  gölünün şimal və qərb hissəsində ,Manna və Urartu arasında"
+    },
+    {
+      "question": "1902 – ci ildə Məhəmməd Əmin Rəsulzadənin rəhbərliyi ilə yaradılmışdı?",
+      "options": [
+        "Difai partiyası",
+        "Müdafiə təşkilatı",
+        "Hümmət partiyası",
+        "Qeyrət partiyası",
+        "Müsəlman gənclik təşkilatı"
+      ],
+      "answer": "Müsəlman gənclik təşkilatı"
+    },
+    {
+      "question": "Bağlanmış müqaviləyə əsasən hər il Rusiya xəzinəsinə 8 min çervon xərac verməyi öz öhdəsinə götürən xanlığı müəyyən edin:",
+      "options": [
+        "Quba xanlığı",
+        "Şirvan xanlığı",
+        "Bakı xanlığı",
+        "Şəki xanlığı",
+        "Qarabağ xanlığı"
+      ],
+      "answer": "Qarabağ xanlığı"
+    },
+    {
+      "question": "2023- cü ilin  19-20 sentyabrında  keçirilən antiterror  əməliyyatlarının nəticəsi nədən ibarət oldu:",
+      "options": [
+        "Laçın və Kəlbəcər rayonları erməni işğalçılarından azad edildi",
+        "Avropa İttifaqının  beynəlxalq missiyası Qarabağ bölgəsinə yerləşdirildi",
+        "Rusiya sülhməramlıları bölgədən çıxarıldı",
+        "Qarabağda məskunlaşan ermənilərə mədəni muxtariyyət verildi",
+        "Qarabağda qondarma separatçı -terrorçu rejim ləğv edildi"
+      ],
+      "answer": "Qarabağda qondarma separatçı -terrorçu rejim ləğv edildi"
+    },
+    {
+      "question": "Ordunun formalaşması tayfa prinsipi əsasında aparıldı",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "1768-ci ildə Quba xanlığına birləşdirildi?",
+      "options": [
+        "Bakı xanlığı",
+        "Dərbənd xanlığı",
+        "Talış xanlığı",
+        "Şəki xanlığı",
+        "Cavad xanlığı"
+      ],
+      "answer": "Cavad xanlığı"
+    },
+    {
+      "question": "Ağqoyunlu  tayfalarının geniş yayıldığı ərazilər  hesab  edilirdi:",
+      "options": [
+        "Şimali Qafqaz , Xəzərin qərb  sahilləri, Göycə  gölü  ətrafı",
+        "Şimali və  Cənubi  Azərbaycan, Cənubi  Qafqaz",
+        "Anadolunun  qərb  əraziləri , Gürcüstanın  şərq   vilayətləri , İran",
+        "Kür və Araz  çayları arasındakı ərazilər, Van gölü  ətrafı, Azərbaycanın   şimal  rayonları",
+        "Azərbaycanın cənub rayonları, Şərqi Anadolu,Qərbi İran , Dəclə və Fərat çayları vadiləri"
+      ],
+      "answer": "Azərbaycanın cənub rayonları, Şərqi Anadolu,Qərbi İran , Dəclə və Fərat çayları vadiləri"
+    },
+    {
+      "question": "Baysunqurla Rüstəm Mirzə arasında baş vermiş Bərdə döyüşünün nəticəsi:",
+      "options": [
+        "Əlvənd  Mirzə  vəziyyətdən  istifadə edərək Ərəb  İraqını ələ  keçirdi",
+        "Gödək  Əhməd  Ağqoyunlu  dövlətində üstün  mövqe  qazandı",
+        "Hakimiyyəti  sultan  Murad  ələ  keçirdi",
+        "Ağqoyunlu  dövləti əmirlər  arasında  ikiyə  bölündü",
+        "Döyüş  Rüstəm  Mirzənin qələbəsi ilə sona  çatdı"
+      ],
+      "answer": "Döyüş  Rüstəm  Mirzənin qələbəsi ilə sona  çatdı"
+    },
+    {
+      "question": "1548-ci il yürüşündə I Süleymanı müşayət edirdi:",
+      "options": [
+        "Alqas Mirzə, İsmayıl Mirzə",
+        "Ülamə bəy, İsmayıl Mirzə",
+        "Əlqas Mirzə",
+        "Ülamə bəy",
+        "Əlqas Mirzə, Ülamə bəy"
+      ],
+      "answer": "Əlqas Mirzə, Ülamə bəy"
+    },
+    {
+      "question": "Atropatena və Albaniyada  ellin- yunan mədəniyyəti yayılmışdır:",
+      "options": [
+        "Əhəminilər dövlətinin dövründə",
+        "Eramızın ilk əsrlərində",
+        "Antoninin Şərqə yürüşü nəticəsində",
+        "Midiyanın tərkibində olarkən",
+        "İskəndərin Şərqə  yürüşü nəticəsində"
+      ],
+      "answer": "İskəndərin Şərqə  yürüşü nəticəsində"
+    },
+    {
+      "question": "Birinci dünya müharibəsi ərəfəsində  Azərbaycan neftini ələ keçirmək uğrunda mübarizə aparan dövlətlər ?",
+      "options": [
+        "Hollandiya, İsveç, Norveç",
+        "İngiltərə, Portuqaliya, İspaniya",
+        "Amerika, Fransa, Rusiya",
+        "Rusiya, İsveç, Almaniya",
+        "İngiltərə, Fransa, Almaniya"
+      ],
+      "answer": "İngiltərə, Fransa, Almaniya"
+    },
+    {
+      "question": "Cavad xanlığı neçənci ildə Quba xanlığı tərəfindən təşkil olunan Şimal – şərqi Azərbaycan ərazisinə daxil edildi?",
+      "options": [
+        "1756- cı ildə",
+        "1769- cu ildə",
+        "1785- ci ildə",
+        "1767- ci ildə",
+        "1768 - ci ildə"
+      ],
+      "answer": "1768 - ci ildə"
+    }
+  ],
+  "answers": [
+    "Qaradağ , Borçalı, Qazax , Qarabağ, Gəncə",
+    "Trabzon Yunan  dövləti ilə",
+    "Şirvanşahlarla Gürcü knyazlarının  Ağqoyunlara qarşı birləşməsi",
+    "1994- ci ilin aprelində",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

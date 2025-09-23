@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quiz for Unec</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <h1>Quiz for Unec</h1>
+      <div class="subtitle">Upload PDF → Start Exam</div>
+    </header>
+
+    <div class="app-body">
+
+      {# Flash messages #}
+      {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+          <div class="flash-messages" style="margin:12px 0;">
+            {% for cat, msg in messages %}
+              <div class="flash {{ cat }}" style="padding:10px;border-radius:8px;margin-bottom:8px;">
+                {{ msg }}
+              </div>
+            {% endfor %}
+          </div>
+        {% endif %}
+      {% endwith %}
+
+      {# UPLOAD SECTION #}
+      {% if page != "exam" and page != "result" %}
+      <section class="section upload-section">
+        <h3 style="margin-bottom:8px;color:#001B3A">Upload PDF</h3>
+        <form id="uploadForm" method="post" action="{{ url_for('upload') }}" enctype="multipart/form-data" style="display:flex;gap:12px;align-items:center;">
+          <input id="pdfFileInput" name="pdf_file" type="file" accept=".pdf" style="display:none" />
+          <button id="uploadBtn" type="button" class="primary-btn">Upload PDF</button>
+          <span id="fileName" style="color:#334; font-size:0.95rem;">No file chosen</span>
+        </form>
+        <small style="display:block;margin-top:10px;color:#556">Tip: click "Upload PDF", choose a PDF file — it will be uploaded automatically.</small>
+      </section>
+      {% endif %}
+
+      {# HOME SECTION #}
+      {% if page == "home" %}
+      <section class="section">
+        <form method="post" action="{{ url_for('index') }}" class="start-form">
+          <div class="range-row">
+            <label>from
+              <input type="number" name="min_question" class="small-input" value="1" min="1" max="{{ available }}">
+            </label>
+            <label>to
+              <input type="number" name="max_question" class="small-input" placeholder="max question number" min="1" max="{{ available }}">
+            </label>
+          </div>
+
+          <label class="count-row">
+            How many questions:
+            <input type="number" name="num_questions" class="count-input" value="10" min="1" max="{{ available }}">
+          </label>
+
+          <div class="start-row">
+            <button id="start" type="submit" class="primary-btn start-btn">Start</button>
+            <p class="avail-note">Available questions: {{ available }}</p>
+          </div>
+        </form>
+      </section>
+
+      <section class="section">
+        <h3 style="margin-bottom:8px;color:#001B3A">Archive</h3>
+        {% if archive and archive|length > 0 %}
+          <div class="archive-list">
+            {% for item in archive %}
+              <div class="archive-item">
+                <div class="archive-meta">
+                  <div class="archive-name">{{ item.original_filename }}</div>
+                  <div class="archive-sub">{{ item.num_questions or 0 }} question(s)</div>
+                </div>
+                <div class="archive-actions">
+                  <a class="secondary-btn" href="{{ url_for('select_pdf') }}?hash={{ item.hash }}">Use</a>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        {% else %}
+          <div class="small">No PDFs in archive yet. Upload one above.</div>
+        {% endif %}
+      </section>
+
+      {% if current_pdf_url %}
+      <section class="section">
+        <h3 style="margin-bottom:8px;color:#001B3A">Current PDF</h3>
+        <div class="pdf-viewer">
+          <iframe src="{{ current_pdf_url }}#toolbar=1&navpanes=0" title="PDF viewer" class="pdf-frame"></iframe>
+        </div>
+      </section>
+      {% endif %}
+      {% endif %}
+
+      {# EXAM SECTION #}
+      {% if page == "exam" %}
+      <section class="section exam-section">
+        <div class="question-header">
+          <h2>{{ question.question }}</h2>
+          <div class="progress">Question {{ q_index + 1 }} / {{ total }}</div>
+        </div>
+
+        <form method="post" action="{{ url_for('exam') }}" class="answer-form">
+          <input type="hidden" name="q_index" value="{{ q_index }}">
+          <div class="options-list">
+            {% for opt in question.display_options %}
+            <label class="option-label {% if current_answer == opt %}selected{% endif %}">
+              <input type="radio" name="answer" value="{{ opt }}" {% if current_answer == opt %}checked{% endif %} required>
+              <span class="option-text">{{ opt }}</span>
+            </label>
+            {% endfor %}
+          </div>
+
+          <div class="reveal-row">
+            <button type="button" id="revealBtn" class="secondary-btn">Show answer</button>
+            <div id="answerHint" class="answer-hint" style="display:none;">
+              Correct answer: <strong>{{ question.answer }}</strong>
+            </div>
+          </div>
+
+          <div class="nav-row" style="margin-top:14px;">
+            {% if q_index > 0 %}
+            <a href="{{ url_for('exam') }}?q_index={{ q_index - 1 }}" class="secondary-btn">Back</a>
+            {% endif %}
+            <button id="nextBtn" type="submit" class="primary-btn next-btn">{{ "Finish" if q_index+1 == total else "Next" }}</button>
+          </div>
+        </form>
+        <script>
+          const revealBtn = document.getElementById("revealBtn");
+          const hint = document.getElementById("answerHint");
+          if (revealBtn && hint) {
+            revealBtn.addEventListener("click", () => {
+              const showing = hint.style.display !== "none";
+              hint.style.display = showing ? "none" : "block";
+              revealBtn.textContent = showing ? "Show answer" : "Hide answer";
+            });
+          }
+        </script>
+      </section>
+      {% endif %}
+
+      {# RESULT SECTION #}
+      {% if page == "result" %}
+      <section class="section result-section">
+        <h2>Exam Finished!</h2>
+
+        <div class="result-overview">
+          <h3>Questions Overview (click to expand)</h3>
+          <div class="result-grid">
+            {% for stat in status_list %}
+            <div class="result-box {{ stat }}" data-q="{{ loop.index0 }}">
+              {{ loop.index }}
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+
+        <p class="score">Your Score: <strong>{{ score }}</strong> / {{ total }}</p>
+
+        <div id="details-container" class="detailed-results" style="display:none;">
+          {% for d in detailed %}
+          <div class="question-card {{ d.status }}" data-detail="{{ loop.index0 }}" style="display:none;">
+            <div class="question-card-header">
+              <span>Q{{ d.orig_index or loop.index }}:</span>
+              <span class="question-text">{{ d.question }}</span>
+            </div>
+            <div class="question-card-body">
+              {% for opt in d.options %}
+                <div class="option-text
+                  {% if opt == d.correct_answer %} correct-answer
+                  {% elif opt == d.your_answer and opt != d.correct_answer %} your-answer
+                  {% endif %}">
+                  <strong>{{ letters[loop.index0] }}.</strong> {{ opt }}
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+
+        <div class="result-actions" style="margin-top:14px;">
+          <a href="{{ url_for('index') }}" class="primary-btn">Take again</a>
+          <a href="{{ url_for('download_results') }}" class="secondary-btn" style="margin-left:8px;">Download results</a>
+        </div>
+      </section>
+
+      <script>
+        // Toggle details when clicking a box
+        document.querySelectorAll(".result-box").forEach(box => {
+          box.addEventListener("click", () => {
+            const qIndex = box.getAttribute("data-q");
+            document.querySelectorAll(".question-card").forEach(card => {
+              card.style.display = (card.getAttribute("data-detail") === qIndex)
+                ? "block" : "none";
+            });
+            document.getElementById("details-container").style.display = "block";
+          });
+        });
+      </script>
+      {% endif %}
+
+    </div>
+  </div>
+
+  <script>
+    // Upload button wiring
+    const uploadBtn = document.getElementById("uploadBtn");
+    const fileInput = document.getElementById("pdfFileInput");
+    const fileNameSpan = document.getElementById("fileName");
+    const uploadForm = document.getElementById("uploadForm");
+
+    if (uploadBtn && fileInput) {
+      uploadBtn.addEventListener("click", () => fileInput.click());
+      fileInput.addEventListener("change", () => {
+        if (fileInput.files.length > 0) {
+          fileNameSpan.textContent = fileInput.files[0].name;
+          // auto submit the form to upload the PDF
+          uploadForm.submit();
+        } else {
+          fileNameSpan.textContent = "No file chosen";
+        }
+      });
+    }
+  </script>
+
+</body>
+</html>

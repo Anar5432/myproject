@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "II Dunya müharibəsi illərində Azərbaycanda sənaye malları satışı üzrə kartoçka sistemi tətbiq edildi:",
+      "options": [
+        "1941-cı ilin sentyabrında",
+        "1943-cü ilin mayında",
+        "1940-cı ilin martında",
+        "1939-cu ilin sentyabrında",
+        "1942-cı ilin aprelində"
+      ],
+      "answer": "1942-cı ilin aprelində"
+    },
+    {
+      "question": "II Dünya müharibəsi zamanı Berlində Milli Azərbaycan komitəsi təşkil olundu:",
+      "options": [
+        "1940-cı ilin baharında",
+        "1944-cü ilin fevralında",
+        "1941-ci ilin sentyabrında",
+        "1942-ci ilin fevralında",
+        "1943-cü ilin baharında"
+      ],
+      "answer": "1943-cü ilin baharında"
+    },
+    {
+      "question": "Səfəvi dövlətinin Portuqaliya ilə münasibətlərinin gərginləşməsinin səbəbi:",
+      "options": [
+        "Osmanlı imperatorluğu ilə müharibədə Portuqaliyanın iştirak etməməsi",
+        "Portuqaliyalı rahiblərin Səfəvi dövləti ərazisində missionerlik fəaliyyəti ilə məşğul olması",
+        "Portuqaliyanın Osmanlı dövləti ilə sazişə girməsi",
+        "Portuqaliyanın odlu silah hazırlamaq üçün Səfəvi dövlətinə mütəxəssislər göndərməməsi",
+        "Portuqaliyanın Hörmüzü ələ keçirərək Səfəvilərin Hind okeanına çıxışını kəsməsi"
+      ],
+      "answer": "Portuqaliyanın Hörmüzü ələ keçirərək Səfəvilərin Hind okeanına çıxışını kəsməsi"
+    },
+    {
+      "question": "1755 – ci ildə Hacı Çələbi Şirvana hücumu  zamanı hansı xanlıqların birləşmiş qüvvələrinə məglub oldu?",
+      "options": [
+        "Gəncə və Şamaxı",
+        "Qarabag və Gəncə",
+        "Quba və Qarabağ",
+        "Şamaxı və Ərdəbil",
+        "Şamaxı  və Quba"
+      ],
+      "answer": "Şamaxı  və Quba"
+    },
+    {
+      "question": "Təbriz miniatür məktəbinin görkəmli nümayəndələrini göstərin? 1. Sultan Məhəmməd 2. Kəmaləddin Behzad 3. Əbdulqadir Marağayi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Monqollar Azərbaycanın işğalını başa çatdırdı:",
+      "options": [
+        "Marağanın tutlması ilə",
+        "Şamaxının tutulması ilə",
+        "Bakının tutulması ilə",
+        "Təbrizin tutulması ilə",
+        "Dərbəndin tutulması ilə"
+      ],
+      "answer": "Dərbəndin tutulması ilə"
+    },
+    {
+      "question": "Atabəylər dövləti süqut etdi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Salari hökmdarı Mərzubanın oğlu İbrahimin dövrünə aiddir:",
+      "options": [
+        "Dövlətin ərazisi Dərbənddən Zəncana qədər olan ərazini əhatə edirdi.",
+        "Şirvanşahlar dövləti qısa müddətdə olsa da Salarilərə tabe edildi.",
+        "Dəbil əmirliyi Şəddadilər tərəfindən zəbt edildi.",
+        "“Qanunnamə” yazdırdı",
+        "Dövlətin varlığına son qoyuldu"
+      ],
+      "answer": "Dövlətin varlığına son qoyuldu"
+    },
+    {
+      "question": "Şeyx Heydər Ağqoyunlu Yaqub padşahla razılığa gəldikdən sonra Dağıstana və Şirvana yürüş etdi:",
+      "options": [
+        "1477-ci ildə",
+        "1490-cı ildə",
+        "1460-cı ildə",
+        "1494-cü ildə",
+        "1483-cü ildə"
+      ],
+      "answer": "1483-cü ildə"
+    },
+    {
+      "question": "Albaniyada Mehranilər sülaləsinin hakimiyyətinə son qoyuldu:",
+      "options": [
+        "650-ci ildə",
+        "530- cu ildə",
+        "681- ci ildə",
+        "816- cı ildə",
+        "705-ci ildə"
+      ],
+      "answer": "705-ci ildə"
+    }
+  ],
+  "answers": [
+    "1941-cı ilin sentyabrında",
+    "1944-cü ilin fevralında",
+    "Portuqaliyalı rahiblərin Səfəvi dövləti ərazisində missionerlik fəaliyyəti ilə məşğul olması",
+    "Qarabag və Gəncə",
+    "Option 2 (auto-added)",
+    "Şamaxının tutulması ilə",
+    "Option 2 (auto-added)",
+    "Şirvanşahlar dövləti qısa müddətdə olsa da Salarilərə tabe edildi.",
+    "1490-cı ildə",
+    "530- cu ildə"
+  ]
+}

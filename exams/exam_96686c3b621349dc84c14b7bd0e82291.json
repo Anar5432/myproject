@@ -1,0 +1,1206 @@
+{
+  "questions": [
+    {
+      "question": "I Pyotrun yürüşü ilə bağlı hadisələrin xronoloji ardıcıllığını müəyyən edin: 1.Bakının ruslar tərəfindən işğalı 2. I Pyotrun Azərbaycan torpaqlarına yürüşünün başlanması 3.Rus qoşunlarının Dərbəndi işğal etməsi",
+      "options": [
+        "1, 3, 2",
+        "3, 2, 1",
+        "1, 2, 3",
+        "2, 1, 3",
+        "2, 3, 1"
+      ],
+      "answer": "2, 3, 1"
+    },
+    {
+      "question": "1421- ci ildə baş vermiş Alaşkerd döyüşü nəticələnmişdi:",
+      "options": [
+        "Döyüş Teymuri qüvvələrinin dağıdılması və yalnız Qarabağ ərazisinin itirilməsi ilə sona çatmışdı",
+        "Qaraqoyunlular qalib gəlmiş və Herata qədər əraziləri ələ keçirmişdilər",
+        "Teymuri Şahrux məğlub olmuş və qoşunlarını  Azərbaycandan çəkmişdi",
+        "Qaraqoyunlular  Şirvanşahlara  kömək etmiş , lakin döyüş hər iki tərəf üçün nəticəsiz bitmişdi",
+        "Qaraqoyunlular məğlub olmuş və Şahruxun  ali  hakimiyyətini tanımışdı"
+      ],
+      "answer": "Qaraqoyunlular məğlub olmuş və Şahruxun  ali  hakimiyyətini tanımışdı"
+    },
+    {
+      "question": "Azərbaycan Respublikası Ali Sovetinin qərarı ilə Dağlıq Qarabağ  Muxtar  Vilayətinin  statusu ləğv edildi:",
+      "options": [
+        "1988- ci il yanvarın 26- da",
+        "1990- cı il mayın 27- də",
+        "1989- cu il avqustun 5- də",
+        "1992- ci il oktyabrın 5- də",
+        "1991- ci il noyabrın 26- da"
+      ],
+      "answer": "1991- ci il noyabrın 26- da"
+    },
+    {
+      "question": "1955-1959-cu illərdə Musavat partiyasının  rəhbəri olmuşdur:",
+      "options": [
+        "Mirzə Əbdürrəhim Talıbov",
+        "Sultan Məcid Qənizadə",
+        "İsmayıl Şıxlı",
+        "İsrafil Axundov",
+        "Mirzə Bala Məmmədzadə"
+      ],
+      "answer": "Mirzə Bala Məmmədzadə"
+    },
+    {
+      "question": "\"İstiqlaliyyət Bəyannamə\" sinə əsasən AXC- də ali hakimiyyət  məxsus idi:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "1492- ci ildə baş vermiş Bərdə döyüşünün nəticəsi :",
+      "options": [
+        "Baysanqur qalib gələrək Ağqoyunlu taxtını ələ keçirdi",
+        "Yaqub Mirzə taxt- tac üzərində  mübarizədə qələbə qazandı",
+        "Ağqoyunlu Rüstəm padşah məğlub olaraq mübarizəni dayandırdı",
+        "Rüstəm Mirzə Baysanqurla birlikdə Əhməd padşahı məğlub etdi",
+        "Rüstəm padşah Baysanquru məğlub edərək hakimiyyəti ələ aldı"
+      ],
+      "answer": "Rüstəm padşah Baysanquru məğlub edərək hakimiyyəti ələ aldı"
+    },
+    {
+      "question": "Yeni neft quyularının qazılması prosesi gücləndi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "III Dövlət Dumasına  Azərbaycandan  deputat  seçilmişdi:",
+      "options": [
+        "H.Hüseynbəyov",
+        "B. Vəkilov",
+        "M.Ə.Rəsulzadə",
+        "N.Vəzirov",
+        "X.Xasməmmədov"
+      ],
+      "answer": "X.Xasməmmədov"
+    },
+    {
+      "question": "Sultan I Süleymanın Səfəvilərə qarşı birinci yürüşü nəticəsində:",
+      "options": [
+        "İraq-i Əcəm Osmanlı imperiyasının tərkibinə daxil oldu",
+        "Azərbaycanın cənub vilayətləri Osmanlı dövlətinə birləşdirildi",
+        "Xorasan Osmanlı imperiyası ilə Şeybanilər arasında bölüşdürüldü",
+        "İrəvan və Naxçıvan bölgələri Səfəvilər dövlətindən ayrıldı",
+        "İraq-i Ərəb Osmanlı imperiyasının tərkibinə daxil oldu"
+      ],
+      "answer": "İraq-i Ərəb Osmanlı imperiyasının tərkibinə daxil oldu"
+    },
+    {
+      "question": "Şimali Azərbaycanda komendatlara aiddir:",
+      "options": [
+        "Ölüm hökmü verə bilərdilər",
+        "Əyalət və dairələri idarə edə bilməzdilər",
+        "Quberniyaları idarə edirdilər",
+        "Duma tərəfindən seçilirdilər",
+        "Yerlərdə mütləq hakim hesab olunurdular"
+      ],
+      "answer": "Yerlərdə mütləq hakim hesab olunurdular"
+    },
+    {
+      "question": "XIX əsrin əvvəllərində Azərbaycan bəylərinin irsi mülkiyyətində olan torpaqlar adlanırdı:",
+      "options": [
+        "Soyurqal",
+        "İqta",
+        "Xırda məlik",
+        "Vəqf",
+        "Mülk"
+      ],
+      "answer": "Mülk"
+    },
+    {
+      "question": "Mücahidlər qalib gəldilər",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Səfəvi dövlətinin İngiltərə ilə əlaqələrinin təşəkkül tapmasında mühüm rol oynadı:",
+      "options": [
+        "xristian rahiblər",
+        "səyyahlar",
+        "Hind  tacirləri",
+        "Masonlar",
+        "“Moskva şirkəti”"
+      ],
+      "answer": "“Moskva şirkəti”"
+    },
+    {
+      "question": "Azərbaycan tarixi hansı qaynaqlar - mənbələr əsasında öyrənilir?",
+      "options": [
+        "fauna və flora qalıqları",
+        "qədim yaşayış yerləri və qəbir abidələri",
+        "qəbir abidələri, qayaüstü abidələr və yazılı abidələr",
+        "heyvan və bitki qalıqları, qayaüstü rəsmlər, qəbir abidələri, yaşayış yerləri",
+        "arxeoloji və yazılı abidələr"
+      ],
+      "answer": "arxeoloji və yazılı abidələr"
+    },
+    {
+      "question": "AXC-nin 1918 - ci ilin iyunu və 1920- ci il martı tarixi üçün oxşar  cəhət:",
+      "options": [
+        "Sovet Rusiyasına  nota  göndərilməsi",
+        "Milli Şuranın fəaliyyətinin dayandırılması",
+        "Yeni hökumətin təşkil olunması",
+        "Yeni Nazirliyin yaradılması",
+        "Hökumət böhranı  baş  verməsi"
+      ],
+      "answer": "Hökumət böhranı  baş  verməsi"
+    },
+    {
+      "question": "Azərbaycan  Kommunist  partiyasının tərkibində olan ermənilər çıxarılmalı idi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Haqsızlığa intiharla cavab verən azərbaycanlı alim:",
+      "options": [
+        "M.Dadaşzadə",
+        "M.Rəfili",
+        "V.Vəkilov",
+        "S.Vəliyev",
+        "H.Hüseynov"
+      ],
+      "answer": "H.Hüseynov"
+    },
+    {
+      "question": "Assuriya ilə ənənəvi ittifaqı pozmuş Manna hökmdarı idi:",
+      "options": [
+        "İranzu",
+        "Aza",
+        "Ualli",
+        "Udaki",
+        "Ahşeri"
+      ],
+      "answer": "Ahşeri"
+    },
+    {
+      "question": "Şah I Abbasın hərbi islahatı nəticəsində yaradılan nizami ordunun əsas zərbə qüvvəsi idi:",
+      "options": [
+        "tüfəngçilər",
+        "süvarilər",
+        "piyadalar",
+        "topçular",
+        "qulamlar"
+      ],
+      "answer": "qulamlar"
+    },
+    {
+      "question": "Birinci Dünya müharibəsi dövründə  Rusiyada hasil edilən  neftin necə faizi Şimali Azərbaycanın payına düşürdü?",
+      "options": [
+        "70 % - dən çoxu",
+        "40% - dən azı",
+        "85% - dən çoxu",
+        "50 % - dən qədəri",
+        "80 % -  dən çoxu"
+      ],
+      "answer": "80 % -  dən çoxu"
+    },
+    {
+      "question": "Azərbaycanda birinci böyük ictimai əmək bölgüsü baş verib?",
+      "options": [
+        "Antik dövrdə",
+        "Eneolit dövründə",
+        "Neolit dövründə",
+        "Erkən  orta əsrlərdə",
+        "Erkən Tunc dövründə"
+      ],
+      "answer": "Erkən Tunc dövründə"
+    },
+    {
+      "question": "Ermənistandan türk  müsəlman əhalini  köçürmək",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Azərbaycan və Təbriz uğrunda mübarizəyə qoşulmuşdu",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "2023- cü ilin  19-20 sentyabrında  keçirilən antiterror  əməliyyatlarının nəticəsi nədən ibarət oldu:",
+      "options": [
+        "Laçın və Kəlbəcər rayonları erməni işğalçılarından azad edildi",
+        "Avropa İttifaqının  beynəlxalq missiyası Qarabağ bölgəsinə yerləşdirildi",
+        "Rusiya sülhməramlıları bölgədən çıxarıldı",
+        "Qarabağda məskunlaşan ermənilərə mədəni muxtariyyət verildi",
+        "Qarabağda qondarma separatçı -terrorçu rejim ləğv edildi"
+      ],
+      "answer": "Qarabağda qondarma separatçı -terrorçu rejim ləğv edildi"
+    },
+    {
+      "question": "I Pyotr tərəfindən işğal olunmuş ilk Azərbaycan şəhəri hansıdır?",
+      "options": [
+        "Şamaxı",
+        "Bakı",
+        "Təbriz",
+        "Salyan",
+        "Dərbənd"
+      ],
+      "answer": "Dərbənd"
+    },
+    {
+      "question": "Mərkəzi Van şəhəri olmaqla Qaraqoyunlu bəyliyini yaratmışdı:",
+      "options": [
+        "Əbu Səid",
+        "Cahanşah",
+        "Qara Yusif",
+        "Qara İskəndər",
+        "Qara Məhəmməd"
+      ],
+      "answer": "Qara Məhəmməd"
+    },
+    {
+      "question": "1905- ci ilin yazında Azərbaycanın  liberal  ziyalılarının Rusiya  hökumətinə təqdim  etdiyi  petisiyada xüsusi yer ayrılmışdı:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "1775- ci ildə Quba xanı Fətəli xanın Rusiya tabeliyinə keçməsi ilə bağlı təklifi niyə rədd edildi?",
+      "options": [
+        "Rusiyanın  Avropada başı bərk qarışmışdı",
+        "Rusiya bu dövrdə Cənubi Dağıstanın işğalı ilə məşğul idi",
+        "Rusiyada daxili vəziyyət  sabit  deyildi",
+        "Rusiya yalnız Qubanı deyil, Cənubi Qafqazı tamamilə ələ keçirməyə çalışırdı",
+        "Rusiya Türkiyə ilə bağladığı Kiçik Qaynarça sülhünü pozmaq istəmirdi"
+      ],
+      "answer": "Rusiya Türkiyə ilə bağladığı Kiçik Qaynarça sülhünü pozmaq istəmirdi"
+    },
+    {
+      "question": "Eramızın 20- ci ilində Atropatena hansı dövlətin hakimiyyəti altına düşdü:",
+      "options": [
+        "Romalıların",
+        "Selevkilərin",
+        "Yunanların",
+        "Midiyalıların",
+        "Parfiyanın"
+      ],
+      "answer": "Parfiyanın"
+    },
+    {
+      "question": "Məhəmmədhəsən xan Qacar neçənci ildə Qarabağa hücum  etmişdi?",
+      "options": [
+        "1780- ci ildə",
+        "1762- ci ildə",
+        "1763- cü ildə",
+        "1792- ci ildə",
+        "1751- ci ildə"
+      ],
+      "answer": "1751- ci ildə"
+    },
+    {
+      "question": "1936-cı ilin avqustunda Müsavat partiyasının konqresi keçirilmişdi:",
+      "options": [
+        "İstanbulda",
+        "Romada",
+        "Parisdə",
+        "Berlində",
+        "Varşavada"
+      ],
+      "answer": "Varşavada"
+    },
+    {
+      "question": "Bağlanmış müqaviləyə əsasən hər il Rusiya xəzinəsinə 8 min çervon xərac verməyi öz öhdəsinə götürən xanlığı müəyyən edin:",
+      "options": [
+        "Şəki xanlığı",
+        "Bakı xanlığı",
+        "Dərbənd xanlığı",
+        "Quba xanlığı",
+        "Qarabağ xanlığı"
+      ],
+      "answer": "Qarabağ xanlığı"
+    },
+    {
+      "question": "İlk dəfə “alban” adı qaynaqlarda işlədilməyə başlamışdır:",
+      "options": [
+        "e.ə.V əsrdə",
+        "e.ə.VIII əsrdə",
+        "II əsrdə",
+        "e.ə IV əsrdə",
+        "e.ə.I-e.I əsrdə"
+      ],
+      "answer": "e.ə.I-e.I əsrdə"
+    },
+    {
+      "question": "Azərbaycan  dilində ilk  qəzetin  nəşr olunması",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Azərbaycanda ərəb əsarətinə qarşı ilk üsyanlar başlanmışdı:",
+      "options": [
+        "881-885- ci illərdə",
+        "760-766- cı illərdə",
+        "892-895- ci illərdə",
+        "750-775- ci illərdə",
+        "748-752- ci illərdə"
+      ],
+      "answer": "748-752- ci illərdə"
+    },
+    {
+      "question": "1984-cü ildə İran hökümətinin rəsmi inzibati bölgüsünə əsasən  Cənubi Azərbaycan adlandırılmış ərazi əhatə edirdi:",
+      "options": [
+        "Rəşt, Həmədan , Mazandaran , Təbriz",
+        "Tehran ( Mərkəzi Azərbaycan ), Rəşt , Rey , Mazandaran",
+        "Zəncan, Rəşt , Marağa , Ərdəbil",
+        "Həmədan , Təbriz , Urmiya , Qəzvin",
+        "Şərqi Azərbaycan (Təbriz), Qərbi Azərbaycan (Urmiya) və Zəncan"
+      ],
+      "answer": "Şərqi Azərbaycan (Təbriz), Qərbi Azərbaycan (Urmiya) və Zəncan"
+    },
+    {
+      "question": "I Şah Abbasın hakimiyyətə gəldiyi sosial-siyasi şərait və beynəlxalq vəziyyətin səciyyəvi cəhətlərini göstərin.1.Daxildə Qızılbaş əmirləri arasında hakimiyyət uğrunda gərgin mübarizə gedirdi, Şərqdən Şeybanilər sıxışdırırdı.2.Osmanlı dövləti tərəfindən Azərbaycanın böyük hissəsi ələ keçirilmişdi.3.Ölkə daxilində sabitlik, şərq və qərb sərhədlərində əmin-amanlıq hökm sürürdü.",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Azərbaycanda qədim incəsənətin çiçəklənmə  dövrü hesab edilir:",
+      "options": [
+        "Mezolit",
+        "Üst paleolit",
+        "Neolit",
+        "Erkən və orta aşel dövrü",
+        "Orta tunc dövrü"
+      ],
+      "answer": "Orta tunc dövrü"
+    },
+    {
+      "question": "Qaraqoyunlu bəyliyini möhkəmləndirmişdi",
+      "options": [
+        "1,4,5",
+        "2,3,4",
+        "3,4,5",
+        "1,2,3",
+        "1,3,5"
+      ],
+      "answer": "1,3,5"
+    },
+    {
+      "question": "Təbriz Universiteti təsis edildi:",
+      "options": [
+        "1941-ci ilin sentyabrında",
+        "1942-cı ilin oktyabrında",
+        "1945-ilin fevralında",
+        "1943-cü ilin noyabrında",
+        "1946-ilin iyununda"
+      ],
+      "answer": "1946-ilin iyununda"
+    },
+    {
+      "question": "Orta tunc  dövrünün   yaşayış  məskənləri Eneolit və Kür- Araz  mədəniyyətlərinin  yaşayış məskənlərindən nə ilə fərqlənirdi:",
+      "options": [
+        "Yaşayış məskənlərində yarımqazma evlərin çoxluğu ilə",
+        "İcma təsərrüfatının  dağılması prosesinin başa  çatması ilə",
+        "Siklop tikililərinin olması ilə",
+        "Ayrı-ayrı kəndlər şəklində salınırdı",
+        "Daha böyük sahəni əhatə edir, möhtəşəmliyi ilə  seçilirdi"
+      ],
+      "answer": "Daha böyük sahəni əhatə edir, möhtəşəmliyi ilə  seçilirdi"
+    },
+    {
+      "question": "Azərbaycanda ilk ipək emalı müəssisəsi fəaliyyət göstərirdi:",
+      "options": [
+        "Şahabadda",
+        "Cəfərabadda",
+        "Mahmudabadda",
+        "Niyaziabadda",
+        "Xanabadda"
+      ],
+      "answer": "Xanabadda"
+    },
+    {
+      "question": "AXC- nin xarici siyasətinin əsasını  təşkil edirdi:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Alban  hökmdarı  Urnayr hansı Sasani - Roma qarşılaşmalarında iştirak etmişdi:",
+      "options": [
+        "Kaar, Dzirav",
+        "Bələncər , Dzirav",
+        "Qədsiyyə,Bələncər,",
+        "Suzian, Amid",
+        "Amid, Dzirav"
+      ],
+      "answer": "Amid, Dzirav"
+    },
+    {
+      "question": "Xronoloji ardıcıllığı müəyyən edin?1)Usta Bəndərin başçılığı ilə Gəncə üsyanı 2)Dərbəndilər sülaləsinin hakimiyyətə gəlməsi 3)Qızıl Orda xanı Özbəyin Azərbaycana yürüşü 4)Qazan xanın islahatı  5)Azərbaycan, eləcə də Ön Qafqaz ərazisinin Ali Monqol xaqanının təyin etdiyi canişinlər tərəfindən idarə olunması",
+      "options": [
+        "4, 3, 2, 5, 1",
+        "2, 3, 5, 4, 1",
+        "1, 3, 5, 4, 2",
+        "1,2, 4, 5, 3",
+        "1, 5, 4, 3, 2"
+      ],
+      "answer": "1, 5, 4, 3, 2"
+    },
+    {
+      "question": "I Pyoturun Xəzəryanı bölgələrə yürüşü yarımçıq dayandırıb geri qayıtmasının səbəblərinə aiddir:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Azərbaycan ərazisində müasir insan tipinin formalaşması başa çatmış və ibtidai icma quruluşunun ilkin pilləsi yaranmışdır?",
+      "options": [
+        "Orta Paleolit mərhələsində",
+        "Orta Aşel dövründə",
+        "Üst Aşel mərhələsində",
+        "Quruçay mədəniyyəti dövründə",
+        "Üst paleolit dövründə"
+      ],
+      "answer": "Üst paleolit dövründə"
+    },
+    {
+      "question": "Səlcuqlar  sultan Toğrulun başçılığı  altında nə zaman Azərbaycana  daxil  oldular:",
+      "options": [
+        "XII əsrin ortalarında",
+        "XI əsrin  sonlarında",
+        "X əsrin 60- cı illərində",
+        "XI əsrin 80  - ci  illərində",
+        "XI əsrin 50 – ci  illərində"
+      ],
+      "answer": "XI əsrin 50 – ci  illərində"
+    },
+    {
+      "question": "1764- cü ildə İrəvanda tikilmiş  memarlıq abidəsi:",
+      "options": [
+        "Yeddi Günbəz  türbəsi",
+        "Şirvanşahlar sarayı",
+        "Qarabağlar türbəsi",
+        "Gülüstan qalası",
+        "Göy məscid"
+      ],
+      "answer": "Göy məscid"
+    },
+    {
+      "question": "İbtidai icma quruluşunda maldarlıq  və əkinçiliyin  əsaslı surətdə  təşəkkülü  və inkişafı hansı  dövrdə baş  vermişdir:",
+      "options": [
+        "Mezolit dövründə",
+        "Alt paleolitdə",
+        "Orta paleolitdə",
+        "Tunc dövründə",
+        "Neolit dövründə"
+      ],
+      "answer": "Neolit dövründə"
+    },
+    {
+      "question": "Qazan xanın yarımçıq qalan islahatı?",
+      "options": [
+        "Dini",
+        "Torpaq",
+        "Vergi",
+        "Rabitə",
+        "Məhkəmə"
+      ],
+      "answer": "Məhkəmə"
+    },
+    {
+      "question": "Erkən orta əsrlərdə uti tayfasının adı Azərbaycanın  hansı bölgəsinin əhalisinə  şamil  edilirdi:",
+      "options": [
+        "Arsax",
+        "Şəki",
+        "Şamaxı",
+        "Gəncə",
+        "Bərdə"
+      ],
+      "answer": "Bərdə"
+    },
+    {
+      "question": "Antik mənbələr hansı dövrü əhatə edir?",
+      "options": [
+        "e.ə. I-e.I əsrləri",
+        "e.ə.IV- II əsrləri",
+        "e.ə. III-I əsrləri",
+        "I-V əsrləri",
+        "e.ə. V-e. III əsrləri"
+      ],
+      "answer": "e.ə. V-e. III əsrləri"
+    },
+    {
+      "question": "Quruçay arxeoloji mədəniyyətinin yaşı nə qədərdir?",
+      "options": [
+        "2.5 min il",
+        "10,5 milyon il",
+        "100 min il",
+        "1 milyon il",
+        "1,5 milyon ildən artıq"
+      ],
+      "answer": "1,5 milyon ildən artıq"
+    },
+    {
+      "question": "Ağqoyunlu tayfa birliyinin əsasını  qoymuşdu:",
+      "options": [
+        "Qara Yulluq Osman bəy",
+        "Həsən bəy",
+        "Cahangir Mirzə",
+        "Əli bəy",
+        "Pəhləvan bəy"
+      ],
+      "answer": "Pəhləvan bəy"
+    },
+    {
+      "question": "Müsəlman Şərqində ilk dədə demokratik quruluşlu respublika yaradıldı",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Səfəvilər dövründə soyurqal:",
+      "options": [
+        "elm və incəsənət xadimlərinə verilirdi",
+        "ləğv edildi",
+        "vəqf torpaqlarına birləşdirildi",
+        "yalnız müridlərə verilirdi",
+        "şiə ruhanilərinin və inzibati bürokratiyanın ixtiyarında olan xırda yaşayış məntəqələrinə çevrildi"
+      ],
+      "answer": "şiə ruhanilərinin və inzibati bürokratiyanın ixtiyarında olan xırda yaşayış məntəqələrinə çevrildi"
+    },
+    {
+      "question": "Qubalı Fətəli xanın 1784 – cü ildə Qarabağ və Cənubi Azərbaycan xanlıqlarına yürüşü zamanı ona dəstək vermişdi:",
+      "options": [
+        "Şamaxı xanı",
+        "Dərbənd xanı",
+        "Şəki xanı",
+        "Bakı xanı",
+        "Cavad xanı"
+      ],
+      "answer": "Cavad xanı"
+    },
+    {
+      "question": "Azərbaycan  İslam Konfransı təşkilatına üzv qəbul  olunmuşdu:",
+      "options": [
+        "1995- ci ilin iyununda",
+        "1994- cü ilin iyulunda",
+        "1992- ci ilin aprelində",
+        "1993- cü ilin avqustunda",
+        "1991- ci ilin  dekabrında"
+      ],
+      "answer": "1991- ci ilin  dekabrında"
+    },
+    {
+      "question": "623- cü ildə Adərbayqanın paytaxtı Qazakada atəşpərəstliyin baş məbədi hansı Bizans imperatoru tərəfindən qarət edilmişdi:",
+      "options": [
+        "Mavriki",
+        "Foka",
+        "Roman Diogen",
+        "II Konstant",
+        "II İrakli"
+      ],
+      "answer": "II İrakli"
+    },
+    {
+      "question": "Kürəkçay müqaviləsinə görə Rusiyaya birləşdirilən xanlıqlar:",
+      "options": [
+        "Şəki, İrəvan",
+        "Qarabağ, Dərbənd",
+        "Dərbənd, Şəki",
+        "Gəncə, Bakı",
+        "Qarabağ, Şəki"
+      ],
+      "answer": "Qarabağ, Şəki"
+    },
+    {
+      "question": "Naxçıvan mədəniyyəti:",
+      "options": [
+        "Erkən Tunc dövründə formalaşmış, son Tunc və ilk Dəmir dövründə yüksək inkişaf  səviyyəsinə çatmışdı.",
+        "Son Tunc dövründə formalaşıb və inkişaf etmişdi.",
+        "E.ə. XIV əsrdə yaranmış və ilk Dəmir dövründə formalaşmışdı.",
+        "Kür-Araz mədəniyyətindən fərqli olaraq  orta Tunc dövründə tənəzzülə uğramışdı.",
+        "Orta Tunc dövründə formalaşmış, son Tunc və ilk Dəmir dövründə yüksək inkişaf səviyyəsinə çatmışdı."
+      ],
+      "answer": "Orta Tunc dövründə formalaşmış, son Tunc və ilk Dəmir dövründə yüksək inkişaf səviyyəsinə çatmışdı."
+    },
+    {
+      "question": "Azərbaycan Səfəvi dövlətinin paytaxtları olmuş şəhərləri göstərin:1.Təbriz 2.Tehran 3.Qəzvin 4.Şamaxı 5.İsfahan",
+      "options": [
+        "2, 3, 4",
+        "1, 2, 4",
+        "3, 4, 5",
+        "1, 2, 3",
+        "1, 3, 5"
+      ],
+      "answer": "1, 3, 5"
+    },
+    {
+      "question": "Şəmsəddin Eldənizin dövründə Atabəylər dövlətinin ərazisi əhatə edirdi:",
+      "options": [
+        "Naxçıvandan Təbrizə qədər",
+        "Ərməniyyədən Mosula qədər",
+        "Təbrizdən Kür çayına qədər",
+        "Dərbənddən Qəzvinə qədər",
+        "Qafqaz dağlarından İran körfəzinə qədər"
+      ],
+      "answer": "Qafqaz dağlarından İran körfəzinə qədər"
+    },
+    {
+      "question": "“Müxtəsər Qafqaz tarixi ” əsərinin müəllifidir:",
+      "options": [
+        "H. Ş . Mollazadə",
+        "Əbdülkərim bəy Mehmandarov",
+        "Mirzə Rəhim",
+        "Qafur Rəşad Mirzəzadə",
+        "Rəşid bəy İsmayılov"
+      ],
+      "answer": "Rəşid bəy İsmayılov"
+    },
+    {
+      "question": "748 – ci ildə Beyləqanda baş vermiş  üsyana kim rəhbərlik edirdi:",
+      "options": [
+        "İbbən ibn Mənsur",
+        "Hatib ibn Sədəqi",
+        "İsma əl – Kürdi",
+        "Əbu  İmran",
+        "Vard ibn Səfyan"
+      ],
+      "answer": "Vard ibn Səfyan"
+    },
+    {
+      "question": "1918-ci il noyabr-1920-ci il yanvar",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Hülakilər dövründə dövlətin  hərbi  və inzibati idarələri hansı təşkilatda birləşmişdi:",
+      "options": [
+        "Canişinlik sistemi",
+        "Tümən sistemi",
+        "Əmirlik sistemi",
+        "Əyalət quruluşu",
+        "Divan sistemi"
+      ],
+      "answer": "Divan sistemi"
+    },
+    {
+      "question": "Azərbaycan Xalq Cümhuriyyətinin Gəncə dövrünə aid olanları müəyyən edin:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Gəncə şəhərinin tarixi adı bərpa edildi:",
+      "options": [
+        "1992- ci ildə",
+        "1988- ci ildə",
+        "1990- cı ildə",
+        "1991- ci ildə",
+        "1989- cu ildə"
+      ],
+      "answer": "1989- cu ildə"
+    },
+    {
+      "question": "Çobani feodallarının zülmündən cana gələn Azərbaycan əhalisi:",
+      "options": [
+        "Cəlairilərin və Xorasan əmirlərinin hakimiyyətini qəbul etdilər.",
+        "1357-ci ildə Cəlairilərin Azərbaycana yürüşü zamanı onlara kömək göstərərək Hülakülər dövlətini süquta uğratdılar.",
+        "1347-ci ildə Məlik Əşrəfə qarşı üsyan qaldırıb, ordusunu dağıdıb özünü isə  öldürdülər.",
+        "Çobani əmirlərinin özlərinin müstəqilliyini elan etmələrinə imkan vermədilər.",
+        "Vətəni tərk edərək Gilana,  Gürcüstana, Ruma, Şama, Bağdada və s. yerlərə gedirdilər."
+      ],
+      "answer": "Vətəni tərk edərək Gilana,  Gürcüstana, Ruma, Şama, Bağdada və s. yerlərə gedirdilər."
+    },
+    {
+      "question": "Ərəblərin hücumu ərəfəsində Azərbaycan:",
+      "options": [
+        "667-ci ildə xəzərlərin hücumuna məruz qaldı",
+        "646-cı ildə Ərdəbil əhalisi ərəblərlə müqavilə imzaladı",
+        "Cavanşir 654-cü ildə Bizansla müqavilə bağladı",
+        "Alban ordusu Cavanşirin rəhbərliyi ilə 636-cı ildə Kadusiyyə döyüşündə iştirak edib",
+        "Sasanilərin hakimiyyəti altında qalmaqla şimal inzibati vahidinin tərkibində idi"
+      ],
+      "answer": "Sasanilərin hakimiyyəti altında qalmaqla şimal inzibati vahidinin tərkibində idi"
+    },
+    {
+      "question": "Mərzban ibn Məhəmmədin ölümündən sonra Salarilər dövləti üçün səciyyəvidir:",
+      "options": [
+        "Salarilər dövləti Səlcuqlardan asılı vəziyyətə düşdü",
+        "Dövlətdə iqta torpaqlarının paylanılması dayandırıldı",
+        "Slavyanların ölkəyə hücumu müntəzəm xarakter aldı",
+        "Salarilər dövləti süqut etdi",
+        "Oğulları ilə qardaşı arasında hakimiyyət uğrunda mübarizə başladı"
+      ],
+      "answer": "Oğulları ilə qardaşı arasında hakimiyyət uğrunda mübarizə başladı"
+    },
+    {
+      "question": "AXC- nin  II  hökumət  kabineti təşkil   olundu:",
+      "options": [
+        "1919- cu ilin yanvarın 16- da",
+        "1919- cu ilin martın 5- də",
+        "1918- ci ilin fevralın 6- da",
+        "1918 – ci ilin  dekabrın 26- da",
+        "1918 – ci ilin iyunun 17- də"
+      ],
+      "answer": "1918 – ci ilin iyunun 17- də"
+    },
+    {
+      "question": "Məşrutə hərakatı dövründə Müzəffərəddin şahın üsyanın təsiri ilə verdiyi fərmanları müəyyən edin:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Qədim daş dövrü ilə orta daş dövrünün oxşar cəhətləri:",
+      "options": [
+        "mənimsəmə təsərrüfatından istehsal təsərrüfatına keçidin başlanması",
+        "əkinçilikdə toxadan istifadə edilməsi,nəsli qəbilə quruluşunun mövcudluğu",
+        "ox və kamanın kəşfi,əmək alətlərinin daşdan hazırlanması",
+        "hər ikisində tayfa birliyinin mövcud olması",
+        "hər ikisində əmək alətlərinin daşdan hazırlanması"
+      ],
+      "answer": "hər ikisində əmək alətlərinin daşdan hazırlanması"
+    },
+    {
+      "question": "Atropatena Sasanilər tərəfindən işğal edildi:",
+      "options": [
+        "262- ci ildə",
+        "260- cı ildə",
+        "229- cı ildə",
+        "252-ci ildə",
+        "227- ci ildə"
+      ],
+      "answer": "227- ci ildə"
+    },
+    {
+      "question": "1991 - ci il avqustun 30- da Azərbaycan Respublikası Ali Sovetinin növbədənkənar sessiyasında qəbul edilmişdi:",
+      "options": [
+        "Azərbaycan  vətəndaşlarının Dağlıq  Qarabağdan çıxarılması haqqında qərar",
+        "Azərbaycan  SSR  adından \"Sovet və Sosialist\"  sözlərinin çıxarılması barədə  fərman",
+        "Türkiyə dövləti ilə iqtisadi  əlaqələrin daha da inkişaf etdirilməsini təmin edən saziş",
+        "Bütün siyasi partiyaların qadağan edilməsini nəzərdə  tutan sərəncam",
+        "Azərbaycanın Dövlət müstəqilliyinin bərpası haqqında \"Bəyannamə\""
+      ],
+      "answer": "Azərbaycanın Dövlət müstəqilliyinin bərpası haqqında \"Bəyannamə\""
+    },
+    {
+      "question": "Ərazi  bütövlüyünü təmin etmək",
+      "options": [
+        "2,4,5",
+        "1,2,3",
+        "2,3,4",
+        "1,2,5",
+        "1,3,5"
+      ],
+      "answer": "1,3,5"
+    },
+    {
+      "question": "Hansı şəhər işğal olunmaqla bütün Azərbaycan monqollar tərəfindən istila olundu?",
+      "options": [
+        "Bərdə",
+        "Təbriz",
+        "Şamaxı",
+        "Bakı",
+        "Dərbənd"
+      ],
+      "answer": "Dərbənd"
+    },
+    {
+      "question": "E.ə.VII əsrin ortalarında skit hökmdarı:",
+      "options": [
+        "II Sarqon",
+        "Sarduri",
+        "Asarhaddn",
+        "Şamaş",
+        "Tuqdamme"
+      ],
+      "answer": "Tuqdamme"
+    },
+    {
+      "question": "AXC  yaranarkən onu bir dövlət kimi tanımayaraq  ona qarşı müharibə elan etdi:",
+      "options": [
+        "Cənubi Qafqaz Komissarlığı",
+        "Cənubi Qafqaz Seymi",
+        "Sentrokaspi diktaturası",
+        "Xüsusi Cənubi Qafqaz  Komitəsi",
+        "Bakı XKS"
+      ],
+      "answer": "Bakı XKS"
+    },
+    {
+      "question": "Şəddadilər dövləti yaranmışdır:",
+      "options": [
+        "948- ci ildə Əhərdə",
+        "1067- ci ildə Bakıda",
+        "X əsrin ortalarında Dvində",
+        "1050- ci ildə Gəncədə",
+        "971- ci ildə Gəncədə"
+      ],
+      "answer": "971- ci ildə Gəncədə"
+    },
+    {
+      "question": "Fəaliyyəti  Azərbaycanın Qərb qəzalarını ,eləcə də Borçalı ərazisini əhatə edən partiya?",
+      "options": [
+        "Qeyrət",
+        "Difai",
+        "Musavat",
+        "Hümmət",
+        "Müdafiə"
+      ],
+      "answer": "Müdafiə"
+    },
+    {
+      "question": "Şəddadilər dövlətinin başçısı hansı titulu daşıyırdı :",
+      "options": [
+        "şah",
+        "məlik",
+        "sultan",
+        "padşah",
+        "əmir"
+      ],
+      "answer": "əmir"
+    },
+    {
+      "question": "Küdürlü , Borsunlu , Şahtaxtı və Əliköməktəpənin varlı qəbirləri tunc  dövrünün  hansı mərhələsini əks etdirirdi:",
+      "options": [
+        "Erkən tunc  dövrü",
+        "Dəmir dövrü",
+        "Kür - Araz mədəniyyəti",
+        "Son tunc  dövrü",
+        "Orta  tunc dövrü"
+      ],
+      "answer": "Orta  tunc dövrü"
+    },
+    {
+      "question": "1.Azərbaycan torpaqlarının bir hissəsi azad edildi. 2.Azərbaycanın Kürdən cənubda yerləşən Xəzəryanı vilayətləri Səfəvi imperatorluğuna qaytarıldı. 3.XVIII əsrin 30-cu illərində bağlanmış müqavilədir.Göstərilənlər aiddir:",
+      "options": [
+        "Kirmanşah",
+        "Nabur",
+        "Sankt-Peterburq",
+        "İstanbul",
+        "Rəşt"
+      ],
+      "answer": "Rəşt"
+    },
+    {
+      "question": "\"21 Azər  hərəkatı\"  adlanır:",
+      "options": [
+        "Cənubi  Azərbaycanda ana dilinin dövlət  dili elan edilməsi haqqında  hökumətin  qərarı",
+        "Sovet ordularının Təbrizə daxil olması ilə başlanan milli demokratik hərəkatın  başlaması",
+        "Raz şahın ölkədən  qaçması ilə  başlanan hərəkat",
+        "Təbrizdə şah  rejimi və  iri ruhanilərə qarşı başlanan silahlı üsyan",
+        "Təbrizdə  Milli hökumətin yaradılması"
+      ],
+      "answer": "Təbrizdə  Milli hökumətin yaradılması"
+    },
+    {
+      "question": "Xilafətin  hakimiyyəti illərində Azərbaycanda paytaxt  şəhər  adlanırdı:",
+      "options": [
+        "Təbriz",
+        "Bərdə",
+        "Arran",
+        "Şamaxı",
+        "Marağa"
+      ],
+      "answer": "Marağa"
+    },
+    {
+      "question": "İsveçlə yeni müharibə təhlükəsinin yaranması",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "1945- ci ildə Cənubi Azərbaycanda yaradılmış Milli hökumətin  gördüyü tədbirlərə aid deyil:",
+      "options": [
+        "Yerlərdə inzibati - ərazi orqanlarının yaradılması",
+        "Təbriz  Univeristetinin  yaradılması",
+        "\"Əmək haqqında qanun\" qəbul etməsi",
+        "\"Dil haqqında qanun\" qəbul etməsi",
+        "Neft  sənayesinin konsessiyaya verilməsi"
+      ],
+      "answer": "Neft  sənayesinin konsessiyaya verilməsi"
+    },
+    {
+      "question": "1840-cı illərdə Cənubi Qafqazda həyata keçirilmiş inzibati islahatın nəticələrindəndir:",
+      "options": [
+        "Bütün quberniya və qəzalar ləğv edildi",
+        "Canişinlik ləğv edildi",
+        "“Ali müsəlman silki ”ni hüquqları artırıldı",
+        "Komendant idarə üsulu yenidən təşkil edildi",
+        "Yerli imtiyazlı məmurların hüquq və imtiyazları əllərindən alındı"
+      ],
+      "answer": "Yerli imtiyazlı məmurların hüquq və imtiyazları əllərindən alındı"
+    },
+    {
+      "question": "XIX yüzilliyin birinci yarısında Şimali Azərbaycanda ən böyük üsyan baş verdi:",
+      "options": [
+        "Şəkidə",
+        "Bakıda",
+        "Gəncədə",
+        "Şamaxıda",
+        "Qubada"
+      ],
+      "answer": "Qubada"
+    },
+    {
+      "question": "Pənahəli xan  hansı Azərbaycan  xanlıqlarını  ələ keçirməyə  çalışırdı?",
+      "options": [
+        "Naxçıvan, Ərdəbil, Sərab, Quba",
+        "Şamaxı, Naxçıvan , Şəki , Xoy",
+        "Şəki, Naxçıvan, Quba, Şamaxı",
+        "Urmiya, Quba, Şəki, İrəvan",
+        "Gəncə, İrəvan, Naxçıvan, Ərdəbil"
+      ],
+      "answer": "Gəncə, İrəvan, Naxçıvan, Ərdəbil"
+    },
+    {
+      "question": "Fəaliyyəti  Azərbaycanın Qərb qəzalarını ,eləcə də Borçalı ərazisini əhatə edən partiya?",
+      "options": [
+        "Difai",
+        "Qeyrət",
+        "Musavat",
+        "Hümmət",
+        "Müdafiə"
+      ],
+      "answer": "Müdafiə"
+    },
+    {
+      "question": "AXC-nin 1918- ci ilin avqust və 1918- ci ilin noyabr tarixi üçün ortaq cəhət:",
+      "options": [
+        "Qarabağda erməni qiyamının baş verməsi",
+        "Sovet  Rusiyası ilə  silahlı  münaqişə  baş verməsi",
+        "Osmanlı dövləti ilə  müqavilə  imzalanması",
+        "Yeni  hökumətin təşkil olunması",
+        "İngilis qoşunlarının Bakıya  gəlməsi"
+      ],
+      "answer": "İngilis qoşunlarının Bakıya  gəlməsi"
+    },
+    {
+      "question": "Hər bir kəndin , şəhərin ödəyəcəyi vergilər lövhəölərdə həkk olunub baxımlı yerlərdə nümayiş etdirildi",
+      "options": [
+        "2,3,4",
+        "1,3,4",
+        "1,3,5",
+        "2,3,5",
+        "2,4,5"
+      ],
+      "answer": "2,4,5"
+    },
+    {
+      "question": "Tehrandakı əksinqilabı çevrilişdən sonra İran inqilabının mərkəzinə çevrildi:",
+      "options": [
+        "Zəncan;",
+        "Xoy;",
+        "Ərdəbil;",
+        "İsfahan;",
+        "Təbriz;"
+      ],
+      "answer": "Təbriz;"
+    },
+    {
+      "question": "Qaraqoyunlu Cahanşahın ölümündən sonra Qaraqoyunluların qanuni varisi hesab olunurdu:",
+      "options": [
+        "Əbu Səid",
+        "Cahangir Mirzə",
+        "Məhəmməd",
+        "Hüseynəli",
+        "Həsənəli"
+      ],
+      "answer": "Həsənəli"
+    },
+    {
+      "question": "1804-cü il 3 yanvarda işğal edildi:",
+      "options": [
+        "Dərbənd",
+        "Bakı",
+        "Şuşa",
+        "Şəmsəddil",
+        "Gəncə"
+      ],
+      "answer": "Gəncə"
+    }
+  ],
+  "answers": [
+    "1, 2, 3",
+    "Teymuri Şahrux məğlub olmuş və qoşunlarını  Azərbaycandan çəkmişdi",
+    "1990- cı il mayın 27- də",
+    "İsmayıl Şıxlı",
+    "Option 3 (auto-added)",
+    "Ağqoyunlu Rüstəm padşah məğlub olaraq mübarizəni dayandırdı",
+    "Option 3 (auto-added)",
+    "M.Ə.Rəsulzadə",
+    "Xorasan Osmanlı imperiyası ilə Şeybanilər arasında bölüşdürüldü",
+    "Əyalət və dairələri idarə edə bilməzdilər",
+    "İqta",
+    "Option 2 (auto-added)",
+    "səyyahlar",
+    "qədim yaşayış yerləri və qəbir abidələri",
+    "Milli Şuranın fəaliyyətinin dayandırılması",
+    "Option 2 (auto-added)",
+    "M.Rəfili",
+    "Aza",
+    "süvarilər",
+    "40% - dən azı",
+    "Eneolit dövründə",
+    "Option 2 (auto-added)",
+    "Option 2 (auto-added)",
+    "Rusiya sülhməramlıları bölgədən çıxarıldı",
+    "Təbriz",
+    "Qara Yusif",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

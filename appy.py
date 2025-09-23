@@ -1,0 +1,651 @@
+# app.py
+import os
+import re
+import json
+import random
+import copy
+import uuid
+from pathlib import Path
+import hashlib
+from flask import (
+    Flask, render_template, request, redirect, url_for, flash,
+    session, send_file, send_from_directory
+)
+from werkzeug.utils import secure_filename
+from pypdf import PdfReader
+
+# --- Config ---
+BASE_DIR = Path(__file__).parent
+UPLOAD_DIR = BASE_DIR / "uploads"
+DATASET_DIR = BASE_DIR / "datasets"
+EXAM_DIR = BASE_DIR / "exams"
+ALLOWED_EXTENSIONS = {"pdf"}
+ARCHIVE_FILE = (UPLOAD_DIR / "archive.json")
+
+UPLOAD_DIR.mkdir(exist_ok=True)
+DATASET_DIR.mkdir(exist_ok=True)
+EXAM_DIR.mkdir(exist_ok=True)
+if not ARCHIVE_FILE.exists():
+    with open(ARCHIVE_FILE, "w", encoding="utf-8") as _f:
+        json.dump([], _f)
+
+app = Flask(__name__, static_folder="static", template_folder="templates")
+app.secret_key = "replace-this-with-a-secure-random-key"  # <-- replace before production
+
+# --------------------------
+# PDF extraction & parsing
+# --------------------------
+def compute_file_sha256(file_path: Path) -> str:
+    sha256 = hashlib.sha256()
+    with open(file_path, "rb") as f:
+        for chunk in iter(lambda: f.read(1024 * 1024), b""):
+            sha256.update(chunk)
+    return sha256.hexdigest()
+
+def load_archive() -> list:
+    try:
+        with open(ARCHIVE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            if isinstance(data, list):
+                return data
+            return []
+    except Exception:
+        return []
+
+def save_archive(entries: list) -> None:
+    with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
+        json.dump(entries, f, ensure_ascii=False, indent=2)
+def extract_text_from_pdf(pdf_path: str) -> str:
+    pdf = PdfReader(pdf_path)
+    text = ""
+    for page in pdf.pages:
+        page_text = page.extract_text()
+        if page_text:
+            text += page_text + "\n"
+    return text
+
+
+def parse_mcqs(text: str):
+    """
+    Robust heuristic parser for multiple choice questions.
+    Recognizes questions starting with digits (1., 1)) and options labeled A-E or bullets.
+    Returns a list of {"question":..., "options":[...], "answer":...}
+    """
+    dataset = []
+    question = None
+    options = []
+    answer = None
+    lines = [ln.rstrip() for ln in text.splitlines() if ln.strip() != ""]
+
+    for raw in lines:
+        line = raw.strip()
+
+        # New question pattern: "1. Question..." or "1) Question..."
+        m_q = re.match(r"^(\d+)[\.\)]\s*(.*)", line)
+        if m_q:
+            # flush previous
+            if question is not None:
+                dataset.append({"question": question.strip(), "options": options, "answer": answer})
+            question = m_q.group(2).strip()
+            options = []
+            answer = None
+            continue
+
+        # Option lines like "A) Option text", "A. Option text", "A Option text", "• Option text", "- Option"
+        m_opt = re.match(r"^(?:[A-E][\.\)]\s*|[A-E]\s{2,}|[A-E]\s+-\s+|\u2022\s*|[-–—]\s+)(.*)", line)
+        if m_opt:
+            opt_text = m_opt.group(1).strip()
+            # handle checkmark at start of option (e.g., "√ Option" or "[x] Option")
+            if opt_text.startswith("√") or opt_text.startswith("[x]") or opt_text.lower().startswith("(x)"):
+                cleaned = re.sub(r"^[√\[\(x\)\]]+\s*", "", opt_text)
+                options.append(cleaned.strip())
+                answer = cleaned.strip()
+            else:
+                options.append(opt_text)
+            continue
+
+        # If line starts with a checkmark or "Answer:" or "Correct:"
+        if line.startswith("√") or line.lower().startswith("correct:") or line.lower().startswith("answer:"):
+            cleaned = re.sub(r"^√\s*|^answer[:\s]*|^correct[:\s]*", "", line, flags=re.IGNORECASE).strip()
+            # if cleaned is a letter like "A" map by label
+            if re.match(r"^[A-E]$", cleaned, re.IGNORECASE) and len(options) > 0:
+                idx = ord(cleaned.upper()) - ord("A")
+                if 0 <= idx < len(options):
+                    answer = options[idx]
+            else:
+                answer = cleaned
+            continue
+
+        # Continuation lines for last option or question (indented)
+        if question is not None and options and (raw.startswith(" ") or raw.startswith("\t")):
+            options[-1] = options[-1] + " " + line
+            continue
+        if question is not None and not options:
+            # continuation of question text
+            question += " " + line
+            continue
+
+        # Fallback: "A Option text" without punctuation
+        m_opt2 = re.match(r"^([A-E])\s+(.*)", line)
+        if m_opt2:
+            options.append(m_opt2.group(2).strip())
+            continue
+
+        # As fallback append to last option
+        if question is not None and options:
+            options[-1] = options[-1] + " " + line
+            continue
+        # Otherwise ignore stray lines
+
+    # flush last
+    if question is not None:
+        dataset.append({"question": question.strip(), "options": options, "answer": answer})
+
+    # Clean up options and align answer string if possible
+    for item in dataset:
+        item["options"] = [o.strip() for o in item.get("options", []) if o and o.strip() != ""]
+        if item.get("answer") and item["answer"] not in item["options"]:
+            for o in item["options"]:
+                if o.strip().lower() == item["answer"].strip().lower():
+                    item["answer"] = o
+                    break
+
+    return dataset
+
+
+def normalize_options(dataset, desired=5):
+    """
+    Ensure exactly `desired` options per question.
+    - If options < desired: append clear placeholder options (no mixing between questions).
+    - If options > desired: keep first `desired` options, but if the correct answer would be dropped,
+      ensure it's included by swapping it in. Aim to preserve ordering while keeping correct answer.
+    Returns a new (deep-copied) dataset.
+    """
+    out = copy.deepcopy(dataset)
+    for item in out:
+        opts = item.get("options", [])[:]
+        ans = item.get("answer")
+        original_opts = opts[:]
+        original_ans_index = None
+        if ans is not None:
+            for i, o in enumerate(original_opts):
+                if isinstance(o, str) and isinstance(ans, str) and o.strip().lower() == ans.strip().lower():
+                    original_ans_index = i
+                    break
+
+        # trim/strip
+        opts = [o.strip() for o in opts if o is not None]
+
+        # If too many options
+        if len(opts) > desired:
+            # If answer exists and is outside the first `desired` options, include it
+            if ans is not None and ans in opts and opts.index(ans) >= desired:
+                # keep first desired-1 options and append the answer to ensure it's present
+                kept = opts[:desired-1]
+                # append answer, but avoid duplicates
+                if ans in kept:
+                    # rare: if duplicate, just take first desired items
+                    kept = opts[:desired]
+                else:
+                    kept.append(ans)
+                # fill from original options without duplicates if needed
+                final = []
+                for o in kept:
+                    if o not in final:
+                        final.append(o)
+                for o in opts:
+                    if len(final) >= desired:
+                        break
+                    if o not in final:
+                        final.append(o)
+                opts = final[:desired]
+            else:
+                opts = opts[:desired]
+
+        # If too few options, pad with placeholders (clearly labeled to review later)
+        if len(opts) < desired:
+            start = len(opts) + 1
+            for i in range(start, desired + 1):
+                opts.append(f"Option {i} (auto-added)")
+
+        # Ensure correct answer is among options (case-insensitive)
+        if ans:
+            in_opts_ci = any((isinstance(o, str) and isinstance(ans, str) and o.strip().lower() == ans.strip().lower()) for o in opts)
+            if not in_opts_ci:
+                # If we know the original index, place the correct answer at that index (bounded)
+                if original_ans_index is not None:
+                    target_index = original_ans_index if original_ans_index < desired else desired - 1
+                    # Use the original option text at that index if possible
+                    replacement = original_opts[original_ans_index]
+                    opts[target_index] = replacement
+                else:
+                    # Fallback: put answer in the last slot
+                    opts[-1] = ans
+
+        # Final trim and assignment
+        opts = opts[:desired]
+        # If the correct answer exists but is at the wrong index, move it back to its original index
+        if ans is not None and original_ans_index is not None and len(opts) > 0:
+            target_index = original_ans_index if original_ans_index < desired else desired - 1
+            # find current index of ans in opts (case-insensitive)
+            current_index = None
+            for i, o in enumerate(opts):
+                if isinstance(o, str) and isinstance(ans, str) and o.strip().lower() == ans.strip().lower():
+                    current_index = i
+                    break
+            if current_index is not None and current_index != target_index and 0 <= target_index < len(opts):
+                opts[current_index], opts[target_index] = opts[target_index], opts[current_index]
+
+        item["options"] = opts
+
+        # normalize answer reference to exact option string if possible
+        if ans:
+            matched = None
+            for o in opts:
+                if isinstance(o, str) and o.strip().lower() == str(ans).strip().lower():
+                    matched = o
+                    break
+            item["answer"] = matched if matched else ans
+
+    return out
+
+
+def save_dataset_to_file(dataset, base_filename: str):
+    # Stamp original ordering index if missing
+    for idx, item in enumerate(dataset, start=1):
+        if isinstance(item, dict) and item.get("orig_index") is None:
+            item["orig_index"] = idx
+
+    safe = secure_filename(base_filename)
+    out_path = DATASET_DIR / f"{Path(safe).stem}_dataset.json"
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(dataset, f, ensure_ascii=False, indent=2)
+    return str(out_path)
+
+
+def allowed_file(filename):
+    return "." in filename and filename.rsplit(".", 1)[1].lower() in ALLOWED_EXTENSIONS
+
+
+# --------------------------
+# Exam persistence helpers (server-side)
+# --------------------------
+def make_exam_filename():
+    return f"exam_{uuid.uuid4().hex}.json"
+
+def save_exam_state(exam_questions, answers):
+    """
+    Save exam questions and answers to a server-side file (JSON).
+    Returns the exam filename (not full path) to store in session.
+    """
+    fname = make_exam_filename()
+    path = EXAM_DIR / fname
+    # ensure serializable
+    payload = {
+        "questions": exam_questions,
+        "answers": answers
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    return fname
+
+def load_exam_state(fname):
+    """
+    Load and return (questions, answers) from exam file.
+    Returns (None, None) if not present.
+    """
+    if not fname:
+        return None, None
+    path = EXAM_DIR / fname
+    if not path.exists():
+        return None, None
+    with open(path, "r", encoding="utf-8") as f:
+        payload = json.load(f)
+    return payload.get("questions"), payload.get("answers")
+
+def update_exam_answers(fname, answers):
+    """
+    Update the answers array in an existing exam file.
+    """
+    path = EXAM_DIR / fname
+    if not path.exists():
+        return False
+    with open(path, "r", encoding="utf-8") as f:
+        payload = json.load(f)
+    payload["answers"] = answers
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    return True
+
+def remove_exam_file(fname):
+    if not fname:
+        return
+    path = EXAM_DIR / fname
+    try:
+        if path.exists():
+            path.unlink()
+    except Exception:
+        pass
+
+
+# --------------------------
+# Routes
+# --------------------------
+@app.route("/", methods=["GET", "POST"])
+def index():
+    dataset_file = session.get("dataset_file")
+    available = 0
+    if dataset_file and os.path.exists(dataset_file):
+        with open(dataset_file, "r", encoding="utf-8") as f:
+            ds = json.load(f)
+            available = len(ds)
+
+    if request.method == "POST":
+        try:
+            min_q = int(request.form.get("min_question", 1))
+        except ValueError:
+            min_q = 1
+        try:
+            max_q_raw = request.form.get("max_question", "").strip()
+            max_q = int(max_q_raw) if max_q_raw else available
+        except ValueError:
+            max_q = available
+
+        try:
+            num_q = int(request.form.get("num_questions", 10))
+        except ValueError:
+            num_q = 10
+
+        if not dataset_file or not os.path.exists(dataset_file):
+            flash("No dataset uploaded yet. Please upload a PDF first.", "error")
+            return redirect(url_for("index"))
+
+        with open(dataset_file, "r", encoding="utf-8") as f:
+            ds = json.load(f)
+
+        min_q = max(1, min_q)
+        max_q = min(len(ds), max_q)
+        if min_q > max_q:
+            flash("Invalid range: 'from' is greater than 'to'.", "error")
+            return redirect(url_for("index"))
+
+        pool = ds[(min_q - 1):max_q]
+        if num_q > len(pool):
+            flash(f"You requested {num_q} questions but only {len(pool)} are available in the chosen range.", "info")
+            num_q = len(pool)
+
+        random.shuffle(pool)
+        exam_questions = pool[:num_q]
+
+        # Save exam on server-side to avoid cookie/session size limits
+        answers = [None] * len(exam_questions)
+        fname = save_exam_state(exam_questions, answers)
+        session["exam_file"] = fname
+        session.modified = True
+
+        return redirect(url_for("exam"))
+
+    archive = load_archive()
+    current_pdf_filename = session.get("current_pdf_filename")
+    current_pdf_url = None
+    if current_pdf_filename:
+        current_pdf_url = url_for("serve_upload", filename=current_pdf_filename)
+
+    return render_template("index.html", page="home", available=available, archive=archive, current_pdf_url=current_pdf_url)
+
+
+@app.route("/upload", methods=["POST"])
+def upload():
+    if "pdf_file" not in request.files:
+        flash("No file part in the request.", "error")
+        return redirect(url_for("index"))
+
+    file = request.files["pdf_file"]
+    if file.filename == "":
+        flash("No file selected.", "error")
+        return redirect(url_for("index"))
+
+    if file and allowed_file(file.filename):
+        filename = secure_filename(file.filename)
+        save_path = UPLOAD_DIR / filename
+        file.save(save_path)
+
+        # Compute hash and check archive for duplicates
+        file_hash = compute_file_sha256(save_path)
+        archive = load_archive()
+        existing = next((e for e in archive if e.get("hash") == file_hash), None)
+
+        if existing:
+            # Duplicate: remove newly saved file if different filename, reuse dataset and pdf
+            if existing.get("stored_filename") != filename and save_path.exists():
+                try:
+                    save_path.unlink()
+                except Exception:
+                    pass
+            ds_path = existing.get("dataset_path")
+            if ds_path and os.path.exists(ds_path):
+                session["dataset_file"] = ds_path
+                session["current_pdf_filename"] = existing.get("stored_filename")
+                session.modified = True
+                flash("This PDF is already in the archive. Reusing its questions.", "info")
+                return redirect(url_for("index"))
+            # Fallback: if archive entry missing dataset, continue to parse
+
+        try:
+            text = extract_text_from_pdf(str(save_path))
+            dataset = parse_mcqs(text)
+            if not dataset:
+                flash("No questions detected in the PDF. Try a different file or check formatting.", "error")
+                return redirect(url_for("index"))
+
+            # Normalize to exactly 5 options per question
+            normalized = normalize_options(dataset, desired=5)
+
+            # Count modifications for user feedback
+            padded = sum(1 for a, b in zip(dataset, normalized) if len(a.get("options", [])) < len(b.get("options", [])))
+            trimmed = sum(1 for a, b in zip(dataset, normalized) if len(a.get("options", [])) > len(b.get("options", [])))
+            answer_fixed = sum(1 for a, b in zip(dataset, normalized) if a.get("answer") and a.get("answer") != b.get("answer"))
+
+            ds_path = save_dataset_to_file(normalized, filename)
+
+            # Update session state for immediate use
+            session["dataset_file"] = ds_path
+            session["current_pdf_filename"] = filename
+            session.modified = True
+
+            # Update archive (dedupe by hash)
+            if not existing:
+                archive.append({
+                    "hash": file_hash,
+                    "original_filename": filename,
+                    "stored_filename": filename,
+                    "dataset_path": ds_path,
+                    "num_questions": len(normalized)
+                })
+                save_archive(archive)
+
+            msg = f"Uploaded and parsed {len(normalized)} questions successfully."
+            extras = []
+            if padded:
+                extras.append(f"{padded} question(s) padded to 5 options")
+            if trimmed:
+                extras.append(f"{trimmed} question(s) trimmed to 5 options")
+            if answer_fixed:
+                extras.append(f"{answer_fixed} answer(s) normalized")
+            if extras:
+                msg += " (" + "; ".join(extras) + ")"
+
+            flash(msg, "success")
+        except Exception as e:
+            flash(f"Error processing PDF: {e}", "error")
+            return redirect(url_for("index"))
+    else:
+        flash("Invalid file type. Please upload a PDF.", "error")
+
+    return redirect(url_for("index"))
+
+
+@app.route("/exam", methods=["GET", "POST"])
+def exam():
+    fname = session.get("exam_file")
+    exam_questions, answers = load_exam_state(fname)
+    if exam_questions is None or answers is None:
+        flash("No active exam. Please start an exam from the home screen.", "error")
+        return redirect(url_for("index"))
+
+    q_index = request.args.get("q_index")
+    if q_index is None:
+        q_index = 0
+    else:
+        try:
+            q_index = int(q_index)
+        except ValueError:
+            q_index = 0
+
+    if request.method == "POST":
+        selected = request.form.get("answer")
+        posted_index = request.form.get("q_index")
+        try:
+            posted_index = int(posted_index)
+        except (TypeError, ValueError):
+            posted_index = q_index
+        if 0 <= posted_index < len(answers):
+            answers[posted_index] = selected
+            # persist answers back to file
+            update_exam_answers(fname, answers)
+
+        if posted_index + 1 >= len(exam_questions):
+            return redirect(url_for("result"))
+        else:
+            return redirect(url_for("exam", q_index=posted_index + 1))
+
+    total = len(exam_questions)
+    if q_index < 0:
+        q_index = 0
+    if q_index >= total:
+        q_index = total - 1
+
+    # Build a shuffled display copy of options so that exam variants are random
+    question = copy.deepcopy(exam_questions[q_index])
+    original_options = question.get("options", [])[:]
+    shuffled_options = original_options[:]
+    random.shuffle(shuffled_options)
+    question["display_options"] = shuffled_options
+    current_answer = answers[q_index] if q_index < len(answers) else None
+
+    return render_template(
+        "index.html",
+        page="exam",
+        question=question,
+        q_index=q_index,
+        total=total,
+        current_answer=current_answer
+    )
+
+
+@app.route("/result", methods=["GET"])
+def result():
+    fname = session.get("exam_file")
+    exam_questions, answers = load_exam_state(fname)
+    if not exam_questions or answers is None:
+        flash("No exam data found.", "error")
+        return redirect(url_for("index"))
+
+    total = len(exam_questions)
+    score = 0
+    detailed = []
+    status_list = []
+    for q, your in zip(exam_questions, answers):
+        correct = q.get("answer")
+        if your == correct:
+            status = "correct"
+            score += 1
+        elif your is None:
+            status = "unanswered"
+        else:
+            status = "incorrect"
+        status_list.append(status)
+        detailed.append({
+            "question": q.get("question"),
+            # keep original order for results
+            "options": q.get("options"),
+            "orig_index": q.get("orig_index"),
+            "correct_answer": correct,
+            "your_answer": your,
+            "status": status
+        })
+
+    return render_template(
+        "index.html",
+        page="result",
+        total=total,
+        score=score,
+        status_list=status_list,
+        detailed=detailed,
+        letters=[chr(ord('A')+i) for i in range(26)]
+    )
+
+
+@app.route("/download_results", methods=["GET"])
+def download_results():
+    fname = session.get("exam_file")
+    exam_questions, answers = load_exam_state(fname)
+    if not exam_questions or answers is None:
+        flash("No exam data found.", "error")
+        return redirect(url_for("index"))
+
+    out = []
+    for idx, (q, your) in enumerate(zip(exam_questions, answers), start=1):
+        out.append({
+            "index": idx,
+            "question": q.get("question"),
+            "options": q.get("options"),
+            "correct_answer": q.get("answer"),
+            "your_answer": your
+        })
+
+    tmp_path = DATASET_DIR / "last_results.json"
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+
+    return send_file(tmp_path, as_attachment=True, download_name="results.json")
+
+
+@app.route("/reset", methods=["GET"])
+def reset():
+    # remove server-side exam file if exists
+    fname = session.pop("exam_file", None)
+    remove_exam_file(fname)
+    session.pop("answers", None)
+    flash("Exam reset. You can start again.", "info")
+    return redirect(url_for("index"))
+
+
+@app.route("/uploads/<path:filename>", methods=["GET"])
+def serve_upload(filename):
+    # Serve uploaded PDFs for embedding
+    return send_from_directory(UPLOAD_DIR, filename)
+
+
+@app.route("/select_pdf", methods=["GET"])
+def select_pdf():
+    file_hash = request.args.get("hash")
+    archive = load_archive()
+    entry = next((e for e in archive if e.get("hash") == file_hash), None)
+    if not entry:
+        flash("PDF not found in archive.", "error")
+        return redirect(url_for("index"))
+
+    ds_path = entry.get("dataset_path")
+    if not ds_path or not os.path.exists(ds_path):
+        flash("Dataset for this PDF is missing.", "error")
+        return redirect(url_for("index"))
+
+    session["dataset_file"] = ds_path
+    session["current_pdf_filename"] = entry.get("stored_filename")
+    session.modified = True
+    flash("Selected archived PDF.", "success")
+    return redirect(url_for("index"))
+
+if __name__ == "__main__":
+    app.run(debug=True, port=5000)

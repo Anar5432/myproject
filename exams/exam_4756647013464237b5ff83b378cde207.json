@@ -1,0 +1,426 @@
+{
+  "questions": [
+    {
+      "question": "Cavanşir xəzərlərin Albaniyaya qarətçi yürüşlərinə son qoymaq üçün :",
+      "options": [
+        "Sasani şahı ilə hərbi qüvvələrini birləşdirdi",
+        "Sasanilərlə  ittifaq  bağladı",
+        "Ərəb xəlifəsi Müaviyyə ilə sülh  bağladı",
+        "Səlcuq sultanı ilə  dostluq əlaqələri yarandı",
+        "Xəzər xaqanının qızı ilə evləndi"
+      ],
+      "answer": "Xəzər xaqanının qızı ilə evləndi"
+    },
+    {
+      "question": "Quba xanı Fətəli xan öz sərhədlərini möhkəmləndirmək məqsədilə:",
+      "options": [
+        "Qonşularla dostluq münasibətlərini inkişaf etdirdi",
+        "Rusiyanın təəbəliyinə  keçdi",
+        "Gürcüstanla hərbi saziş bağladı",
+        "Osmanlı dövlətinin Rusiyaya qarşı ittifaq təklifini qəbul etdi",
+        "Cəngavər şahsevənlərin bir hissəsini xanlıq ərazisinə köçürtdü"
+      ],
+      "answer": "Cəngavər şahsevənlərin bir hissəsini xanlıq ərazisinə köçürtdü"
+    },
+    {
+      "question": "Quba xanı Fətəli xan  gürcü çarı II İrakli ilə birlikdə neçənci ildə Gəncəyə hucum  etdi?",
+      "options": [
+        "1789- cu ildə",
+        "1780- ci ildə",
+        "1792- ci ildə",
+        "1787- ci ildə",
+        "1788- ci ildə"
+      ],
+      "answer": "1788- ci ildə"
+    },
+    {
+      "question": "Səfəvilər  dövründə verilən tiyul torpaq mülkiyyət  formasının xüsusiyyətləri hansı bənddə düzgün əks  olunmuşdur?",
+      "options": [
+        "tiyul hərbi əyanlara verilirdi, gəlirin böyük hissəsi şah sarayının saxlanılmasına sərf olunurdu",
+        "tiyul torpağı şərtsiz sahiblik hesab edilir, nəsildən nəsilə keçmirdi",
+        "tiyul sahibi xəzinəyə vergi ödəməyə məcbur edilirdi",
+        "tiyul torpagından gələn gəlir qoşunun ehtiyaclarının ödənilməsinə xərclənirdi",
+        "tiyul sahibi dövlətə xidmət edir, gəlirin müəyyən  hissəsini özünə götürürdü"
+      ],
+      "answer": "tiyul sahibi dövlətə xidmət edir, gəlirin müəyyən  hissəsini özünə götürürdü"
+    },
+    {
+      "question": "Qara Yusif və Şirvanşah İbrahim arasında Kür çayı yaxınlığında döyüş baş vermişdi:",
+      "options": [
+        "1408- ci ildə",
+        "1421- ci ildə",
+        "1417- ci ildə",
+        "1406- cı ildə",
+        "1412- ci ildə"
+      ],
+      "answer": "1412- ci ildə"
+    },
+    {
+      "question": "1984-cü ildə İran hökümətinin rəsmi inzibati bölgüsünə əsasən  Cənubi Azərbaycan adlandırılmış ərazi əhatə edirdi:",
+      "options": [
+        "Rəşt, Həmədan , Mazandaran , Təbriz",
+        "Tehran ( Mərkəzi Azərbaycan ), Rəşt , Rey , Mazandaran",
+        "Zəncan, Rəşt , Marağa , Ərdəbil",
+        "Həmədan , Təbriz , Urmiya , Qəzvin",
+        "Şərqi Azərbaycan (Təbriz), Qərbi Azərbaycan (Urmiya) və Zəncan"
+      ],
+      "answer": "Şərqi Azərbaycan (Təbriz), Qərbi Azərbaycan (Urmiya) və Zəncan"
+    },
+    {
+      "question": "Rəvvadi hakimi Vəhsudanın səlcuqların vassal asılılığını qəbul etməsindən neçə il sonra Səlcuqlar Rəvvadilərin daxili müstəqilliyini tamam ləğv edərək Təbrizə səlcuq əmiri təyin etdilər?",
+      "options": [
+        "27 il",
+        "21 il",
+        "15 il",
+        "24 il",
+        "11 il"
+      ],
+      "answer": "11 il"
+    },
+    {
+      "question": "Cavad xanlığı neçənci ildə Quba xanlığı tərəfindən təşkil olunan Şimal – şərqi Azərbaycan ərazisinə daxil edildi?",
+      "options": [
+        "1767- ci ildə",
+        "1756- cı ildə",
+        "1769- cu ildə",
+        "1785- ci ildə",
+        "1768 - ci ildə"
+      ],
+      "answer": "1768 - ci ildə"
+    },
+    {
+      "question": "Sovet Rusiyasının  Azərbaycanı  işğal etməsindən sonra Bakıda hansı - leqal mətbuat orqanı fəaliyyət göstərirdi:",
+      "options": [
+        "Qurtuluş qəzeti",
+        "Açıq  söz qəzeti",
+        "Azərbaycan qəzeti",
+        "Yeni Qafqasiya  qəzeti",
+        "İstiqlal  qəzeti"
+      ],
+      "answer": "İstiqlal  qəzeti"
+    },
+    {
+      "question": "X əsrin ortalarında və ikinci yarısında Salari hökmdarı Mərzuban ibn Məhəmmədə, sonra isə onun varisi İbrahimə tabe olub, xərac ödəyirdi:",
+      "options": [
+        "Şirvanşah Fəriburz",
+        "Rəvvad-əl-Əzdi",
+        "Sacilərin hökmdarı Deysəm",
+        "Şirvanşah Heysəm ibn Xalid",
+        "Əbülheyca Rəvvadi"
+      ],
+      "answer": "Əbülheyca Rəvvadi"
+    },
+    {
+      "question": "Qonşu dövlətlərlə bərabərhüquqlu  əməkdaşlıq",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Müstəqil Azərbaycan Respublikasının  Dövlət Himni qəbul olundu:",
+      "options": [
+        "1996- cı il yanvarın 19- da",
+        "1995- ci il noyabrın 12- də",
+        "1994- ci il sentyabrın 20- də",
+        "1993- cü il aprelin 19- da",
+        "1992- ci il mayın 27- də"
+      ],
+      "answer": "1992- ci il mayın 27- də"
+    },
+    {
+      "question": "Azərbaycanda son Tunc və ilk Dəmir dövrünə aid olan mədəniyyəti müəyyən edin:1.Kür-Araz 2.Mustye 3.Xocalı-Gədəbəy 4.Quruçay",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "623- cü ildə Adərbayqanın paytaxtı Qazakada atəşpərəstliyin baş məbədi hansı Bizans imperatoru tərəfindən qarət edilmişdi:",
+      "options": [
+        "Mavriki",
+        "Foka",
+        "Roman Diogen",
+        "II Konstant",
+        "II İrakli"
+      ],
+      "answer": "II İrakli"
+    },
+    {
+      "question": "Dağlıq Qarabağa olan  iddialarından ermənilər  birdəfəlik   əl çəkməyi vəd etdilər:",
+      "options": [
+        "Araz- Türk  Respublikasının ləğv edilməsi ilə",
+        "Naxçıvanda erməni idarəçiliyinin yaradılması ilə",
+        "Tiflis sazişi ilə",
+        "Qərb dövlətlərinin  təhriki ilə",
+        "İrəvanın ermənilərə verilməsi ilə"
+      ],
+      "answer": "İrəvanın ermənilərə verilməsi ilə"
+    },
+    {
+      "question": "Araz çayı üzərində körpü saldırmış Şəddadi hökmdarı:",
+      "options": [
+        "III Fəzlun",
+        "Şavur",
+        "Əbülhəsən Ləşgəri",
+        "Məhəmməd ibn Şəddad",
+        "Fəzl ibn Məhəmməd"
+      ],
+      "answer": "Fəzl ibn Məhəmməd"
+    },
+    {
+      "question": "Ermənistandan türk  müsəlman əhalini  köçürmək",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "“Türkiyə casusu” kimi damğalanmış azərbaycanlı akademik:",
+      "options": [
+        "H.Hüseynov",
+        "M.Rəfili",
+        "M.İbrahimov",
+        "M.Arif",
+        "M.Dadaşzadə"
+      ],
+      "answer": "M.Dadaşzadə"
+    },
+    {
+      "question": "E.ə. 66-cı ildə Kür çayı sahilində baş vermiş döyüşün nəticəsi:",
+      "options": [
+        "Albanlar qalib gəldi",
+        "Döyüş nəticəsiz başa çatdı",
+        "Döyüş yarımçıq dayandırıldı",
+        "Parfiyalılar və atropatenalılar qalib gəldi",
+        "Romalılar qalib gəldi"
+      ],
+      "answer": "Romalılar qalib gəldi"
+    },
+    {
+      "question": "Azərbaycan Xalq Cümhuriyyəti Hökümətinin 1918-ci il 21 iyun  tarixli fərmanında nəzərdə tutulurdu:",
+      "options": [
+        "Ticarət və daxili bazarı dirçəltmək məqsədi ilə azad ticarətin yaradılması",
+        "Məktəblərin milliləşdirilməsi",
+        "Azərbaycan türk dilinin dövlət dili elan edilməsi",
+        "Xəzər dəniz donanmasının yaradılması",
+        "Dövlət bayrağının yaradılması"
+      ],
+      "answer": "Dövlət bayrağının yaradılması"
+    },
+    {
+      "question": "1806 –cı ilin yayında Şəkidə Rusiyaya qarşı üsyanın başlanmasına səbəb oldu:",
+      "options": [
+        "Vergilərin artırılması",
+        "Hacı xanın edam edilməsi",
+        "Səlim xanın hakimiyyətdən kənarlaşdırılması",
+        "Ermənistanın Ərazi iddiaları",
+        "İbrahimxəlil xanın ailəsi ilə birgə öldürülməsi"
+      ],
+      "answer": "İbrahimxəlil xanın ailəsi ilə birgə öldürülməsi"
+    },
+    {
+      "question": "Məzdəkilər üsyanından fərqli  olaraq Xürrəmilər hərəkatı :",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "XIX əsrin II yarısında Şimali Azərbaycan kəndliləri bölünürdü:",
+      "options": [
+        "Rəncbər və kəsbikar",
+        "Rəncbər və rəiyyət",
+        "Qərib və əkər",
+        "Rəncbər və xoşnişin",
+        "Sahibkar və dövlət kəndliləri"
+      ],
+      "answer": "Sahibkar və dövlət kəndliləri"
+    },
+    {
+      "question": "Xocalı-Gədəbəy arxeoloji mədəniyyətinin əhatə etdiyi dövr?",
+      "options": [
+        "E.ə. II minillik-I minilliyin əvvəlləri",
+        "E.ə. XIV-V əsrlər",
+        "E.ə. II minilliyin sonu",
+        "E.ə. XV-VII əsrlər",
+        "E.ə. XIV-VIII əsrlər"
+      ],
+      "answer": "E.ə. XIV-VIII əsrlər"
+    },
+    {
+      "question": "Ərəblər Albaniyanin müstəqilliyinə son qoydular:",
+      "options": [
+        "704-ci ildə Varaz-Trdatın öldürülməsi ilə",
+        "681-ci ildə Cavanşirin ölümündən sonra",
+        "Hilat şəhəri yaxınlığında xəzərləri məğlub etməklə",
+        "Xəzərlərdən kömək almaqla VIII əsrin əvvəllərində",
+        "705-ci ildə alban hakimi Şeruyə və ona yaxın adamların öldürülməsi ilə"
+      ],
+      "answer": "705-ci ildə alban hakimi Şeruyə və ona yaxın adamların öldürülməsi ilə"
+    },
+    {
+      "question": "Cənubi Azərbaycanda 1920- ci ilin  aprelində üsyana  başçılıq etmək üçün  təşkil olunmuşdu:",
+      "options": [
+        "Hərbi  Şura",
+        "ADF-nin  Mərkəzi komitəsi",
+        "İran Demokratik  Partiyası",
+        "Azərbaycan  Əyalət Komitəsi",
+        "İctimai  İdarə Heyəti"
+      ],
+      "answer": "İctimai  İdarə Heyəti"
+    },
+    {
+      "question": "1806-cı ildə hansı şəhərlər ruslar tərəfindən işğal edildi? 1.Şuşa 2.Dərbənd 3.Gəncə   4.Bakı 5.Şamaxı",
+      "options": [
+        "4.5",
+        "3.4",
+        "1.3",
+        "1.2",
+        "2.4"
+      ],
+      "answer": "2.4"
+    },
+    {
+      "question": "Assuriya ilə ənənəvi ittifaqı pozmuş Manna hökmdarı idi:",
+      "options": [
+        "İranzu",
+        "Aza",
+        "Ualli",
+        "Udaki",
+        "Ahşeri"
+      ],
+      "answer": "Ahşeri"
+    },
+    {
+      "question": "Atropatena Sasanilər tərəfindən işğal edildi:",
+      "options": [
+        "262- ci ildə",
+        "260- cı ildə",
+        "229- cı ildə",
+        "252-ci ildə",
+        "227- ci ildə"
+      ],
+      "answer": "227- ci ildə"
+    },
+    {
+      "question": "1846-1847-ci illər aqrar qanunları mülkiyyət hüquqlarının bərpasına istiqamətlənmişdi:",
+      "options": [
+        "Elatların",
+        "Kəndlilərin",
+        "Yerli əhalinin",
+        "Maldarların",
+        "Bəy və ağaların"
+      ],
+      "answer": "Bəy və ağaların"
+    },
+    {
+      "question": "Azərbaycan Respublikasında 1991- cı il  dekabrın 29- da  keçirilmiş ümumxalq səsverməsinin əsas  nəticələri :",
+      "options": [
+        "Azərbaycanın inzibati - idarəetmə sistemində  dəyişiklik  edildi",
+        "Azərbaycan xalqı yekdilliklə SSRİ- nin saxlanılmasına  tərəfdar  çıxdı",
+        "Azərbaycan Respublikasının yeni konstitusiyası qəbul edildi",
+        "Azərbaycan xalqı prezident idarə  üsulunun tətbiqinə   səs   verdi",
+        "Azərbaycan xalqı yekdilliklə respublikanın dövlət   müstəqilliyinə  tərəfdar çıxdı"
+      ],
+      "answer": "Azərbaycan xalqı yekdilliklə respublikanın dövlət   müstəqilliyinə  tərəfdar çıxdı"
+    },
+    {
+      "question": "Alban  hökmdarı  Urnayr hansı Sasani - Roma qarşılaşmalarında iştirak etmişdi:",
+      "options": [
+        "Kaar, Dzirav",
+        "Bələncər , Dzirav",
+        "Qədsiyyə,Bələncər,",
+        "Suzian, Amid",
+        "Amid, Dzirav"
+      ],
+      "answer": "Amid, Dzirav"
+    },
+    {
+      "question": "Aşşur hökmdarı III Salmanasarın  e.ə. 843 - cü il mixi yazılı kitabəsinə aiddir:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "AXC- nin  yeganə dayağı olan   Türkiyə ordusu hansı müqaviləyə əsasən  Azərbaycandan  çəkilməli idi:",
+      "options": [
+        "Moskva",
+        "Batum",
+        "Brest- Litovsk",
+        "Qars",
+        "Mudros"
+      ],
+      "answer": "Mudros"
+    },
+    {
+      "question": "Xalqın şikayətlərinə baxmaq üçün komissiya yaradılması",
+      "options": [
+        "1.3;",
+        "1.4;",
+        "3.4;",
+        "1.2;",
+        "2.3;"
+      ],
+      "answer": "2.3;"
+    }
+  ],
+  "answers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}
