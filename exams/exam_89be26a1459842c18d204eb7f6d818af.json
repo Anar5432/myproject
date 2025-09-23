@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Siyasi partiyaların yaranmasının ardıcıllığını müəyyən edin:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Məşrutə hərakatı dövründə Müzəffərəddin şahın üsyanın təsiri ilə verdiyi fərmanları müəyyən edin:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "tamğa və yarlıq sistemi ləğv edildi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "AXC-yə aid olanları müəyyən edin:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "1917 – ci ilin sentyabrında Gəncədə yaranmışdı:",
+      "options": [
+        "”Müdafiə” təşkilatı",
+        "”Qeyrət” partiyası",
+        "”Difai” partiyası",
+        "”Hümmət” təşkilatı",
+        "”İttihadi – islam” partiyası"
+      ],
+      "answer": "”İttihadi – islam” partiyası"
+    },
+    {
+      "question": "Çar Rusiyasının II və III Dövlət Dumalarına deputat seçilmiş azərbaycanlı:",
+      "options": [
+        "İ. Ziyadxanlı",
+        "F.Xoyski",
+        "Ə. Topçubaşov",
+        "C. M. Şaxtaxtinski",
+        "X.Xasməmmədov"
+      ],
+      "answer": "X.Xasməmmədov"
+    },
+    {
+      "question": "Talış-Muğan mədəniyyəti əhatə edir?",
+      "options": [
+        "e.ə. XX-XIX əsrləri",
+        "e.ə. XVII-XVI əsrləri",
+        "e.ə.XVI-XV  əsrləri",
+        "e.ə. V-III əsrləri",
+        "e.ə.XIV-VII  əsrləri"
+      ],
+      "answer": "e.ə.XIV-VII  əsrləri"
+    },
+    {
+      "question": "Rusiya Səttərxan  hərəkatını  yatırmaq üçün İrana  qoşun  yeritdi:",
+      "options": [
+        "1911- ci il noyabrın 6- da",
+        "1907 - ci il aprelin 5- də",
+        "1912- ci il martın 2- də",
+        "1908- cil il fevralın 11- də",
+        "1909 – cu il  aprelin 25- də"
+      ],
+      "answer": "1909 – cu il  aprelin 25- də"
+    },
+    {
+      "question": "Aşağıdakı Quberniyalardan hansı daha əvvəl yaradılmışdı?",
+      "options": [
+        "Gəncə",
+        "Bakı",
+        "İrəvan",
+        "Naxçıvan",
+        "Şamaxı"
+      ],
+      "answer": "Şamaxı"
+    },
+    {
+      "question": "Müvəqqəti hökumətin istefası ilə bütün hakimiyyət parlamentə verildi.",
+      "options": [
+        "1,4,5",
+        "1,2,3",
+        "3,4,5",
+        "2,4,5",
+        "1,3,4"
+      ],
+      "answer": "1,3,4"
+    }
+  ],
+  "answers": [
+    "Option 2 (auto-added)",
+    "Option 3 (auto-added)",
+    "Option 3 (auto-added)",
+    "Option 3 (auto-added)",
+    "”Difai” partiyası",
+    "Ə. Topçubaşov",
+    "e.ə.XVI-XV  əsrləri",
+    null,
+    null,
+    null
+  ]
+}

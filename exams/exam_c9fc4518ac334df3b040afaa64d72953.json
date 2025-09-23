@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Qaraqoyunlu bəyliyini möhkəmləndirmişdi",
+      "options": [
+        "1,4,5",
+        "2,3,4",
+        "3,4,5",
+        "1,2,3",
+        "1,3,5"
+      ],
+      "answer": "1,3,5"
+    },
+    {
+      "question": "Şimali Azərbaycanda komendant idarə üsulu dövründə mövcud olan distansiyalar:",
+      "options": [
+        "Bakı və Gəncə",
+        "Şirvan və Lənkəran",
+        "Lənkəran və Qaradağ",
+        "Bakı və Şamaxı",
+        "Qazax və Şəmşəddil"
+      ],
+      "answer": "Qazax və Şəmşəddil"
+    },
+    {
+      "question": "1801-ci ildə Şərqi Gürcüstan ilə birlikdə Rusiyaya birləşdirildi.",
+      "options": [
+        "Şəki xanlığı",
+        "Bakı xanlığı",
+        "Car-Balakən camaatlığı",
+        "Gəncə xanlığı",
+        "Qazax və Şəmşəddil sultanlıqları"
+      ],
+      "answer": "Qazax və Şəmşəddil sultanlıqları"
+    },
+    {
+      "question": "Ağqoyunlu - Osmanlı müharibələri zamanı osmanlıların məğlub olduğu döyüş:",
+      "options": [
+        "Otluqbeli",
+        "Qoçhisar",
+        "Beyşehir",
+        "Qoyluhisar",
+        "Malatya"
+      ],
+      "answer": "Malatya"
+    },
+    {
+      "question": "Gəncə  yaxınlığında   böyük şair Nizami Gəncəvi ilə görüşmüş Atabəy   hökmdarı :",
+      "options": [
+        "Özbək",
+        "Məhəmməd  Cahan  Pəhlivan",
+        "Əbubəkr",
+        "Şəmsəddin  Eldəniz",
+        "Qızıl Arslan"
+      ],
+      "answer": "Qızıl Arslan"
+    },
+    {
+      "question": "Atropatena ilə Parfiya arasında münasibətlərin pozulmasının səbəbi:",
+      "options": [
+        "Atropatenanın həm Romaya  , həm də Parfiyaya qarşı eyni mövqedə dayanması",
+        "Atropatena  hökmdarlarının xarici syasətdə Romaya meyl etməsi",
+        "Romanın mülklərini ələ keçirmək uğrunda mübarizə",
+        "Atropatenanın Selevkilərin  tərəfinə  keçməsi",
+        "Parfiyanın Atropatenanı bütövlükdə özünə tabe etməyə  çalışması"
+      ],
+      "answer": "Parfiyanın Atropatenanı bütövlükdə özünə tabe etməyə  çalışması"
+    },
+    {
+      "question": "Qafqaz müsəlmanlarının I qurultayı keçirilmişdi:",
+      "options": [
+        "1920 – ci il oktyabrında",
+        "1918 – ci il mayında",
+        "1919- ci il martında",
+        "1916- cı il mayında",
+        "1917 – ci il aprelində"
+      ],
+      "answer": "1917 – ci il aprelində"
+    },
+    {
+      "question": "X əsrin ortalarında və ikinci yarısında Salari hökmdarı Mərzuban ibn Məhəmmədə, sonra isə onun varisi İbrahimə tabe olub, xərac ödəyirdi:",
+      "options": [
+        "Şirvanşah Fəriburz",
+        "Rəvvad-əl-Əzdi",
+        "Sacilərin hökmdarı Deysəm",
+        "Şirvanşah Heysəm ibn Xalid",
+        "Əbülheyca Rəvvadi"
+      ],
+      "answer": "Əbülheyca Rəvvadi"
+    },
+    {
+      "question": "Yusif ibn Əbu Sacın hakimiyyəti dövrünə aid deyil:",
+      "options": [
+        "Dövlətin sərhədlərini möhkəmləndirmək üçün Dərbənd səddini təmir etməsi",
+        "Türk sülalələrinin hakimiyyəti altında Azərbaycanı ilk dəfə vahid müstəqil dövlətdə  birləşdirməsi",
+        "Azərbaycanın şimalındakı feodal hakimliklərini  asılı hala salınması",
+        "Maliyyə və vergi  sahəsində  tədbirlər həyata  keçirməsi",
+        "Qanunnamə qəbul etməsi"
+      ],
+      "answer": "Qanunnamə qəbul etməsi"
+    },
+    {
+      "question": "Osmanlı  dövlətinin Trabzonu tutmasının Ağqoyunlu  üçün  nəticəsi  :",
+      "options": [
+        "Ağqoyunlu dövləti Aralıq dənizinə yeganə çıxış yolunu itirdi",
+        "Ağqoyunlu dövləti Qaraqoyunlu və Teymurilərlə yaxınlaşması",
+        "Avropa dövlətləri ilə diplamatik əlaqələr kəsildi",
+        "Krımdakı  ticarət mərkəzləri ilə əlaqə gücləndi",
+        "Ağqoyunlu dövləti  Qara dənizə yeganə çıxış yolunu itirdi"
+      ],
+      "answer": "Ağqoyunlu dövləti  Qara dənizə yeganə çıxış yolunu itirdi"
+    }
+  ],
+  "answers": [
+    "1,3,5",
+    "Lənkəran və Qaradağ",
+    "Qazax və Şəmşəddil sultanlıqları",
+    "Malatya",
+    "Məhəmməd  Cahan  Pəhlivan",
+    "Parfiyanın Atropatenanı bütövlükdə özünə tabe etməyə  çalışması",
+    "1917 – ci il aprelində",
+    "Sacilərin hökmdarı Deysəm",
+    "Qanunnamə qəbul etməsi",
+    "Krımdakı  ticarət mərkəzləri ilə əlaqə gücləndi"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question": "Aratta dövlət qurumu meydana çıxıb?",
+      "options": [
+        "e.ə.II minillik və e.ə.I minilliyin əvvəlində",
+        "e.ə.IV minilliyin ikinci yarısında",
+        "e.ə.VI-V minilliklərdə",
+        "e.ə.VI minillikdə",
+        "e.ə.III minilliyin birinci yarısında"
+      ],
+      "answer": "e.ə.III minilliyin birinci yarısında"
+    },
+    {
+      "question": "Səfəvi dövlətinin Portuqaliya ilə münasibətlərinin gərginləşməsinin səbəbi:",
+      "options": [
+        "Osmanlı imperatorluğu ilə müharibədə Portuqaliyanın iştirak etməməsi",
+        "Portuqaliyalı rahiblərin Səfəvi dövləti ərazisində missionerlik fəaliyyəti ilə məşğul olması",
+        "Portuqaliyanın Osmanlı dövləti ilə sazişə girməsi",
+        "Portuqaliyanın odlu silah hazırlamaq üçün Səfəvi dövlətinə mütəxəssislər göndərməməsi",
+        "Portuqaliyanın Hörmüzü ələ keçirərək Səfəvilərin Hind okeanına çıxışını kəsməsi"
+      ],
+      "answer": "Portuqaliyanın Hörmüzü ələ keçirərək Səfəvilərin Hind okeanına çıxışını kəsməsi"
+    },
+    {
+      "question": "1553-cü ildə Səfəvilərin Rusiya ilə yaxınlaşmağa çalışması hansı dövlətə qarşı yönəlmişdi?",
+      "options": [
+        "Şeybanilərə",
+        "Misirə",
+        "Krım xanlığına",
+        "Dağıstana",
+        "Osmanlı dövlətinə"
+      ],
+      "answer": "Osmanlı dövlətinə"
+    },
+    {
+      "question": "İlk  Azərbaycan filmi  olmuşdur:",
+      "options": [
+        "Ər və arvad",
+        "Arşın mal alan",
+        "Dəli Kür",
+        "O olmasın, bu olsun",
+        "Neft və milyonlar səltənətində"
+      ],
+      "answer": "Neft və milyonlar səltənətində"
+    },
+    {
+      "question": "Səlcuq hökmdarı  Sultan Toğrulun Şirvana hücumu nə zaman baş vermişdi:",
+      "options": [
+        "1130- cu ildə",
+        "1121- ci ildə",
+        "1120- ci ildə",
+        "1125- ci ildə",
+        "1123- cü ildə"
+      ],
+      "answer": "1123- cü ildə"
+    }
+  ],
+  "answers": [
+    "e.ə.II minillik və e.ə.I minilliyin əvvəlində",
+    "Portuqaliyanın Hörmüzü ələ keçirərək Səfəvilərin Hind okeanına çıxışını kəsməsi",
+    "Osmanlı dövlətinə",
+    "Neft və milyonlar səltənətində",
+    "1123- cü ildə"
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "questions": [
+    {
+      "question": "Şəmsəddin Eldənizə 1136 - cı ildə iqta şəklində bağışlanmışdı :",
+      "options": [
+        "Təbriz, Əhər və Rey",
+        "Naxçıvan",
+        "Şirvan",
+        "Kürdən cənubdakı Azərbaycan torpaqları",
+        "Arran"
+      ],
+      "answer": "Arran"
+    },
+    {
+      "question": "Manna adına ilk dəfə rast gəlinməsi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Göstərilənlərin hansı hökmdara aid olduğunu müəyyən edin:1)Xəlifə onu Azərbaycan və Ərməniyə canişini , habelə Rey, Qəzvin, Zəncan valisi təyin etdi, 2), bunun müqabilində hər il xəzinəyə 500 min dinar xərac verməli idi.",
+      "options": [
+        "Yəzid ibn Məzyəd",
+        "Heysəm ibn Xalid",
+        "Əbu Sac Divdad",
+        "Mərzuban ibn Məhəmməd",
+        "Yusif ibn Əbu Sac"
+      ],
+      "answer": "Yusif ibn Əbu Sac"
+    },
+    {
+      "question": "Şəddadilər dövlətinin qoşunu təşkil olunmuşdu :",
+      "options": [
+        "Artileriya və piyada qoşunu",
+        "Ayrı - ayrı köçəri tayfalardan toplanmış suvarilər və piyadalar",
+        "Qeyri - türklərdən toplanmış xüsusi qvardiya",
+        "Feodallardan ibarət suvarilər",
+        "Daimi nizami qvardiya və könüllülər"
+      ],
+      "answer": "Daimi nizami qvardiya və könüllülər"
+    },
+    {
+      "question": "Araz çayı üzərində körpü saldırmış Şəddadi hökmdarı:",
+      "options": [
+        "III Fəzlun",
+        "Şavur",
+        "Əbülhəsən Ləşgəri",
+        "Məhəmməd ibn Şəddad",
+        "Fəzl ibn Məhəmməd"
+      ],
+      "answer": "Fəzl ibn Məhəmməd"
+    },
+    {
+      "question": "Tarixi qaynaqlarda albanlarla dostluq münasibətləri saxlayan Roma imperatoru hesab olunur:",
+      "options": [
+        "Yuli Sezar",
+        "İrakli",
+        "Oktavian Avqust",
+        "Mavriki",
+        "Adrian"
+      ],
+      "answer": "Adrian"
+    },
+    {
+      "question": "Suriya qaynaqlarına görə Albaniya ərazisi orta əsrlərdə necə adlandırılırdı",
+      "options": [
+        "Arran",
+        "Aqvan",
+        "Alpan",
+        "Alovan",
+        "Aran"
+      ],
+      "answer": "Aran"
+    },
+    {
+      "question": "Səfəvilərin siyasi fəaliyyəti hansı Ərdəbil hakiminin dövründən başlanmışdı:",
+      "options": [
+        "Şeyx İbrahim",
+        "Şeyx Musa",
+        "Şeyx Xacə Əli",
+        "Şeyx  Səfiyyədin",
+        "Şeyx Cüneyd"
+      ],
+      "answer": "Şeyx Cüneyd"
+    },
+    {
+      "question": "E.ə.VII əsrin ortalarında skit hökmdarı:",
+      "options": [
+        "II Sarqon",
+        "Sarduri",
+        "Asarhaddn",
+        "Şamaş",
+        "Tuqdamme"
+      ],
+      "answer": "Tuqdamme"
+    },
+    {
+      "question": "Alanların  Parfiyaya   hücumu çərçivəsində Adərbayqana   dağıdıcı  yürüşləri nə  zaman olmuşdur:",
+      "options": [
+        "145- ci ildə",
+        "262- ci ildə",
+        "260- cı ildə",
+        "114- cü ildə",
+        "136- cı ildə"
+      ],
+      "answer": "136- cı ildə"
+    },
+    {
+      "question": "Lulubilərin xırda hakimlərini  mərkəzi  dövlətdə  birləşdirən  Lullubi hökmdarı :",
+      "options": [
+        "Satuni",
+        "İşpakay",
+        "Partatua",
+        "Sukusşiranna",
+        "İmmaşqun"
+      ],
+      "answer": "İmmaşqun"
+    },
+    {
+      "question": "Gəncənin müdafiəsini möhkəmləndirmək üçün\"Gəncə qapılarının\" düzəldilməsi haqqında əmr vermişdi:",
+      "options": [
+        "Ləşkəri",
+        "Məhəmməd ibn Şəddad",
+        "III Fəzl",
+        "I Fəzl",
+        "Əbləsüvar Şavur"
+      ],
+      "answer": "Əbləsüvar Şavur"
+    },
+    {
+      "question": "E.ə. III minilliyin birinci yarısında:",
+      "options": [
+        "Arattada dövlət yaranmış, nizami ordu yaradılıb, silah istehsal olunmaqla Mesapatomiyaya səfərlər təşkil edilib.",
+        "Aratta haqqında “En-Merkar” dastanı və III Salmanasarın daş kitabəsində məlumat verilir.",
+        "Arattada dövlətə məxsus idarə orqanları və vəzifəli şəxslər kiçik feodallar meydana gəlmişdi.",
+        "Arattada dövlətə məxsus idarə orqanları və vəzifəli şəxslər, icmaçi kəndlilər meydana gəlmişdi.",
+        "Aratta Cənubi Azərbaycanda yaranmış,onun ərazisi Urmiya gölünün cənub və cənub-şərq hissəsini əhatə edirdi."
+      ],
+      "answer": "Aratta Cənubi Azərbaycanda yaranmış,onun ərazisi Urmiya gölünün cənub və cənub-şərq hissəsini əhatə edirdi."
+    },
+    {
+      "question": "Azərbaycan ərazisində Səlcuqların hücum və təzyiqləri nəticəsində fəaliyyətlərini dayandırmağa məcbur olmuş dövlətləri müəyyən edin:",
+      "options": [
+        "Şirvanşahlar, Sacilər, Salarilər",
+        "Salarilər, Rəvvadilər,Şirvanşahlar",
+        "Salarilər, Şəddadilər, Sacilər",
+        "Sacilər, Rəvvadilər,Şəddadilər",
+        "Şəddadilər, Rəvvadilər, Şirvanşahlar"
+      ],
+      "answer": "Şəddadilər, Rəvvadilər, Şirvanşahlar"
+    },
+    {
+      "question": "Salarilər dövləti əhatə edirdi:",
+      "options": [
+        "Şimalda Şəkidən cənubda Ərdəbilə qədər",
+        "şimalda Bələncərdən cənubda Qəzvinə qədər",
+        "şimalda Kür çayıdan  cənubda Zəncana qədər",
+        "Şimalda Dərbənddən cənubda Kür çayına  qədər",
+        "Şimalda Dərbənddən  cənubda Dəclə Fərat çaylarına qədər"
+      ],
+      "answer": "Şimalda Dərbənddən  cənubda Dəclə Fərat çaylarına qədər"
+    },
+    {
+      "question": "IX əsrdə Dərbənddən Kür çayınadək Xəzər dənizi sahillərindəki Azərbaycan torpaqlarını əhatə edirdi",
+      "options": [
+        "Rəvvadilər",
+        "Salarilər",
+        "Şəddadilər",
+        "Sacilər",
+        "Şirvanşahlar"
+      ],
+      "answer": "Şirvanşahlar"
+    },
+    {
+      "question": "Cənubi Azərbaycan, İran Kürdüstanı və Şimali Azərbaycanın müəyyən hissəsini əhatə edən qədim dövlətimiz adlanırdı:",
+      "options": [
+        "Albaniya",
+        "Kimmer- skit padşahlığı",
+        "Aratta",
+        "Manna",
+        "Atropatena"
+      ],
+      "answer": "Atropatena"
+    },
+    {
+      "question": "Manna hökmdarı Ullusunu ölkənin ərazi bütövlüyünü və müstəqilliyini saxlamaq üçün arxalanırdı:",
+      "options": [
+        "Atası Azaya",
+        "I Rusaya",
+        "Aşşurbanıpala",
+        "III Tiqlatpalasara",
+        "II Sarqona"
+      ],
+      "answer": "II Sarqona"
+    },
+    {
+      "question": "Atropatena ilə Parfiya arasında münasibətlərin pozulmasının səbəbi:",
+      "options": [
+        "Atropatenanın həm Romaya  , həm də Parfiyaya qarşı eyni mövqedə dayanması",
+        "Atropatena  hökmdarlarının xarici syasətdə Romaya meyl etməsi",
+        "Romanın mülklərini ələ keçirmək uğrunda mübarizə",
+        "Atropatenanın Selevkilərin  tərəfinə  keçməsi",
+        "Parfiyanın Atropatenanı bütövlükdə özünə tabe etməyə  çalışması"
+      ],
+      "answer": "Parfiyanın Atropatenanı bütövlükdə özünə tabe etməyə  çalışması"
+    },
+    {
+      "question": "Kitabədə qarət- talan haqqında heç  bir məlumata rast gəlinməməsi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "I Şah İsmayılın hakimiyyəti dövrünə aid olan hadisələri göstərin:1. Amasiya sülhünün bağlanması 2. Mərv döyüşündə Şeybanilər üzərində qələbə qazanılması 3. Bütün Azərbaycan torpaqlarının vahid dövlətdə birləşdirilməsi 4. Həmədan yaxınlığındakı Almaqulağı adlı yerdə Ağqoyunlu Murad Mirzə üzərində qələbə qazanılması",
+      "options": [
+        "3, 4",
+        "2, 3",
+        "1, 2",
+        "1, 3",
+        "2, 4"
+      ],
+      "answer": "2, 4"
+    },
+    {
+      "question": "1553-cü ildə Səfəvilərin Rusiya ilə yaxınlaşmağa çalışması hansı dövlətə qarşı yönəlmişdi?",
+      "options": [
+        "Şeybanilərə",
+        "Misirə",
+        "Krım xanlığına",
+        "Dağıstana",
+        "Osmanlı dövlətinə"
+      ],
+      "answer": "Osmanlı dövlətinə"
+    },
+    {
+      "question": "İlk dəfə “alban” adı qaynaqlarda işlədilməyə başlamışdır:",
+      "options": [
+        "e.ə.V əsrdə",
+        "e.ə.VIII əsrdə",
+        "II əsrdə",
+        "e.ə IV əsrdə",
+        "e.ə.I-e.I əsrdə"
+      ],
+      "answer": "e.ə.I-e.I əsrdə"
+    },
+    {
+      "question": "889 -cu ildə ərəblər tərəfindən Azərbaycanın hakimi təyin olunmuşdu",
+      "options": [
+        "Mərzban ibn Məhəmməd",
+        "Əbu Sac Divdad",
+        "Yusif Əbu Sac",
+        "İbrahim ibn Mərzban",
+        "Məhəmməd Əbu Sac"
+      ],
+      "answer": "Məhəmməd Əbu Sac"
+    },
+    {
+      "question": "Rəvvadilər dövləti öz müstəqilliyini itirərək səlcuqların hakimiyyəti altına keçdi?",
+      "options": [
+        "1088-cü ildə",
+        "1037-ci ildə",
+        "1227-ci ildə",
+        "1055-ci ildə",
+        "1065-ci ildə"
+      ],
+      "answer": "1065-ci ildə"
+    },
+    {
+      "question": "Çaldıran döyüşünün nəticəsi nədən ibarət oldu:",
+      "options": [
+        "Cənubi Azərbaycan Osmanlılara verildi.",
+        "Döyüş nəticəsiz başa çatdı.",
+        "Gürcüstan ərazisi Səfəvilərlə Osmanlılar arasında bölüşdürüldü.",
+        "Səfəvilər bütün Azərbaycan ərazisini itirdilər.",
+        "Türkiyə Ərzurum şəhəri ilə birlikdə Qəri Anadolu və Şimali Mesopotamiyaya yiyələndi."
+      ],
+      "answer": "Türkiyə Ərzurum şəhəri ilə birlikdə Qəri Anadolu və Şimali Mesopotamiyaya yiyələndi."
+    },
+    {
+      "question": "Rəvvadilər dövlətinin paytaxtı Təbriz  Səlcuqlar tərəfindən tutuldu:",
+      "options": [
+        "1043- cü ildə",
+        "1050- ci ildə",
+        "1045- ci ildə",
+        "1038- ci ildə",
+        "1054- cü ildə"
+      ],
+      "answer": "1054- cü ildə"
+    },
+    {
+      "question": "Quriya,Menqreliya, İmeretiyanın Osmanlılara,Mesxiya, Kartli , Kaxetiyanın Səfəvi nəzarətinə keçməsini təsdiqləyən sülh necə adlanır:",
+      "options": [
+        "Qəsri- Şirin",
+        "İstanbul",
+        "Sərab",
+        "Mərənd",
+        "Amasiya"
+      ],
+      "answer": "Amasiya"
+    },
+    {
+      "question": "Şirvanşah Axsitana aid olanları müəyyən edin:1)Dənizdə hərbi donanmanı, quruda ordunu xeyli gücləndirdi 2)Alimləri, filosfları,şairləri himayə edirdi3)Kür çayından torpaqları suvarmaq üçün Şamaxıya kanal çəkdirdi.4)Monqolların I yürüşü zamanı əlaqə yaratmaq üçün 10 nəfərdən ibarət elçi göndərdi 5)Atasından fərqli olaraq Atabəylərə düşmənçilik edirdi.",
+      "options": [
+        "2.5",
+        "1, 4",
+        "2.4",
+        "3.5",
+        "1.2"
+      ],
+      "answer": "1.2"
+    },
+    {
+      "question": "Mannaya hücum edən II Russanın adının çəkilməsi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    }
+  ],
+  "answers": [
+    "Şirvan",
+    "Option 5 (auto-added)",
+    "Mərzuban ibn Məhəmməd",
+    "Daimi nizami qvardiya və könüllülər",
+    "Fəzl ibn Məhəmməd",
+    "Adrian",
+    "Aran",
+    "Şeyx Cüneyd",
+    "Tuqdamme",
+    "136- cı ildə",
+    "İmmaşqun",
+    "Əbləsüvar Şavur",
+    "Aratta Cənubi Azərbaycanda yaranmış,onun ərazisi Urmiya gölünün cənub və cənub-şərq hissəsini əhatə edirdi.",
+    "Şəddadilər, Rəvvadilər, Şirvanşahlar",
+    "Şimalda Dərbənddən  cənubda Dəclə Fərat çaylarına qədər",
+    "Şirvanşahlar",
+    "Atropatena",
+    "II Sarqona",
+    "Parfiyanın Atropatenanı bütövlükdə özünə tabe etməyə  çalışması",
+    "Option 5 (auto-added)",
+    "1, 3",
+    "Dağıstana",
+    "e.ə.I-e.I əsrdə",
+    "Məhəmməd Əbu Sac",
+    "1065-ci ildə",
+    "Türkiyə Ərzurum şəhəri ilə birlikdə Qəri Anadolu və Şimali Mesopotamiyaya yiyələndi.",
+    "1054- cü ildə",
+    "Amasiya",
+    "1.2",
+    "Option 5 (auto-added)"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question": "Qafqaz müsəlmanlarının I qurultayı keçirilmişdi:",
+      "options": [
+        "1920 – ci il oktyabrında",
+        "1918 – ci il mayında",
+        "1919- ci il martında",
+        "1916- cı il mayında",
+        "1917 – ci il aprelində"
+      ],
+      "answer": "1917 – ci il aprelində"
+    },
+    {
+      "question": "XV- XVI əsrlərə aid memarlıq abidələrini göstərin:",
+      "options": [
+        "Üç günbəz, Göy günbəz , Əlincə çayı üzərində körpü ,Əlincə qalası",
+        "Əlincə çayı üzərində tikilmiş körpü, Mömünə xatun türbəsi, Əlincə qalası, Ağbil məqbərəsi",
+        "Oğlanqala , Xudafərin körpüsü , Qəlaybuğurd qalası , Mömünəxatun türbəsi , Şeyx Cüneyd məqbərəsi",
+        "Gülüstan qalası, Şirvanşahlar sarayı, Qız qalası, Həşt- behişt",
+        "Qeysəriyyə bazarı, Nəsriyyə və Məqsudiyyə məqrəbəsi , Şeyx Cüneyd məqbərəsi, Bakının şərq darvazaları"
+      ],
+      "answer": "Qeysəriyyə bazarı, Nəsriyyə və Məqsudiyyə məqrəbəsi , Şeyx Cüneyd məqbərəsi, Bakının şərq darvazaları"
+    },
+    {
+      "question": "1830-cu il Car-Balakən üsyanının nəticəsidir",
+      "options": [
+        "Hərbi idarə ləğv edildi",
+        "Komendant idarə üsulu ləğv edildi",
+        "Keşkəl torpaq sahibliyi ləğv edildi",
+        "Təhkimçilik ləğv edildi",
+        "Məğlub oldu"
+      ],
+      "answer": "Məğlub oldu"
+    },
+    {
+      "question": "Suriya qaynaqlarına görə Albaniya ərazisi orta əsrlərdə necə adlandırılırdı",
+      "options": [
+        "Arran",
+        "Aqvan",
+        "Alpan",
+        "Alovan",
+        "Aran"
+      ],
+      "answer": "Aran"
+    },
+    {
+      "question": "1804-cü il 3 yanvarda işğal edildi:",
+      "options": [
+        "Dərbənd",
+        "Bakı",
+        "Şuşa",
+        "Şəmsəddil",
+        "Gəncə"
+      ],
+      "answer": "Gəncə"
+    }
+  ],
+  "answers": [
+    "1918 – ci il mayında",
+    "Əlincə çayı üzərində tikilmiş körpü, Mömünə xatun türbəsi, Əlincə qalası, Ağbil məqbərəsi",
+    "Keşkəl torpaq sahibliyi ləğv edildi",
+    "Alovan",
+    "Şuşa"
+  ]
+}
