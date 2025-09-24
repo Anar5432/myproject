@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Səlcuqlar  sultan Toğrulun başçılığı  altında nə zaman Azərbaycana  daxil  oldular:",
+      "options": [
+        "XII əsrin ortalarında",
+        "XI əsrin  sonlarında",
+        "X əsrin 60- cı illərində",
+        "XI əsrin 80  - ci  illərində",
+        "XI əsrin 50 – ci  illərində"
+      ],
+      "answer": "XI əsrin 50 – ci  illərində"
+    },
+    {
+      "question": "Azərbaycan Respublikasında  ilk  dəfə test  üsulu tətbiq edildi:",
+      "options": [
+        "1994 - cü ildə",
+        "1996- cı ildə",
+        "1993- cü ildə",
+        "1995- ci ildə",
+        "1992- ci ildə"
+      ],
+      "answer": "1992- ci ildə"
+    },
+    {
+      "question": "Birinci dünya müharibəsi ərəfəsində  Azərbaycan neftini ələ keçirmək uğrunda mübarizə aparan dövlətlər ?",
+      "options": [
+        "Hollandiya, İsveç, Norveç",
+        "İngiltərə, Portuqaliya, İspaniya",
+        "Amerika, Fransa, Rusiya",
+        "Rusiya, İsveç, Almaniya",
+        "İngiltərə, Fransa, Almaniya"
+      ],
+      "answer": "İngiltərə, Fransa, Almaniya"
+    },
+    {
+      "question": "1917- ci ildə  I qurultayı keçirilmişdi",
+      "options": [
+        "2,3,4;",
+        "1,4,5;",
+        "1,3,5;",
+        "2,4,5;",
+        "1,2,4;"
+      ],
+      "answer": "1,2,4;"
+    },
+    {
+      "question": "1840-cı illərdə Cənubi Qafqazda həyata keçirilmiş inzibati islahatın nəticələrindəndir:",
+      "options": [
+        "Bütün quberniya və qəzalar ləğv edildi",
+        "Canişinlik ləğv edildi",
+        "“Ali müsəlman silki ”ni hüquqları artırıldı",
+        "Komendant idarə üsulu yenidən təşkil edildi",
+        "Yerli imtiyazlı məmurların hüquq və imtiyazları əllərindən alındı"
+      ],
+      "answer": "Yerli imtiyazlı məmurların hüquq və imtiyazları əllərindən alındı"
+    },
+    {
+      "question": "1521-ci ildə Qızılbaşların Gürcüstana üçüncü yürüşü nə ilə əlaqədar oldu:",
+      "options": [
+        "Kaxetiya ərazisində Səfəvilərə qarşı başlanmış üsyan",
+        "Kartli çarının Şirvana yürüşü",
+        "Kaxetiya hakiminin Kartliyə hücumu",
+        "Kaxetiya hakiminin xərac verməkdən imtina etməsi",
+        "Kaxetiya çarı Ləvənd xanın Şəkiyə hücumu"
+      ],
+      "answer": "Kaxetiya çarı Ləvənd xanın Şəkiyə hücumu"
+    },
+    {
+      "question": "XI əsrin əvvəllərində səlcuq türkləri əvvəlki türk axınlarından  fərqli olaraq Azərbaycana hansı yolla gəlmişlər?",
+      "options": [
+        "Ölkənin qərbindən İrəvan yolu ilə",
+        "Qərbdən Osmanlı yolu ilə",
+        "Şimaldan Dərbənd yolu ilə",
+        "Gürcüstan yolu ilə",
+        "Ölkənin cənubundan İran yolu ilə"
+      ],
+      "answer": "Ölkənin cənubundan İran yolu ilə"
+    },
+    {
+      "question": "XII əsr memarlıq abidələrinə aid deyil:",
+      "options": [
+        "Mömünə xatun türbəsi",
+        "Üç günbəz",
+        "Xanəgah  kəndində sərdabə",
+        "Yusif İbn Küseyr  türbəsi",
+        "Təbrizdə  Şənbi Qazan  abidəsi"
+      ],
+      "answer": "Təbrizdə  Şənbi Qazan  abidəsi"
+    },
+    {
+      "question": "Quba xanı Fətəli xan 1769 – cu ildə lazım olduqda ona qoşun verməyi qəbul edən müqaviləni hansı xanlıqla baglamışdı?",
+      "options": [
+        "Naxçıvan",
+        "Lənkəran",
+        "Ərdəbil",
+        "Qarabag",
+        "Şəki"
+      ],
+      "answer": "Şəki"
+    },
+    {
+      "question": "1755 – ci ildə Hacı Çələbi Şirvana hücumu  zamanı hansı xanlıqların birləşmiş qüvvələrinə məglub oldu?",
+      "options": [
+        "Gəncə və Şamaxı",
+        "Qarabag və Gəncə",
+        "Quba və Qarabağ",
+        "Şamaxı və Ərdəbil",
+        "Şamaxı  və Quba"
+      ],
+      "answer": "Şamaxı  və Quba"
+    }
+  ],
+  "answers": [
+    "XI əsrin 50 – ci  illərində",
+    "1992- ci ildə",
+    "İngiltərə, Portuqaliya, İspaniya",
+    "1,2,4;",
+    "Yerli imtiyazlı məmurların hüquq və imtiyazları əllərindən alındı",
+    "Kaxetiya ərazisində Səfəvilərə qarşı başlanmış üsyan",
+    "Ölkənin cənubundan İran yolu ilə",
+    "Təbrizdə  Şənbi Qazan  abidəsi",
+    "Naxçıvan",
+    "Quba və Qarabağ"
+  ]
+}

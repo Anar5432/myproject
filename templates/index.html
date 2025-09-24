@@ -10,20 +10,39 @@
 <body>
   <div class="app-container">
     <header class="app-header">
-      <h1>Quiz for Unec</h1>
-      <div class="subtitle">Upload PDF → Start Exam</div>
+      <div class="topbar">
+        <div class="brand">
+          <h1>Quiz for Unec</h1>
+          <div class="subtitle">Upload PDF → Start Exam</div>
+        </div>
+        <div class="auth-actions">
+          {% if username %}
+            <a class="who" href="{{ url_for('account') }}" title="Account">
+              <span class="avatar">{{ username[:1]|upper }}</span>
+              <span class="name">{{ username }}</span>
+            </a>
+            <form method="post" action="{{ url_for('logout') }}">
+              <button class="header-btn" type="submit">Logout</button>
+            </form>
+          {% else %}
+            <a class="header-btn" href="{{ url_for('login') }}">Login</a>
+            <a class="header-btn solid" href="{{ url_for('signup') }}">Sign up</a>
+          {% endif %}
+        </div>
+      </div>
     </header>
+    {% if username %}
+      {% set users = [] %}
+    {% endif %}
 
     <div class="app-body">
 
       {# Flash messages #}
       {% with messages = get_flashed_messages(with_categories=true) %}
         {% if messages %}
-          <div class="flash-messages" style="margin:12px 0;">
+          <div class="flash-messages">
             {% for cat, msg in messages %}
-              <div class="flash {{ cat }}" style="padding:10px;border-radius:8px;margin-bottom:8px;">
-                {{ msg }}
-              </div>
+              <div class="flash {{ cat }}">{{ msg }}</div>
             {% endfor %}
           </div>
         {% endif %}
@@ -118,10 +137,8 @@
           </div>
 
           <div class="reveal-row">
-            <button type="button" id="revealBtn" class="secondary-btn">Show answer</button>
-            <div id="answerHint" class="answer-hint" style="display:none;">
-              Correct answer: <strong>{{ question.answer }}</strong>
-            </div>
+            <button type="button" id="revealBtn" class="secondary-btn">Show result</button>
+            <div id="answerHint" class="answer-hint" style="display:none;"></div>
           </div>
 
           <div class="nav-row" style="margin-top:14px;">
@@ -135,13 +152,69 @@
           const revealBtn = document.getElementById("revealBtn");
           const hint = document.getElementById("answerHint");
           if (revealBtn && hint) {
-            revealBtn.addEventListener("click", () => {
-              const showing = hint.style.display !== "none";
-              hint.style.display = showing ? "none" : "block";
-              revealBtn.textContent = showing ? "Show answer" : "Hide answer";
-            });
+            const correct = "{{ question.answer|e }}";
+            const optionLabels = document.querySelectorAll('.options-list .option-label');
+            const radios = document.querySelectorAll('.options-list input[type="radio"]');
+            function showResult(show){
+              if(!show){
+                hint.style.display = 'none';
+                optionLabels.forEach(el=>el.classList.remove('correct','incorrect','your'));
+                return;
+              }
+              let your = null;
+              radios.forEach(r=>{ if(r.checked){ your = r.value; } });
+              optionLabels.forEach(l=>{
+                const text = l.querySelector('.option-text').textContent.trim();
+                if(text === correct){ l.classList.add('correct'); }
+                if(your && text === your && your !== correct){ l.classList.add('incorrect'); }
+                if(your && text === your){ l.classList.add('your'); }
+              });
+            
+            }
+            let open=false;
+            revealBtn.addEventListener('click', ()=>{ open=!open; showResult(open); revealBtn.textContent = open? 'Hide result' : 'Show result'; });
           }
         </script>
+      </section>
+      {% endif %}
+
+      {# ACCOUNT PAGE #}
+      {% if page == "account" %}
+      <section class="section auth-card">
+        <h3>Your account</h3>
+        <div class="account-block">
+          <div class="account-row"><span>Username</span><strong>{{ account.username }}</strong></div>
+          <div class="account-row"><span>Full name</span><strong>{{ account.full_name or '-' }}</strong></div>
+          <div class="account-row"><span>Email</span><strong>{{ account.email }}</strong></div>
+        </div>
+      </section>
+      {% endif %}
+
+      {# AUTH: LOGIN #}
+      {% if page == "login" %}
+      <section class="section auth-card">
+        <h3>Welcome back</h3>
+        <p class="small" style="margin-top:4px;">Log in to access your archive.</p>
+        <form method="post" action="{{ url_for('login') }}" class="auth-form">
+          <input class="auth-input" name="username" placeholder="Username" required>
+          <input class="auth-input" type="password" name="password" placeholder="Password" required>
+          <button class="primary-btn" type="submit">Login</button>
+        </form>
+      </section>
+      {% endif %}
+
+      {# AUTH: SIGNUP #}
+      {% if page == "signup" %}
+      <section class="section auth-card">
+        <h3>Create your account</h3>
+        <p class="small" style="margin-top:4px;">It takes less than a minute.</p>
+        <form method="post" action="{{ url_for('signup') }}" class="auth-form">
+          <input class="auth-input" name="username" placeholder="Username" required>
+          <input class="auth-input" name="full_name" placeholder="Full name">
+          <input class="auth-input" type="email" name="email" placeholder="Email" required>
+          <input class="auth-input" type="password" name="password" placeholder="Password" required>
+          <button class="primary-btn" type="submit">Sign up</button>
+        </form>
       </section>
       {% endif %}
 
@@ -173,8 +246,8 @@
             <div class="question-card-body">
               {% for opt in d.options %}
                 <div class="option-text
-                  {% if opt == d.correct_answer %} correct-answer
-                  {% elif opt == d.your_answer and opt != d.correct_answer %} your-answer
+                  {% if loop.index0 == d.correct_index %} correct-answer
+                  {% elif opt == d.your_answer and loop.index0 != d.correct_index %} your-answer
                   {% endif %}">
                   <strong>{{ letters[loop.index0] }}.</strong> {{ opt }}
                 </div>

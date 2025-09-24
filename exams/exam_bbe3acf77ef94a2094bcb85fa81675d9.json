@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question": "Naxçıvan Muxtar Respublikasının adından\"sovet  sosialist\" sözləri  götürüldü",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "XIX əsrin II yarısında Şimali Azərbaycan kəndliləri bölünürdü:",
+      "options": [
+        "Rəncbər və kəsbikar",
+        "Rəncbər və rəiyyət",
+        "Qərib və əkər",
+        "Rəncbər və xoşnişin",
+        "Sahibkar və dövlət kəndliləri"
+      ],
+      "answer": "Sahibkar və dövlət kəndliləri"
+    },
+    {
+      "question": "Rusların Azərbaycana 944- cü il yürüşünün mahiyyəti hansı bənddə əks olunur:",
+      "options": [
+        "Yezidiyyəni tutmaq və böyük qırgınlar  törətmək",
+        "Şirvanda möhkəmlənmək",
+        "Dərbəndi tutmaq və oradan  Şirvana keçmək",
+        "Bakını tutmaq və orada möhkəmlənmək",
+        "Bərdəni tutmaq və Azərbaycanda  möhkəmlənmək"
+      ],
+      "answer": "Bərdəni tutmaq və Azərbaycanda  möhkəmlənmək"
+    },
+    {
+      "question": "1921- ci ildə RSFSR  və Türkiyə  arasında imzalanmış müqaviləyə əsasən  Naxçıvanda  hansı  idarəetmə sistemi  təşkil edilirdi",
+      "options": [
+        "Naxçıvana xüsusi özünü idarəetmə hüququ verilirdi",
+        "Naxçıvan  Türkiyə  tərkibində qalmaqla   yerli  sturukturlar tərəfindən  idarə edilməli idi",
+        "Naxçıvan Türkiyə   tərkibində  saxlanılırdı",
+        "Azərbaycan tərkibində qalmaqla  Naxçıvan Muxtar Vilayəti yaradılırdı",
+        "Azərbaycan tərkibində  qalmaq  şərti  ilə Naxçıvan SSR yaradıldı"
+      ],
+      "answer": "Azərbaycan tərkibində  qalmaq  şərti  ilə Naxçıvan SSR yaradıldı"
+    },
+    {
+      "question": "Rusiyanın  federativ quruluşunda  Azərbaycana ilk dəfə  muxtariyyət verilməsini tələb edən partiya idi:",
+      "options": [
+        "Kadet",
+        "Müdafiə",
+        "Difai",
+        "Musavat",
+        "Qeyrət"
+      ],
+      "answer": "Qeyrət"
+    }
+  ],
+  "answers": [
+    "Option 4 (auto-added)",
+    "Sahibkar və dövlət kəndliləri",
+    "Bərdəni tutmaq və Azərbaycanda  möhkəmlənmək",
+    "Azərbaycan tərkibində qalmaqla  Naxçıvan Muxtar Vilayəti yaradılırdı",
+    "Musavat"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Müşahidəçinin asanlıqla qəbuledə biləcəyi formada ölcmə informasiyası haqda siqnalı yaradan ölçmə vasitəsi necə adlanır?",
+      "options": [
+        "hadisə",
+        "fiziki kəmiyyət",
+        "düzgün cavab yoxdur",
+        "köməkci ölçmə vasitəsi",
+        "ölcü cihazı"
+      ],
+      "answer": "ölcü cihazı"
+    },
+    {
+      "question": "Ölçülən kəmiyyətin ardıcıl qiymətləri sırasına uyğun olan işarə və rəqəmlərin məcmusu necə adlanır ?",
+      "options": [
+        "Cərgə şkalası",
+        "Adların şkalası",
+        "Fiziki kəmiyyətin şkalası",
+        "Doğru cavab yoxdur",
+        "Ölçmə vasitələrinin şkalası"
+      ],
+      "answer": "Ölçmə vasitələrinin şkalası"
+    },
+    {
+      "question": "Aşağıdakılardan hansı ISO-nun Şura komitəsidir?",
+      "options": [
+        "Maliyyə komitəsi",
+        "Informasiya texnikası üzrə əlaqələndirici komitə",
+        "Təhlükəsizlik üzrə məsləhət komitəsi",
+        "Birləşmiş proqram komitəsi",
+        "Plan komitəsi"
+      ],
+      "answer": "Plan komitəsi"
+    },
+    {
+      "question": "Həç bir sistemə daxil olmayan vahidlər sistemi?",
+      "options": [
+        "istemli",
+        "düzgün cavab yoxdur",
+        "oxşar sistem",
+        "ölçmə sistemi",
+        "Sistemdənkənar"
+      ],
+      "answer": "Sistemdənkənar"
+    },
+    {
+      "question": "Aşağıdakılardan hansı ara boşluğunu göstərir?",
+      "options": [
+        "Deşiyin hədd ölçülərinin fərqinə",
+        "Valla deşiyin ölçülərinin birləşməyə qədərki fərqinə",
+        "Valın hədd ölçülərinin fərqinə",
+        "Hesabi və aşağı hədd ölçülərinin fərqinə",
+        "Deşiyin ölçüsünün valın ölçüsündən böyük olduqda deşiklə valın ölçülərinin fərqinə"
+      ],
+      "answer": "Deşiyin ölçüsünün valın ölçüsündən böyük olduqda deşiklə valın ölçülərinin fərqinə"
+    },
+    {
+      "question": "Verilmiş fiziki kəmiyyət vahidinin bilavasitə birinci dərəcəli etalonundan alınmış ölçü vahidləri etalonları",
+      "options": [
+        "Ölçmə-hesablamadı",
+        "Birinci dərəcəli (milli) etalonlar",
+        "Beynəlxalq etalon",
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "İkinci dərəcəli etalonlar"
+      ],
+      "answer": "İkinci dərəcəli etalonlar"
+    },
+    {
+      "question": "Hansı şkalalarda sıfır və ölçü vahidləri olmur ?",
+      "options": [
+        "Fiziki kəmiyyətin şkalası",
+        "Doğru cavab yoxdur",
+        "Ölçmə vasitələrinin şkalası",
+        "Cərgə şkalası",
+        "Adların şkalası"
+      ],
+      "answer": "Adların şkalası"
+    },
+    {
+      "question": "Etibarlılıq göstəriciləri məmulatın hansı  xassəsiini xarakterizə edir? uzunömürlülüyü, təmirə yararlılığı və saxlanması",
+      "options": [
+        "Təyinat göstəricilərini",
+        "Texnoloji göstəricilərini",
+        "Erqonomik göstəricilərini",
+        "Estetik göstəricilərini",
+        "İmtinasız işləməsi"
+      ],
+      "answer": "İmtinasız işləməsi"
+    },
+    {
+      "question": "Aşağı həddi 0 olan yuva hansı yuvadır?",
+      "options": [
+        "Baza deşik",
+        "Ölçüsü müsaidəsiz deşik",
+        "Həqiqi deşik",
+        "Müsaidəsi diametrin ¼-nə bərabər olan deşik",
+        "Əsas deşik (yuva)."
+      ],
+      "answer": "Əsas deşik (yuva)."
+    },
+    {
+      "question": "Insanın hiss orqanlarından istifadəyə əsaslanan ölçmələrə hansı ölçmələr deyilir?",
+      "options": [
+        "nisbətlər",
+        "evrisitik",
+        "intervallar",
+        "cərgə",
+        "orqanoleptik"
+      ],
+      "answer": "orqanoleptik"
+    }
+  ],
+  "answers": [
+    "ölcü cihazı",
+    "Cərgə şkalası",
+    "Informasiya texnikası üzrə əlaqələndirici komitə",
+    "Sistemdənkənar",
+    "Valın hədd ölçülərinin fərqinə",
+    "Fiziki kəmiyyət vahidinin etalonu",
+    "Fiziki kəmiyyətin şkalası",
+    "Texnoloji göstəricilərini",
+    "Həqiqi deşik",
+    "cərgə"
+  ]
+}

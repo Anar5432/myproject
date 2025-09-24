@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Qazan xanın yarımçıq qalan islahatı?",
+      "options": [
+        "Dini",
+        "Torpaq",
+        "Vergi",
+        "Rabitə",
+        "Məhkəmə"
+      ],
+      "answer": "Məhkəmə"
+    },
+    {
+      "question": "Siyasi partiyaların yaranmasının ardıcıllığını müəyyən edin:",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "İbtidai icma quruluşunda maldarlıq  və əkinçiliyin  əsaslı surətdə  təşəkkülü  və inkişafı hansı  dövrdə baş  vermişdir:",
+      "options": [
+        "Mezolit dövründə",
+        "Alt paleolitdə",
+        "Orta paleolitdə",
+        "Tunc dövründə",
+        "Neolit dövründə"
+      ],
+      "answer": "Neolit dövründə"
+    },
+    {
+      "question": "Nəsli qəbilə quruluşunun əsasını təşkil edirdi:",
+      "options": [
+        "əqli və fiziki cəhətdən inkişaf etmiş tayfaların birliyi",
+        "eyni dildə danışan bir neçə qəbilələrin birliyi",
+        "bir neçə insan sürüsünün vahid birliyi",
+        "eyni dildə danışan bir neçə tayfanın birliyi",
+        "qan qohumluğuna malik insanların qəbilə birliyi"
+      ],
+      "answer": "qan qohumluğuna malik insanların qəbilə birliyi"
+    },
+    {
+      "question": "IV  əsrin 30 - cu illərində Albaniyanın Paytakaran  vilayətinə rəhbərlik  edirdi:",
+      "options": [
+        "Satoy",
+        "III Vaçaqan",
+        "I  Vaçe",
+        "Asay",
+        "Sanatürk"
+      ],
+      "answer": "Sanatürk"
+    },
+    {
+      "question": "Səfəvi dövlətinin Portuqaliya ilə münasibətlərinin gərginləşməsinin səbəbi:",
+      "options": [
+        "Osmanlı imperatorluğu ilə müharibədə Portuqaliyanın iştirak etməməsi",
+        "Portuqaliyalı rahiblərin Səfəvi dövləti ərazisində missionerlik fəaliyyəti ilə məşğul olması",
+        "Portuqaliyanın Osmanlı dövləti ilə sazişə girməsi",
+        "Portuqaliyanın odlu silah hazırlamaq üçün Səfəvi dövlətinə mütəxəssislər göndərməməsi",
+        "Portuqaliyanın Hörmüzü ələ keçirərək Səfəvilərin Hind okeanına çıxışını kəsməsi"
+      ],
+      "answer": "Portuqaliyanın Hörmüzü ələ keçirərək Səfəvilərin Hind okeanına çıxışını kəsməsi"
+    },
+    {
+      "question": "XV əsrdə rus çarları və Moskva knyazları Şirvan hakimini necə adlandırırdılar:",
+      "options": [
+        "Xəzər xan",
+        "Böyük  sultan",
+        "Kiçik  xan",
+        "Şirvan  xanı",
+        "Böyük bəy və ya Ağ xan"
+      ],
+      "answer": "Böyük bəy və ya Ağ xan"
+    },
+    {
+      "question": "Şah I İsmayılın fəthlərinin xronoloji ardıcıllığını müəyyən edin:1. İsfahan 2. Şiraz 3. Xorasan 4. İraqi-Ərəb",
+      "options": [
+        "1, 2, 3, 4",
+        "2, 1, 3, 4",
+        "1, 2, 4, 3",
+        "4, 1, 3, 2",
+        "2, 1, 4, 3"
+      ],
+      "answer": "2, 1, 4, 3"
+    },
+    {
+      "question": "Mücahidlər qalib gəldilər",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "E.ə. III minilliyin I yarısında Aratta dövləti hansı Şumer şəhər dövləti ilə münasibətlər saxlamışdi:",
+      "options": [
+        "Ur",
+        "Umma",
+        "Sippar",
+        "Nippur",
+        "Uruk"
+      ],
+      "answer": "Uruk"
+    }
+  ],
+  "answers": [
+    "Torpaq",
+    "Option 1 (auto-added)",
+    "Neolit dövründə",
+    "eyni dildə danışan bir neçə tayfanın birliyi",
+    "Asay",
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

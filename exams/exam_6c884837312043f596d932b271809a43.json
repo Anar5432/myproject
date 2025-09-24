@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Məhsula nəzarətin məqsədi nədən ibarətdir?",
+      "options": [
+        "məhsulun uyğunluq nişanı ilə nişanlanmasını yoxlamaqdan",
+        "ətraf mühitin təhlükəsizliyini qorumaqdan",
+        "məhsulun keyfiyyət göstəricilərini yoxlamaqdan",
+        "insanların sağlamlığını qorumaqdan",
+        "məhsulun xarakteristikalarının normativ sənədlərdə verilən tələbələrə uyğunluğunu müəyyən etməkdən"
+      ],
+      "answer": "məhsulun xarakteristikalarının normativ sənədlərdə verilən tələbələrə uyğunluğunu müəyyən etməkdən"
+    },
+    {
+      "question": "Təşkilatda keyfiyyət sistemini (KS) sertifikatlaşdırmaq üçün qabaqcadan qiymətləndirərkən hansı iş görülür?",
+      "options": [
+        "KS-ə müfəttiş nəzarəti üçün plan qrafikin təsdiqi",
+        "sertifikatlaşdırma üzrə orqanda sifarişin qeydə alınması",
+        "KS-nin gözlənilən iqtisadi səmərəsinin qiymətləndirilməsi",
+        "sertifikatlaşdırmanın elmi prinsiplətinin təhlili",
+        "KS-in qiymətləndirilməsi üçün müqavilənin tərtib olunması"
+      ],
+      "answer": "KS-in qiymətləndirilməsi üçün müqavilənin tərtib olunması"
+    },
+    {
+      "question": "Əsas vahidlərin müxtəlif kombinasiyalarından yaranan vahidlər necə adlanır?",
+      "options": [
+        "kondella",
+        "mütləq",
+        "kelvin",
+        "nisbi",
+        "törəmə"
+      ],
+      "answer": "törəmə"
+    },
+    {
+      "question": "Ardıcıl metoddan əsasən hansı halda istifadə olunur?",
+      "options": [
+        "paralel metodun tətbiqi zamanı",
+        "faset təsnifat metodunun tətbiqi zamanı",
+        "faset və ierarxiya təsnifat metodlarının tətbiqi zamanı",
+        "kodlaşdırma metodunun tətbiqi zamanı",
+        "ierarxiya təsnifat metodunun tətbiqi zamanı"
+      ],
+      "answer": "ierarxiya təsnifat metodunun tətbiqi zamanı"
+    },
+    {
+      "question": "Aşağıdakılardan hansı akkreditləşdirilməyə iddia edən sınaq laboratoriyasının sənədlər qrupuna aid deyildir?",
+      "options": [
+        "hüquqi sənədlər",
+        "təşkilati-metodik sənədlər",
+        "sınağı aparılan məhsul üçün normativ sənədlər",
+        "sınaq və ölçmə avadanlıqları üçün sənədlər",
+        "məcburi sənədlər"
+      ],
+      "answer": "məcburi sənədlər"
+    },
+    {
+      "question": "Aşağıdakılardan hansı haqqında informasiya «Sertifikatlaşdırma üzrə orqanlar haqqında Əsasnamə»də əks olunmur?",
+      "options": [
+        "funksiyalar",
+        "sertifikatlaşdırma üzrə orqanın maliyyə fəaliyyəti",
+        "akkreditləşdirmə sahəsi",
+        "təşkilati strkutur",
+        "sertifikatlaşdırma sınaqlarının protokolları"
+      ],
+      "answer": "sertifikatlaşdırma sınaqlarının protokolları"
+    },
+    {
+      "question": "STAKOSertifikatlaşdırma məsələləri ilə 1985-ci ilə qədər İSO-nun hansı komitəsi məşğul olurdu?",
+      "options": [
+        "KASKO",
+        "DEVKO",
+        "REMKO",
+        "STAKO",
+        "SERTİKO"
+      ],
+      "answer": "SERTİKO"
+    },
+    {
+      "question": "Tələblərinin standartlaşdırılması məqsədə uyğun hesab edilməyən ölçü vasitələri",
+      "options": [
+        "İkinci dərəcəli etalonlar",
+        "Əsas ölçü vasitələri",
+        "Köməkçi ölçü vasitələri",
+        "Standartlaşdırılmış ölçü vasitələri",
+        "Standartlaşdırılmamış ölçü vasitələri"
+      ],
+      "answer": "Standartlaşdırılmamış ölçü vasitələri"
+    },
+    {
+      "question": "Deşiyin müsaidə sahəsi valın müsiadə sahəsindən aşağıda yerləşdikdə hansı oturtma alınır?",
+      "options": [
+        "Yararsız",
+        "Keçid",
+        "Ara boşluqlu",
+        "Qüsursuz",
+        "Gərilməli"
+      ],
+      "answer": "Gərilməli"
+    },
+    {
+      "question": "c8 valının ən kiçik ölçüsünü göstərin.",
+      "options": [
+        "65 + ES;",
+        "65 – ei;",
+        "65 + EJ.",
+        "65 – es;",
+        "65 + ei;"
+      ],
+      "answer": "65 + ei;"
+    }
+  ],
+  "answers": [
+    "məhsulun xarakteristikalarının normativ sənədlərdə verilən tələbələrə uyğunluğunu müəyyən etməkdən",
+    "KS-ə müfəttiş nəzarəti üçün plan qrafikin təsdiqi",
+    "nisbi",
+    "paralel metodun tətbiqi zamanı",
+    "sınaq və ölçmə avadanlıqları üçün sənədlər",
+    "akkreditləşdirmə sahəsi",
+    "SERTİKO",
+    "Standartlaşdırılmış ölçü vasitələri",
+    "Yararsız",
+    "65 – ei;"
+  ]
+}
