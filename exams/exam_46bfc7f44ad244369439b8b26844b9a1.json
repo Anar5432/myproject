@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Aşağı həddi 0 olan yuva hansı yuvadır?",
+      "options": [
+        "Baza deşik",
+        "Ölçüsü müsaidəsiz deşik",
+        "Həqiqi deşik",
+        "Müsaidəsi diametrin ¼-nə bərabər olan deşik",
+        "Əsas deşik (yuva)."
+      ],
+      "answer": "Əsas deşik (yuva)."
+    },
+    {
+      "question": "Elektron-texniki məmulatları sertifikatlaşdırma sisteminin yaradılmasında məqsəd nə olmuşdur?",
+      "options": [
+        "elektron-texniki məmulatlar üçün beynəlxalq standartlar işləyib hazırlamaq",
+        "elektron-texniki məmulatların istehsal həcminin artırılmasına kömək etmək",
+        "elektron-texniki məmulatlara məcburi tələbləri sərtləşdirmək",
+        "düzgün cavab yoxdur",
+        "elektron-texniki məmulatların beynəlxalq ticarətinə kömək etmək"
+      ],
+      "answer": "elektron-texniki məmulatların beynəlxalq ticarətinə kömək etmək"
+    },
+    {
+      "question": "MKS və MKSA hansı sistemdə daxildirlər?",
+      "options": [
+        "KS",
+        "Aİ",
+        "Bİ",
+        "BMT",
+        "Sİ"
+      ],
+      "answer": "Sİ"
+    },
+    {
+      "question": "Həm ayrılıqda, həm də müxtəlif uyğunluqda təcrübədə tətbiq üçün nəzərdə tutulmuş eyni fiziki kəmiyyətlərin  eyni dərəcəli ölçü komplekti",
+      "options": [
+        "ölçü mağazasıdır",
+        "birrəqəmlidir",
+        "çoxrəqəmlidir",
+        "sabitdir",
+        "ölçü dəstidir"
+      ],
+      "answer": "ölçü dəstidir"
+    },
+    {
+      "question": "Aşağıdakılardan hansı BEK-in əsas rəsmi şəxsləri siyahısına aid deyildir?",
+      "options": [
+        "Vitse-prezident",
+        "Baş katib",
+        "Xəzinədar",
+        "Prezident",
+        "Komitə sədri"
+      ],
+      "answer": "Komitə sədri"
+    },
+    {
+      "question": "Valların yuxarı sapmaları hansıdır?",
+      "options": [
+        "....",
+        "...",
+        "..",
+        ".....",
+        "."
+      ],
+      "answer": "."
+    },
+    {
+      "question": "Aşağıdakılardan hansı detalın yararlı olmasını göstərir?",
+      "options": [
+        "Yuxarı hədd ölçüsü müsaidə sahəsindən kənarda olduqda",
+        "Hədd sapmaların fərqi nominal ölçüdən kiçik olduqda",
+        "Hədd sapmalarının cəmi nominal ölçüdən böyük olduqda",
+        "Aşağı hədd ölçüsü müsaidə sahəsindən kənarda olduqda",
+        "Həqiqi ölçü müsaidə sahəsi daxilində ya da hədd ölçülərə bərabər olduqda"
+      ],
+      "answer": "Həqiqi ölçü müsaidə sahəsi daxilində ya da hədd ölçülərə bərabər olduqda"
+    },
+    {
+      "question": "Qarşılıqlı əvəzetmənin növünə aiddir :",
+      "options": [
+        "texniki-iqtisadi",
+        "iqtisadi",
+        "qarşılıqlı",
+        "texniki",
+        "xarici"
+      ],
+      "answer": "xarici"
+    },
+    {
+      "question": "Hansı ən böyük araboşluğudur?",
+      "options": [
+        "es – ei;",
+        "Eİ – es;",
+        "ES – Eİ.",
+        "es – Eİ;",
+        "Option 5 (auto-added)"
+      ],
+      "answer": "es – ei;"
+    },
+    {
+      "question": "Aşağıdakı bəndlərdən hansı dövlət standartlarının məcburi tələblərinə aid deyil?",
+      "options": [
+        "məhsulların (işlərin, xidmətlərin) elm, texnika və texnologiyanın inkişafına uyğunluğu",
+        "ölçmələrin dəqiqliyini və vəhdətini təmin edən metroloji norma, qayda, tələb və müddəalar",
+        "məhsulların (işlərin, xidmətlərin) təhlükəsizlik texnikası və istehsalat sanitariyası tələblərı",
+        "məhsulların (işlərin, xidmətlərin) insanın həyati, sağlamlığı, əmlakı və ətraf mühit üçün təhlükəsizliyi",
+        "məhsulların kompleks standartlaşdırılması"
+      ],
+      "answer": "məhsulların kompleks standartlaşdırılması"
+    }
+  ],
+  "answers": [
+    "Baza deşik",
+    "elektron-texniki məmulatların istehsal həcminin artırılmasına kömək etmək",
+    "KS",
+    "ölçü dəstidir",
+    "Komitə sədri",
+    "....",
+    "Həqiqi ölçü müsaidə sahəsi daxilində ya da hədd ölçülərə bərabər olduqda",
+    "iqtisadi",
+    "Option 5 (auto-added)",
+    "ölçmələrin dəqiqliyini və vəhdətini təmin edən metroloji norma, qayda, tələb və müddəalar"
+  ]
+}

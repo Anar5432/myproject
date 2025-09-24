@@ -1,0 +1,15 @@
+{
+  "mohsin": {
+    "password_hash": "scrypt:32768:8:1$A0CdSTazHZTqJhiA$eb9d2bd7ee730664b67dd4937c20965642100a403f31e45bed113be46432fd318e6da98d3fe0e50536398b7e3ec08365b5f1daa4bd6192d5d9a5f5e9dcdda9f6"
+  },
+  "Mohsin": {
+    "password_hash": "scrypt:32768:8:1$aUoq90mT2f6i3zTC$f4423b30662848460dcb577d3ebd8eebfc66986391f9b5ed8c9d29597ef99466310c826e84fae980fbda0ab9ff641409d3e44050fbcded1f31a193aa6c72d370",
+    "email": "anarvali2345@gmail.com",
+    "full_name": ""
+  },
+  "Anar": {
+    "password_hash": "scrypt:32768:8:1$p3WNi1vsihsTB0Ur$570671e3e6bb6a64003fcbc1e6a585da887d6b171ef7b7256962492c2b6c0c52ade5e4f95130b13b106e55526ad0c18de9f928a6ef89ab64dcf99b1bbcf8bc69",
+    "email": "mohsinismayilov@gmail.com",
+    "full_name": ""
+  }
+}

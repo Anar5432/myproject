@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Valların yuxarı sapmaları hansıdır?",
+      "options": [
+        "....",
+        "...",
+        "..",
+        ".....",
+        "."
+      ],
+      "answer": "."
+    },
+    {
+      "question": "Etalonun, təkrarladığı fiziki kəmiyyət vahidinin ölçülərini uzun müddət sabit saxlamaq xüsusiyyəti necə adlanır?",
+      "options": [
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "Ölçmə-hesablama",
+        "Ölçmə sistemləri",
+        "Ölçmə qurğuları stasionar",
+        "Dəyişməzlik"
+      ],
+      "answer": "Dəyişməzlik"
+    },
+    {
+      "question": "Tabe etalonlara və mövcud ölçmə vasitələrinə vahidlərin ölçüsü verilən ən yüksək metroloji xüsusiyyətə malik etalon necə adlanır ?",
+      "options": [
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "Birinci dərəcəli (milli) etalonlar",
+        "Beynəlxalq etalon",
+        "İkinci dərəcəli etalonlar",
+        "Əsas etalon"
+      ],
+      "answer": "Əsas etalon"
+    },
+    {
+      "question": "Müşahidəçinin asanlıqla qəbuledə biləcəyi formada ölcmə informasiyası haqda siqnalı yaradan ölçmə vasitəsi necə adlanır?",
+      "options": [
+        "hadisə",
+        "fiziki kəmiyyət",
+        "düzgün cavab yoxdur",
+        "köməkci ölçmə vasitəsi",
+        "ölcü cihazı"
+      ],
+      "answer": "ölcü cihazı"
+    },
+    {
+      "question": "ISO-nun Şura komitəsi olmayanı hansıdır?",
+      "options": [
+        "Plan komitəsi",
+        "Istehlakçıların maraqlarının müdafiəsi üzrə komitə",
+        "Standart nümunələr üzrə komitə",
+        "Elmi-texniki informasiya üzrə komitə",
+        "Maliyyə komitəsi"
+      ],
+      "answer": "Maliyyə komitəsi"
+    },
+    {
+      "question": "Faset təsnifatlaşdırılmasını yaradan zaman aşağıdakı əsas qaydalardan hansılarına riayət etmək lazımdır?",
+      "options": [
+        "əlamətlər müxtəlif fasetlərdə kəsişir əlamətlər müxtəlif fasetlərdə kəsişmir, yəni hər bir əlamət digərindən özünün adına, qiymətinə və kod işarəsinə görə fərqlənir, obyektlər çoxluğunu xarakterizə edən fasetlərin ümumi sayından qoyulmuş məsələlərin həlli üçün zəruri fasetlər və onların dəqiq ardıcıllığı müəyyənləşdirilir",
+        "zəruri fasetlər seçilmir və onların dəqiq ardıcıllığı müəyyənləşdirilmir",
+        "obyektlər çoxluğunu xarakterizə edən fasetlərin ümumi sayından qoyulmuş məsələlərin həlli üçün zəruri fasetlər seçilir və onların dəqiq ardıcıllığı müəyyənləşdirilir",
+        "əlamətlər müxtəlif fasetlərdə kəsişmir, yəni hər bir əlamət digərindən özünün adına, qiymətinə və kod işarəsinə görə fərqlənir",
+        "Option 5 (auto-added)"
+      ],
+      "answer": ""
+    },
+    {
+      "question": "Aşağıdakılardan hansı BEK-in nəzdində fəaliyyət göstərir?",
+      "options": [
+        "İnkişaf etməkdə olan ölkələrə yardım üzrə komitə",
+        "İnformasiya komitəsi",
+        "Baş Şura",
+        "Plan komitəsi",
+        "Mərkəzi büro"
+      ],
+      "answer": "Mərkəzi büro"
+    },
+    {
+      "question": "Yuvanın aşağı hədd meyllənməsini necə təyin edirlər?",
+      "options": [
+        ".",
+        "...",
+        ".....",
+        "..",
+        "...."
+      ],
+      "answer": "...."
+    },
+    {
+      "question": "Təhlükəsizlik standartlarına uyğunluğa elektrik avadanlıqlarının sınaqları üzrə BEK sistemi (BEKES) neçənci ildə yaradılmışdır?",
+      "options": [
+        "1882",
+        "1978",
+        "1990",
+        "1925",
+        "1985"
+      ],
+      "answer": "1985"
+    },
+    {
+      "question": "Sertifikatlaşdırılan məhsula dövri formada müfəttiş nəzarəti (əgər sertifikatlaşdırma sxemi ilə nəzərdə tutulmuşdursa) hansı müddətdə keçirilir?",
+      "options": [
+        "3 ayda bir dəfə",
+        "6 ayda bir dəfə",
+        "ildə bir dəfə",
+        "düzgün cavab yoxdur",
+        "1 ildə bir dəfə"
+      ],
+      "answer": "1 ildə bir dəfə"
+    }
+  ],
+  "answers": [
+    ".....",
+    "Ölçmə qurğuları stasionar",
+    "Əsas etalon",
+    "ölcü cihazı",
+    "Maliyyə komitəsi",
+    "obyektlər çoxluğunu xarakterizə edən fasetlərin ümumi sayından qoyulmuş məsələlərin həlli üçün zəruri fasetlər seçilir və onların dəqiq ardıcıllığı müəyyənləşdirilir",
+    "İnkişaf etməkdə olan ölkələrə yardım üzrə komitə",
+    ".",
+    "1978",
+    "3 ayda bir dəfə"
+  ]
+}

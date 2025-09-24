@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Metrologiya elminin fundamental nəzəri əsaslarını hansı metrologiya işləyib hazırlayır?",
+      "options": [
+        "mürəkkəb",
+        "sadə",
+        "hüquqi",
+        "tətbiqi",
+        "nəzəri"
+      ],
+      "answer": "nəzəri"
+    },
+    {
+      "question": "Val sistemində araboşluqlu oturtma hansıdır?",
+      "options": [
+        "....",
+        "..",
+        ".....",
+        ".",
+        "..."
+      ],
+      "answer": "..."
+    },
+    {
+      "question": "Qanunverici metrologiya nəyi təmin edir?",
+      "options": [
+        "kvalimetriyanı",
+        "səfərbərliyi",
+        "keyfiyyəti",
+        "statistik göstəriciləri",
+        "ölçmələrin vəhdətini"
+      ],
+      "answer": "ölçmələrin vəhdətini"
+    },
+    {
+      "question": "Yuxarı hədd ölçü ilə aşağı hədd ölçünün fərqi necə adlanır?",
+      "options": [
+        "Xətti ölçü",
+        "Təsadüfi ölçü",
+        "Bucaq ölçüsü",
+        "Texnoloji ölçü",
+        "Müsaidə"
+      ],
+      "answer": "Müsaidə"
+    },
+    {
+      "question": "Aşağıdakılardan hansı ISO-nun əsas rəsmi şəxsləri siyahısına aid deyildir?",
+      "options": [
+        "Baş katib",
+        "Prezident",
+        "Vitse-prezident",
+        "Xəzinədar",
+        "Baş müşavir"
+      ],
+      "answer": "Baş müşavir"
+    },
+    {
+      "question": "Beynəlxalq vahidlər sistemi (Sİ) neçənci ildə yaradılmışdır?",
+      "options": [
+        "1938",
+        "1964",
+        "1982",
+        "1958",
+        "1960"
+      ],
+      "answer": "1960"
+    },
+    {
+      "question": "Aşağıdakılardan hansı BEK-in əsas rəsmi şəxsləri siyahısına aid deyildir?",
+      "options": [
+        "Vitse-prezident",
+        "Baş katib",
+        "Xəzinədar",
+        "Prezident",
+        "Komitə sədri"
+      ],
+      "answer": "Komitə sədri"
+    },
+    {
+      "question": "Müəyyən vaxtdan sonra təkrarən keçirilən nəzarət necə adlandırılır?",
+      "options": [
+        "ötəri",
+        "asiləsiz",
+        "seçmə",
+        "dağıdıcı",
+        "dövri"
+      ],
+      "answer": "dövri"
+    },
+    {
+      "question": "Verilmiş ölçüyə malik fiziki kəmiyyəti təzələmək üçün istifadə olunan ölçmə vasitələrinə nə deyilir?",
+      "options": [
+        "vəhdət",
+        "cərgə",
+        "interval",
+        "ətalətlilik",
+        "ölcü"
+      ],
+      "answer": "ölcü"
+    },
+    {
+      "question": "Sertifikatlaşdırma üzrə orqanın sifarişçini maraqlandıran obyektin tələblərə uyğunluğunu qiymətləndirmək bacarığı nə ilə müəyyən edilir?",
+      "options": [
+        "uyğunluq sertifikatının olması",
+        "struktura daxil olan sınaq laboratoriyalarının sayı",
+        "attestasiya dövrü",
+        "çalışan heyətin say tərkibi",
+        "akkreditləşdirilmə sahəsi"
+      ],
+      "answer": "akkreditləşdirilmə sahəsi"
+    }
+  ],
+  "answers": [
+    "nəzəri",
+    ".....",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

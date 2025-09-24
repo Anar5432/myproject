@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Ölçülərin artması və ya azalması qaydasında qurula bilər",
+      "options": [
+        "Adların şkalası",
+        "Fiziki kəmiyyətin şkalası",
+        "Ölçmə vasitələrinin şkalası",
+        "Doğru cavab yoxdur",
+        "Cərgə şkalası"
+      ],
+      "answer": "Cərgə şkalası"
+    },
+    {
+      "question": "Ölçmə bir dəfə aparildıqda necə adlanır?",
+      "options": [
+        "düzgün cavab yoxdu",
+        "daimi",
+        "dəyişət",
+        "sabit",
+        "birdəfəlik"
+      ],
+      "answer": "birdəfəlik"
+    },
+    {
+      "question": "Ölçmələrdə istifadə olunan və normalaşdırılmış metroloji xassələrə malik olan texniki vasitələr necə adlanır?",
+      "options": [
+        "ölçmə vəhdəti",
+        "sorbsiya",
+        "desorbsiya",
+        "nəqliyyat vasitələri",
+        "ölçmə vasitələri"
+      ],
+      "answer": "ölçmə vasitələri"
+    },
+    {
+      "question": "Aşağıdakılardan hansı keyfiyyət sisteminin yoxlanması və qiymətləndirilməsinə sertifikatlaşdırma üzrə orqanda hazırlıq zamanı yerinə yetirilən işlərə aiddir?",
+      "options": [
+        "sertifikatlaşdırma üzrə komissiyanın formalaşdırılması",
+        "sertifikatlaşdırma üzrə orqanda ilkin sənədlərin təhlili",
+        "sertifikatlaşdırma üzrə orqanda sifarişin qeydə alınması",
+        "rəyin tərtib olunması",
+        "yoxlama proqramının tərtib olunması"
+      ],
+      "answer": "yoxlama proqramının tərtib olunması"
+    },
+    {
+      "question": "Diametrlərlə təyində hansı min ara boşluğun düsturudur?",
+      "options": [
+        ".",
+        "....",
+        ".....",
+        "..",
+        "..."
+      ],
+      "answer": "..."
+    },
+    {
+      "question": "Ölçmələri nələrə görə təsnifləşdirirlər?",
+      "options": [
+        "mürəkkəbliyinə",
+        "sadələyinə",
+        "rənginə",
+        "ölçüsunə",
+        "əlamətlərinə"
+      ],
+      "answer": "əlamətlərinə"
+    },
+    {
+      "question": "Keyfiyyət sisteminin ISO 9000 seriyalı standartlara uyğunluğu haqqında müsbət qərar azəhəmiyyətli uyğunsuzluqların sayı nə qədər olduqda qəbul edilir?",
+      "options": [
+        "1-dən çox olmadıqda",
+        "heç olmadıqda",
+        "5-dən çox olmadıqda",
+        "3-dən çox olmadıqda",
+        "10-dan çox olmadıqda"
+      ],
+      "answer": "10-dan çox olmadıqda"
+    },
+    {
+      "question": "Fiziki kəmiyyətlərə aşağıdakılardan hasılar  aiddir?",
+      "options": [
+        "sabitlik",
+        "fəza",
+        "əlaqə",
+        "dəyişmək",
+        "sürət, təcil"
+      ],
+      "answer": "sürət, təcil"
+    },
+    {
+      "question": "Kütlə vahidi hansı tarixdə qəbul edilmişdir?",
+      "options": [
+        "28 yanvar 1834",
+        "30 aprel 1795",
+        "27 oktyabr 1920",
+        "30 dekabr 1810",
+        "26 mart 1791"
+      ],
+      "answer": "26 mart 1791"
+    },
+    {
+      "question": "Aşağıdakılardan hansı akkreditləşdirilməyə iddia edən sınaq laboratoriyasının hüquqi sənədlərindəndir?",
+      "options": [
+        "sınaq avadanlıqlarının pasportu",
+        "hesabatlar",
+        "avadanlıqların adları və növləri",
+        "standartlar və digər normativ sənədlər",
+        "sınaq laboratoriyası haqqında Əsasnamə"
+      ],
+      "answer": "sınaq laboratoriyası haqqında Əsasnamə"
+    }
+  ],
+  "answers": [
+    "Doğru cavab yoxdur",
+    "sabit",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question": "Azərbaycan ərazisində Səlcuqların hücum və təzyiqləri nəticəsində fəaliyyətlərini dayandırmağa məcbur olmuş dövlətləri müəyyən edin:",
+      "options": [
+        "Şirvanşahlar, Sacilər, Salarilər",
+        "Salarilər, Rəvvadilər,Şirvanşahlar",
+        "Salarilər, Şəddadilər, Sacilər",
+        "Sacilər, Rəvvadilər,Şəddadilər",
+        "Şəddadilər, Rəvvadilər, Şirvanşahlar"
+      ],
+      "answer": "Şəddadilər, Rəvvadilər, Şirvanşahlar"
+    },
+    {
+      "question": "Xronoloji ardıcıllığı göstərin: 1.Şərur 2.Cabanı 3.Almaqulağı",
+      "options": [
+        "3, 2, 1",
+        "1, 3, 2",
+        "1, 2, 3",
+        "2, 3, 1",
+        "2, 1, 3"
+      ],
+      "answer": "2, 1, 3"
+    },
+    {
+      "question": "Şəmsəddin Eldənizin dövründə Atabəylər dövlətinin ərazisi əhatə edirdi:",
+      "options": [
+        "Naxçıvandan Təbrizə qədər",
+        "Ərməniyyədən Mosula qədər",
+        "Təbrizdən Kür çayına qədər",
+        "Dərbənddən Qəzvinə qədər",
+        "Qafqaz dağlarından İran körfəzinə qədər"
+      ],
+      "answer": "Qafqaz dağlarından İran körfəzinə qədər"
+    },
+    {
+      "question": "Şəmsəddin Eldənizə 1136 - cı ildə iqta şəklində bağışlanmışdı :",
+      "options": [
+        "Təbriz, Əhər və Rey",
+        "Naxçıvan",
+        "Şirvan",
+        "Kürdən cənubdakı Azərbaycan torpaqları",
+        "Arran"
+      ],
+      "answer": "Arran"
+    },
+    {
+      "question": "XV- XVI əsrlərə aid memarlıq abidələrini göstərin:",
+      "options": [
+        "Üç günbəz, Göy günbəz , Əlincə çayı üzərində körpü ,Əlincə qalası",
+        "Əlincə çayı üzərində tikilmiş körpü, Mömünə xatun türbəsi, Əlincə qalası, Ağbil məqbərəsi",
+        "Oğlanqala , Xudafərin körpüsü , Qəlaybuğurd qalası , Mömünəxatun türbəsi , Şeyx Cüneyd məqbərəsi",
+        "Gülüstan qalası, Şirvanşahlar sarayı, Qız qalası, Həşt- behişt",
+        "Qeysəriyyə bazarı, Nəsriyyə və Məqsudiyyə məqrəbəsi , Şeyx Cüneyd məqbərəsi, Bakının şərq darvazaları"
+      ],
+      "answer": "Qeysəriyyə bazarı, Nəsriyyə və Məqsudiyyə məqrəbəsi , Şeyx Cüneyd məqbərəsi, Bakının şərq darvazaları"
+    }
+  ],
+  "answers": [
+    "Şirvanşahlar, Sacilər, Salarilər",
+    "2, 1, 3",
+    "Dərbənddən Qəzvinə qədər",
+    "Təbriz, Əhər və Rey",
+    "Əlincə çayı üzərində tikilmiş körpü, Mömünə xatun türbəsi, Əlincə qalası, Ağbil məqbərəsi"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question": "Qafqaz əyalətləri bir inzibati idarədə - Qafqaz canişinliyində birləşdirildi",
+      "options": [
+        "1840-cı ildə",
+        "1834-cü ildə",
+        "1850-ci ildə",
+        "1830-cu ildə",
+        "1844-cü ildə"
+      ],
+      "answer": "1844-cü ildə"
+    },
+    {
+      "question": "SSRİ  konstitusiyasının 6- cı maddəsi  ləğv  edildi",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Sovet Rusiyasının  Azərbaycanı  işğal etməsindən sonra Bakıda hansı - leqal mətbuat orqanı fəaliyyət göstərirdi:",
+      "options": [
+        "Qurtuluş qəzeti",
+        "Açıq  söz qəzeti",
+        "Azərbaycan qəzeti",
+        "Yeni Qafqasiya  qəzeti",
+        "İstiqlal  qəzeti"
+      ],
+      "answer": "İstiqlal  qəzeti"
+    },
+    {
+      "question": "Səfəvi dövlətində mövcud olan Ali məclisə aiddir:",
+      "options": [
+        "dövlət təhlükəsizliyi məsələlərini həll edən hərbi-inzibati orqan idi",
+        "icraedici fəaliyyət ilə məşğul olan ali hakimiyyət orqanı idi",
+        "şəriət qaydalarına əməl edilməsinə nəzarət edən dövlət qurumu idi",
+        "xarici siyasət məsələlərinə baxan dövlət qurumu idi",
+        "məşvərətçi səsə malik dövlət qurumu idi"
+      ],
+      "answer": "məşvərətçi səsə malik dövlət qurumu idi"
+    },
+    {
+      "question": "Hökmdar şəhəri haqqında məlumat verməsi",
+      "options": [
+        "1,4",
+        "2,3",
+        "3,4",
+        "1,3",
+        "1,2"
+      ],
+      "answer": "1,2"
+    }
+  ],
+  "answers": [
+    "1830-cu ildə",
+    "Option 3 (auto-added)",
+    "İstiqlal  qəzeti",
+    "dövlət təhlükəsizliyi məsələlərini həll edən hərbi-inzibati orqan idi",
+    "1,2"
+  ]
+}
