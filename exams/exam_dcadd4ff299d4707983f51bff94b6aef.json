@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Sertifikatlaşdırma üzrə orqan kimi akkreditləşdirməyə iddia edən təşkilat akkreditləşdirmə üzrə orqana aşağıda verilən sənədlərdən hansını təqdim etməyə bilər?",
+      "options": [
+        "keyfiyyət üzrə Rəhbərlik",
+        "müəyyən forma üzrə hazırlanmış sifariş",
+        "təşkilatın Nizamnaməsinin surəti",
+        "ekspertlər haqqında məlumatlar",
+        "düzgün cavab yoxdur"
+      ],
+      "answer": "düzgün cavab yoxdur"
+    },
+    {
+      "question": "Əsas ölçü vasitəsinə və ya ölçü obyektinə təsiri tələb olunan dəqiqliklə ölçü nəticələrinin əldə olunması üçün nəzərdə tutulan fiziki kəmiyyətin ölçü vasitəsi",
+      "options": [
+        "Əsas ölçü vasitələri",
+        "İşçi ölçü vahidləri",
+        "İkinci dərəcəli etalonlar",
+        "İşçi etalon",
+        "Köməkçi ölçü vasitələri"
+      ],
+      "answer": "Köməkçi ölçü vasitələri"
+    },
+    {
+      "question": "Metrologiyanın keyfiyyətin ölçülməsinə həsr olunmuş kvalimetriya bölməsində məhsulun keyfiyyət göstəricilərinin neşə növü şəhr edilir?",
+      "options": [
+        "23",
+        "10",
+        "5",
+        "4",
+        "12"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "”EAN – İnternational” Beynəlxalq təşkilatı ayrı-ayrı ölkələrdən neçə təşkilatı özündə birləşdirir?",
+      "options": [
+        "85",
+        "70",
+        "110",
+        "23",
+        "95"
+      ],
+      "answer": "95"
+    },
+    {
+      "question": "Milli etalonlarla təkrarlanan və saxlanılan vahidlərin ölçüləri ilə müqayisə üçün beynəlxalq əsas qismində beynəlxalq razılaşma əsasında qəbul olunmuş etalon",
+      "options": [
+        "Təkrarlanmadı",
+        "Ölçmə-hesablamadı",
+        "Ölçmə sistemləridi",
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "Beynəlxalq etalon"
+      ],
+      "answer": "Beynəlxalq etalon"
+    },
+    {
+      "question": "Intervallar şkalası üzrə aparılan ölçmələr nisbətlər şkalası üzrə ölçmələrdən nə ilə fərqlənir ?",
+      "options": [
+        "doğru cavab yoxdur",
+        "sabitdir",
+        "dəyişəndir",
+        "sadədir",
+        "az təkmilləşmişdir"
+      ],
+      "answer": "az təkmilləşmişdir"
+    },
+    {
+      "question": "Vаlın əsаs mеyllənməsi nədən аsılı dеyildir ?",
+      "options": [
+        "oturtma",
+        "fərq",
+        "düzlün cavab yoxdur",
+        "müsaidə",
+        "kvalitetdən"
+      ],
+      "answer": "kvalitetdən"
+    },
+    {
+      "question": "BEK-in təşkilati strukturuna daxil olanı göstərin.",
+      "options": [
+        "Məşvərət Şurası",
+        "Mərkəzi komitə",
+        "Apellyasiya Komissiyası",
+        "Baş Şura",
+        "Texniki komitələr"
+      ],
+      "answer": "Texniki komitələr"
+    },
+    {
+      "question": "Insanın hiss orqanlarından istifadəyə əsaslanan ölçmələrə hansı ölçmələr deyilir?",
+      "options": [
+        "nisbətlər",
+        "evrisitik",
+        "intervallar",
+        "cərgə",
+        "orqanoleptik"
+      ],
+      "answer": "orqanoleptik"
+    },
+    {
+      "question": "ISO-nun texniki komitələri nə zaman yarımkomitələrə bölünür?",
+      "options": [
+        "texniki komitələrdə aktiv və müşahidəçi üzvlər olduqda",
+        "texniki komitələrin aktiv üzvlərinin sayı çox olduqda",
+        "texniki komitələrin müşahidəçi üzvlərinin sayı çox olduqda",
+        "texniki komitələrin həll etdiyi məsələlər məhdud olduqda",
+        "texniki komitələrin həll etdiyi məsələlər geniş olduqda"
+      ],
+      "answer": "texniki komitələrin həll etdiyi məsələlər geniş olduqda"
+    }
+  ],
+  "answers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

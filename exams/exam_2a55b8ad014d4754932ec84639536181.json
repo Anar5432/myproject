@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question": "Empirik obyektlərin sinifləşdirilməsi üçün istifadə edilən  şkalalar",
+      "options": [
+        "orqanoleptik",
+        "sadə",
+        "doğru cavab yoxdur",
+        "mürəkkəb",
+        "təsnifat şkalası"
+      ],
+      "answer": "təsnifat şkalası"
+    },
+    {
+      "question": "Valın müsaidə sahəsi deşiyin müsiadə sahəsindən aşağıda yerləşdikdə hansı oturtma alınır?",
+      "options": [
+        "Qüsursuz",
+        "Gərilməli",
+        "Yararsız",
+        "Keçid",
+        "Ara boşluqlu"
+      ],
+      "answer": "Ara boşluqlu"
+    },
+    {
+      "question": "Hansı meyillənmə əsas sapmadır?",
+      "options": [
+        "0-0 xətti  ilə üst-üstə  düşən;",
+        "0-0 xətti ilə  üst-üstə düşməyən;",
+        "Yuxarı hədd  meyillənməyə bərabər;",
+        "Aşağı hədd  meyillənməyə bərabər;",
+        "0-0 xəttinə yaxın."
+      ],
+      "answer": "0-0 xəttinə yaxın."
+    },
+    {
+      "question": "Fiziki kəmiyyətlərin vahidlər sisteminin qurulması metodikası neçənci ildə təklif edilmişdir?",
+      "options": [
+        "1768",
+        "1910",
+        "1922",
+        "1824",
+        "1832"
+      ],
+      "answer": "1832"
+    },
+    {
+      "question": "Dövlət və ya sahə standartlarının tələblərinə müvafiq olaraq hazırlanmış və tətbiq olunan ölçü vasitələri",
+      "options": [
+        "İkinci dərəcəli etalonlar",
+        "Köməkçi ölçü vasitələri",
+        "Əsas ölçü vasitələri",
+        "İşçi ölçü vahidləri",
+        "Standartlaşdırılmış ölçü vasitələri"
+      ],
+      "answer": "Standartlaşdırılmış ölçü vasitələri"
+    }
+  ],
+  "answers": [
+    "doğru cavab yoxdur",
+    "Gərilməli",
+    null,
+    null,
+    null
+  ]
+}

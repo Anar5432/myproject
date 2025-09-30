@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Serifikatlaşdırma üzrə orqanda keyfiyyət sisteminin yoxlanması və qiymətləndirilməsinə hazırlıq kimi nə edilir?",
+      "options": [
+        "sınaq laboratoriyası akkreditləşir",
+        "keyfiyyət sahəsində siyasət tərtib edilir",
+        "sifarişcilər müəyyənləşdirilir",
+        "keyfiyyət sistemi qurulur",
+        "işçi sənədlər hazırlanır"
+      ],
+      "answer": "işçi sənədlər hazırlanır"
+    },
+    {
+      "question": "Aşağıdakılardan hansı ISO-nun əsas rəsmi şəxsləri siyahısına aid deyildir?",
+      "options": [
+        "Baş katib",
+        "Prezident",
+        "Vitse-prezident",
+        "Xəzinədar",
+        "Baş müşavir"
+      ],
+      "answer": "Baş müşavir"
+    },
+    {
+      "question": "Əgər hədd ölçüsü nоminаl ölçüdən çохdursа,…",
+      "options": [
+        "həddi yoxdur",
+        "mənfidir",
+        "heç biri",
+        "hədsizdir",
+        "Meyllənmə müsbətdir"
+      ],
+      "answer": "Meyllənmə müsbətdir"
+    },
+    {
+      "question": "Yuvası val, valı yuva sistemində olan oturtma hansıdır?",
+      "options": [
+        ".",
+        "....",
+        "..",
+        "...",
+        "....."
+      ],
+      "answer": "....."
+    },
+    {
+      "question": "EAN – 8 kodundan nə zaman istifadə olunur?",
+      "options": [
+        "əmtəə mallarının xarici ölçüləri kiçik olmadıqda",
+        "əmtəə mallarının xarici ölçüləri normal ölçüdə olduqda",
+        "əmtəə mallarının xarici ölçüləri böyük olduqda",
+        "əmtəə mallarının xarici ölçüləri çox böyük olduqda",
+        "əmtəə mallarının xarici ölçüləri kiçik olduqda"
+      ],
+      "answer": "əmtəə mallarının xarici ölçüləri kiçik olduqda"
+    },
+    {
+      "question": "Ölçmələrin vəhdətinin təmin edilməsi üçün aşağıdakılardan hansı şərt yerinə yetirilməlidir?",
+      "options": [
+        "ixtiyari vahidlər tətbiq edilir",
+        "mürəkkəb vahidlər sistemi tətbiq edilir",
+        "sadə vahidlər sistemi tətbiq edilir",
+        "vahidlər tətbiq edilmir",
+        "yalnız qaydalarla qanuniləşdirilmiş ölçü vahidləri tətbiq edilir"
+      ],
+      "answer": "yalnız qaydalarla qanuniləşdirilmiş ölçü vahidləri tətbiq edilir"
+    },
+    {
+      "question": "ISО-nun işində оrtaya çıхan ümumi məsələləri öyrənmək üçün şuranın nəzdində bir sıra kоmitələr yaradılmışdır. Aşağıdakılardan hansı belə komitələrdəndir?",
+      "options": [
+        "İxtisaslaşdırma üzrə komitə",
+        "Standartların tərcüməsi üzrə beynəlxalq komitə",
+        "Məhsulun keyfiyyətinin qiymətləndirilməsi üzrə komitə",
+        "Standartların beynəlxalq nəşri üzrə komitə",
+        "Inkişaf etməkdə olan ölkələrə yardım komitəsi"
+      ],
+      "answer": "Inkişaf etməkdə olan ölkələrə yardım komitəsi"
+    },
+    {
+      "question": "İerarxiya təsnifatlaşdırılması zamanı riayət edilməsi lazım olan ən vacib qaydalar hansılardır?",
+      "options": [
+        "çoxluğun bölünməsi növbəti aralıq bölünmə səviyyəsini buraxmadan həyata keçirilir",
+        "bölgü nəticəsində hər səviyyədə alınan qruplaşmalar təkrarlanmır",
+        "təsnifatlaşdirma elə aparılır ki, əmələ gələn qruplaşmaların cəmi bölünən çoxluğu təşkil etsin çoxluğun siniflərə bölünməsi hər səviyyədə bir bölgü üzrə aparılır, hər səviyyədə alınan qruplaşmalar təkrarlanmır, çoxluğun bölünməsi növbəti aralıq bölünmə səviyyəsini buraxmadan həyata keçirilir və təsnifatlaşdırma elə aparılır ki, əmələ gələn qruplaşmaların cəmi bölünən çoxluğu təşkil etsin",
+        "çoxluğun siniflərə bölünməsi hər səviyyədə ancaq bir bölgü üzrə aparılır",
+        "Option 5 (auto-added)"
+      ],
+      "answer": ""
+    },
+    {
+      "question": "Ölçmə şəkildəyuşdricilər nə ilə univiksiya olunmamışdır",
+      "options": [
+        "STAKO",
+        "AİP",
+        "PLAKO",
+        "KOPOLKO",
+        "AİS"
+      ],
+      "answer": "AİS"
+    },
+    {
+      "question": "Aşağıdakılardan hansı sınaq sisteminin elementi deyildir?",
+      "options": [
+        "sınağın icraçısı",
+        "sınaq üçün normativ-texniki sənədlər",
+        "sınaq vasitələri",
+        "obyekt",
+        "akkreditləşdirmə üzrə orqan"
+      ],
+      "answer": "akkreditləşdirmə üzrə orqan"
+    }
+  ],
+  "answers": [
+    "keyfiyyət sistemi qurulur",
+    "Baş katib",
+    "həddi yoxdur",
+    "...",
+    "əmtəə mallarının xarici ölçüləri normal ölçüdə olduqda",
+    "yalnız qaydalarla qanuniləşdirilmiş ölçü vahidləri tətbiq edilir",
+    "Standartların beynəlxalq nəşri üzrə komitə",
+    "çoxluğun bölünməsi növbəti aralıq bölünmə səviyyəsini buraxmadan həyata keçirilir",
+    "KOPOLKO",
+    "akkreditləşdirmə üzrə orqan"
+  ]
+}

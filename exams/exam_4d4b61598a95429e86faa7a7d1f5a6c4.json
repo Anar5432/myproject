@@ -1,0 +1,81 @@
+{
+  "questions": [
+    {
+      "question": ".",
+      "options": [
+        "0",
+        "0,6 √ 0,5",
+        "1",
+        "0,8",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 18,
+      "orig_index": 50
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ". √ .",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 85,
+      "orig_index": 197
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ". √ .",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 76,
+      "orig_index": 178
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ". √ .",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 110,
+      "orig_index": 244
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ". √ .",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 89,
+      "orig_index": 208
+    }
+  ],
+  "answers": [
+    "0,6 √ 0,5",
+    ". √ .",
+    ".",
+    ".",
+    "."
+  ]
+}

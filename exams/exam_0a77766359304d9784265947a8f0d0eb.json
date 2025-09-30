@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Intervallar şkalası üzrə aparılan ölçmələr nisbətlər şkalası üzrə ölçmələrdən nə ilə fərqlənir ?",
+      "options": [
+        "dəyişəndir",
+        "sadədir",
+        "sabitdir",
+        "doğru cavab yoxdur",
+        "az təkmilləşmişdir"
+      ],
+      "answer": "az təkmilləşmişdir"
+    },
+    {
+      "question": "ISO-nun rəhbəredici orqanı kimi fəaliyyət göstərir:",
+      "options": [
+        "Apellyasiya Komissiyası",
+        "Məşvərət Şurası",
+        "Baş Komitə",
+        "Baş Şura",
+        "Beynəlxalq katiblik"
+      ],
+      "answer": "Beynəlxalq katiblik"
+    },
+    {
+      "question": "Hədd ölçülərin fərqi hansı ölçünü xarakterizə edir?",
+      "options": [
+        "Texnoloji ölçü",
+        "Təsadüfi ölçü",
+        "Sistematik ölçü",
+        "Qapayan ölçü",
+        "Müsaidə"
+      ],
+      "answer": "Müsaidə"
+    },
+    {
+      "question": "Göstərilənlərdən hansı əsas valı göstərir?",
+      "options": [
+        "f",
+        "b",
+        "g",
+        "e",
+        "h"
+      ],
+      "answer": "h"
+    },
+    {
+      "question": "Deşiyin müsaidə sahəsi valın müsiadə sahəsindən aşağıda yerləşdikdə hansı oturtma alınır?",
+      "options": [
+        "Yararsız",
+        "Keçid",
+        "Ara boşluqlu",
+        "Qüsursuz",
+        "Gərilməli"
+      ],
+      "answer": "Gərilməli"
+    },
+    {
+      "question": "Ffiziki kəmiyyətlərin vahidlə müəyyən edilmiş, zəruri dəqiqliklə verilmiş ölçülərinin təkrarlama və saxlaması üçün nəzərdə tutulmuş proses",
+      "options": [
+        "sorbsiyaya",
+        "dartma",
+        "desorbsiya",
+        "kalibirləmə",
+        "ölçmə"
+      ],
+      "answer": "ölçmə"
+    },
+    {
+      "question": "Miqyaslı şəkildəyişmə hansı qurğuda realizə  olunur?",
+      "options": [
+        "birbaşa ölçmədə",
+        "voltmetrdə",
+        "dolayi ölçmədə",
+        "ampermetrdə",
+        "miqyaslı şəkildəyişdirici"
+      ],
+      "answer": "miqyaslı şəkildəyişdirici"
+    },
+    {
+      "question": "ISO-nun texniki komitələri nə zaman yarımkomitələrə bölünür?",
+      "options": [
+        "texniki komitələrdə aktiv və müşahidəçi üzvlər olduqda",
+        "texniki komitələrin aktiv üzvlərinin sayı çox olduqda",
+        "texniki komitələrin müşahidəçi üzvlərinin sayı çox olduqda",
+        "texniki komitələrin həll etdiyi məsələlər məhdud olduqda",
+        "texniki komitələrin həll etdiyi məsələlər geniş olduqda"
+      ],
+      "answer": "texniki komitələrin həll etdiyi məsələlər geniş olduqda"
+    },
+    {
+      "question": "Yuvaların aşağı sapmaları hansıdır?",
+      "options": [
+        "...",
+        ".....",
+        ".",
+        "..",
+        "...."
+      ],
+      "answer": "...."
+    },
+    {
+      "question": "Hansı ölçülər intervalı standarta uyğundur?",
+      "options": [
+        "87-120, 120-30, 160-230;",
+        "18-30;30-54, 54-80.",
+        "31-52,50-85, 83-110;",
+        "14-18, 18-36, 36-50;",
+        "3-6, 6-10, 10-18, 18-30;"
+      ],
+      "answer": "3-6, 6-10, 10-18, 18-30;"
+    }
+  ],
+  "answers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

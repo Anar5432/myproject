@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Cismin xarici təsir olmadıqda sükunət vəziyyətini saxlaması və yaxud bərabər düzxətli hərəkətini davam etdirməsi xassəsinə nə deyilir?",
+      "options": [
+        "sürət",
+        "təcil",
+        "əhatə",
+        "tezlik",
+        "ətalətlilik"
+      ],
+      "answer": "ətalətlilik"
+    },
+    {
+      "question": "Eİ – es fərqi nəyi təmin edir?",
+      "options": [
+        "Birləşmədə max ara boşluğu",
+        "Birləşmədə min gərilmə",
+        "Yığmanın mümkünsüzlüyünü",
+        "Birləşmədə max gərilmə",
+        "Birləşmədə min ara boşluğu"
+      ],
+      "answer": "Birləşmədə min ara boşluğu"
+    },
+    {
+      "question": "Dövlət və ya sahə standartlarının tələblərinə müvafiq olaraq hazırlanmış və tətbiq olunan ölçü vasitələri",
+      "options": [
+        "İkinci dərəcəli etalonlar",
+        "Köməkçi ölçü vasitələri",
+        "Əsas ölçü vasitələri",
+        "İşçi ölçü vahidləri",
+        "Standartlaşdırılmış ölçü vasitələri"
+      ],
+      "answer": "Standartlaşdırılmış ölçü vasitələri"
+    },
+    {
+      "question": "Qeyd olunmuş diapazonda ölçülən fiziki kəmiyyətin qiymətinin alınması üçün nəzərdə tutulumş ölçü vasitəsi",
+      "options": [
+        "sorbsiya",
+        "doğru cavab yoxdur",
+        "ölçü dəstidir",
+        "desorbsiya",
+        "ölçü cihazları"
+      ],
+      "answer": "ölçü cihazları"
+    },
+    {
+      "question": "Təbiətin obyektlərini öyrənən zaman istifadə olunan köməkci aparat necə adlanır?",
+      "options": [
+        "metrologiya",
+        "ölçü",
+        "ölçmə",
+        "ölcmə  vəhdəti",
+        "fizki kəmiyyətin vahidi"
+      ],
+      "answer": "fizki kəmiyyətin vahidi"
+    },
+    {
+      "question": "Intervallar şkalası üzrə aparılan ölçmələr nisbətlər şkalası üzrə ölçmələrdən nə ilə fərqlənir ?",
+      "options": [
+        "doğru cavab yoxdur",
+        "sabitdir",
+        "dəyişəndir",
+        "sadədir",
+        "az təkmilləşmişdir"
+      ],
+      "answer": "az təkmilləşmişdir"
+    },
+    {
+      "question": "Göstərilənlərdən hansı araboşluqlu oturtmanı göstərir?",
+      "options": [
+        "Deşiyin müsaidə sahəsi valın müsaidə sahəsindən aşağıda",
+        "Valın müsaidə sahəsi deşiyin müsaidə sahəsindən sağda",
+        "Valın müsaidə sahəsi deşiyin müsaidə sahəsindən yuxarıda",
+        "Deşiyin və valın müsaidə sahələri kəsişirlər",
+        "Deşiyin müsaidə sahəsi valın müsaidə sahəsindən yuxarıda"
+      ],
+      "answer": "Deşiyin müsaidə sahəsi valın müsaidə sahəsindən yuxarıda"
+    },
+    {
+      "question": "Keçid oturtmada deşiklə valın müsaidə sahələri bir – birlərinə nəzərən necə yerləşirlər?",
+      "options": [
+        "Valla deşiyin müsaidə sahələri toxunurlar",
+        "Valın müsaidə sahəsi deşiyin müsaidə sahəsindən aşağıda",
+        "Deşiyin müsaidə sahəsi valın müsaidə sahəsindən sağda",
+        "Valın müsaidə sahəsi deşiyin müsaidə sahəsindən yuxarıda",
+        "Valla deşiyin müsaidə sahələri qismən ya da tamamilə kəsişirlər"
+      ],
+      "answer": "Valla deşiyin müsaidə sahələri qismən ya da tamamilə kəsişirlər"
+    },
+    {
+      "question": "İşçi ölçmə vasitələri vahidlərinin ölçülərinin verilməsi üçün nəzərdə tutulmuş etalon",
+      "options": [
+        "Beynəlxalq etalon",
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "İkinci dərəcəli etalonlar",
+        "Əsas etalon",
+        "İşçi etalon"
+      ],
+      "answer": "İşçi etalon"
+    },
+    {
+      "question": "Metrologiyanın dövlət tənzimlənməsi hansı orqan tərəfindən yerinə yetirilir?",
+      "options": [
+        "etalonlar",
+        "maliyyə orqanları",
+        "sahibkarlar",
+        "sığorta təşkilatları",
+        "icra hakimiyyəti orqanları"
+      ],
+      "answer": "icra hakimiyyəti orqanları"
+    }
+  ],
+  "answers": [
+    "sürət",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "question": "Metrologiya elminin fundamental nəzəri əsaslarını hansı metrologiya işləyib hazırlayır?",
+      "options": [
+        "mürəkkəb",
+        "sadə",
+        "hüquqi",
+        "tətbiqi",
+        "nəzəri"
+      ],
+      "answer": "nəzəri"
+    },
+    {
+      "question": "Metrologiyanın keyfiyyətin ölçülməsinə həsr olunmuş kvalimetriya bölməsində məhsulun keyfiyyət göstəricilərinin neşə növü şəhr edilir?",
+      "options": [
+        "23",
+        "10",
+        "5",
+        "4",
+        "12"
+      ],
+      "answer": "12"
+    }
+  ],
+  "answers": [
+    "hüquqi",
+    "4"
+  ]
+}

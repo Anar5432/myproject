@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Cizgilərdə xətti ölçülərin nominal və hədd qiymətlərinin sapmaları hansı vahidlərlə göstərilir?",
+      "options": [
+        "m",
+        "mm",
+        "dm",
+        "sm",
+        "mkm"
+      ],
+      "answer": "mkm"
+    },
+    {
+      "question": "Nominal ölçü ilə aşağı hədd sapmanın cəmi hansı ölçünü verir?",
+      "options": [
+        "Həqiqi ölçünü",
+        "Təsadüfi ölçünü",
+        "Aşağı hədd ölçünü",
+        "Texnoloji ölçünü",
+        "Ən kiçik hədd ölçüsü"
+      ],
+      "answer": "Ən kiçik hədd ölçüsü"
+    },
+    {
+      "question": "Yuxarı sapma ilə nominal ölçünün cəmi necə adlanır?",
+      "options": [
+        "Təsadüfi ölçü",
+        "Aşağı hədd ölçü",
+        "Yuxarı hədd ölçü",
+        "Həqiqi ölçü",
+        "Ən böyük hədd ölçüsü"
+      ],
+      "answer": "Ən böyük hədd ölçüsü"
+    },
+    {
+      "question": "Yuvaların yuxarı sapmaları hansıdır?",
+      "options": [
+        "...",
+        "..",
+        "....",
+        ".",
+        "....."
+      ],
+      "answer": "....."
+    }
+  ],
+  "answers": [
+    "dm",
+    "Ən kiçik hədd ölçüsü",
+    "Aşağı hədd ölçü",
+    "....."
+  ]
+}

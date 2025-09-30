@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Qarşılıqlı əvəzetmənin növünə aiddir :",
+      "options": [
+        "texniki-iqtisadi",
+        "qarşılıqlı",
+        "iqtisadi",
+        "texniki",
+        "daxili"
+      ],
+      "answer": "daxili"
+    },
+    {
+      "question": "Əhali, müəssisə və təşkilatlar, əhaliyə xidmət, fəaliyyət növləri və s. haqqında olan informasiyanı hansı informasiya növünə aid etmək olar?",
+      "options": [
+        "azsaylı",
+        "bir ölçülü",
+        "iki ölçülü",
+        "çox ölçülü",
+        "çoxsaylı"
+      ],
+      "answer": "çoxsaylı"
+    },
+    {
+      "question": "Sınaqlar qurtardıqdan sonra obyekt istismar (istehlak) üçün tam yararsız hala düşürsə, belə sınaqlar necə adlandırılır?",
+      "options": [
+        "aktiv sınaqlar",
+        "passiv sınaqlar",
+        "istismar sınaqları",
+        "aşındırıcı sınaqlar",
+        "dağıdıcı sınaqlar"
+      ],
+      "answer": "dağıdıcı sınaqlar"
+    },
+    {
+      "question": "Ölçülər zaman ərzində fiziki kəmiyyəin qiyməti dəyişməz qalarsa onda bu",
+      "options": [
+        "düzgün cavab yoxdu",
+        "daimi",
+        "dəyişən",
+        "dinamik",
+        "statik"
+      ],
+      "answer": "statik"
+    },
+    {
+      "question": "Hansı ölçülər intervalı standarta uyğundur?",
+      "options": [
+        "87-120, 120-30, 160-230;",
+        "18-30;30-54, 54-80.",
+        "31-52,50-85, 83-110;",
+        "14-18, 18-36, 36-50;",
+        "3-6, 6-10, 10-18, 18-30;"
+      ],
+      "answer": "3-6, 6-10, 10-18, 18-30;"
+    },
+    {
+      "question": "Ölçmə şəkildəyuşdricilər nə ilə univiksiya olunmamışdır",
+      "options": [
+        "STAKO",
+        "AİP",
+        "PLAKO",
+        "KOPOLKO",
+        "AİS"
+      ],
+      "answer": "AİS"
+    },
+    {
+      "question": "Aşağıdakılardan hansı BEK-ə üzvlüyün formasıdır?",
+      "options": [
+        "komissiya-üzv",
+        "rəhbəredən üzv",
+        "icraedən üzv",
+        "əlaqələndirici üzv",
+        "komitə-üzv"
+      ],
+      "answer": "komitə-üzv"
+    },
+    {
+      "question": "Hərəкətli birləşmələrə qоyulаn əsаs tələblər nələrdən ibаrət? ( tam cavabı seçin)",
+      "options": [
+        "çох dəqiq birləşmələr üçün həmçinin vаlın dəqiq mərкəzləşməsi və bərаbər sürətlə fırlаnmаsı",
+        "düzlün variant yoxdur",
+        "mаşının uzun müddətli istismаrı пrоsеsində аrаbоşluğunun böyüməsi zаmаnı göstərilən növ sürtünmənin sахlаnmаsı,",
+        "vаl və yuvа аrаsındа sürtкü yаğı ilə sürtünməni təmin еdən ən аz аrаbоşluğunun yаrаdılmаsı, vаl və yuvа аrаsındа sürtкü yаğı ilə sürtünməni təmin еdən ən аz аrаbоşluğunun yаrаdılmаsı, mаşının uzun müddətli istismаrı пrоsеsində аrаbоşluğunun böyüməsi zаmаnı göstərilən növ sürtünmənin sахlаnmаsı, çох dəqiq birləşmələr üçün həmçinin vаlın dəqiq mərкəzləşməsi və bərаbər sürətlə fırlаnmаsı təmin еdilməlidir.",
+        "Option 5 (auto-added)"
+      ],
+      "answer": ""
+    },
+    {
+      "question": "c 8 valının ən kiçik ölçüsünü göstərin.",
+      "options": [
+        "65 + ES;",
+        "65 – ei;",
+        "65 – es;",
+        "65 + EJ.",
+        "65 + ei;"
+      ],
+      "answer": "65 + ei;"
+    },
+    {
+      "question": "Aşağıdakılardan hansı hesabat yolu ilə alınır?",
+      "options": [
+        "Yuxarı hədd",
+        "Aşağı hədd",
+        "Həqiqi",
+        "Təsadüfi",
+        "Nominal"
+      ],
+      "answer": "Nominal"
+    }
+  ],
+  "answers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

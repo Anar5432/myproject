@@ -12,5 +12,13 @@
     "stored_filename": "test.pdf",
     "dataset_path": "c:\\Users\\kitabxana\\Documents\\NEW\\datasets\\test_dataset.json",
     "num_questions": 700
+  },
+  {
+    "hash": "46c303f34f1b7e4bc77a4d320de9725642d0cd27178e22e8254be4a4689647d9",
+    "original_filename": "math.pdf",
+    "stored_filename": "math.pdf",
+    "dataset_path": "C:\\Users\\kitabxana\\Documents\\NEW\\datasets\\math_dataset.json",
+    "num_questions": 700,
+    "page_image_dir": "uploads\\pages\\46c303f34f1b7e4bc77a4d320de9725642d0cd27178e22e8254be4a4689647d9"
   }
 ]

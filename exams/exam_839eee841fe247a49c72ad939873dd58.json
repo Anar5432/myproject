@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Qeyd olunmuş diapazonda ölçülən fiziki kəmiyyətin qiymətinin alınması üçün nəzərdə tutulumş ölçü vasitəsi",
+      "options": [
+        "sorbsiya",
+        "doğru cavab yoxdur",
+        "ölçü dəstidir",
+        "desorbsiya",
+        "ölçü cihazları"
+      ],
+      "answer": "ölçü cihazları"
+    },
+    {
+      "question": "Aşağı həddi 0 olan yuva hansı yuvadır?",
+      "options": [
+        "Baza deşik",
+        "Ölçüsü müsaidəsiz deşik",
+        "Həqiqi deşik",
+        "Müsaidəsi diametrin ¼-nə bərabər olan deşik",
+        "Əsas deşik (yuva)."
+      ],
+      "answer": "Əsas deşik (yuva)."
+    },
+    {
+      "question": "Reper şkalasının nöqtələrinə müvafiq rəqəmlər qoyulur və onlara nə deyilir?",
+      "options": [
+        "fiziki kəmiyyətin şkalası",
+        "doğru cavab yoxdur",
+        "adların şkalası",
+        "ölçmə vasitələrinin şkalası",
+        "bal"
+      ],
+      "answer": "bal"
+    },
+    {
+      "question": "Diametrlərlə təyində hansı max ara boşluğun düsturudur?",
+      "options": [
+        "..",
+        "....",
+        "D - d",
+        "...",
+        "."
+      ],
+      "answer": "."
+    },
+    {
+      "question": "Sİ vahidləri ilə birgə işlənən vahidlər hansı vahidlərdir?",
+      "options": [
+        "eyni",
+        "ayrı",
+        "doğru  cavab yuxur",
+        "sistemli",
+        "sistemindən kənar"
+      ],
+      "answer": "sistemindən kənar"
+    },
+    {
+      "question": "Qarşılıqlı əvəzetmənin növünə aiddir :",
+      "options": [
+        "texniki-iqtisadi",
+        "qarşılıqlı",
+        "iqtisadi",
+        "texniki",
+        "daxili"
+      ],
+      "answer": "daxili"
+    },
+    {
+      "question": "Metroloji təcrübədə ölçü şkalalarının neçə beş növü məlumdur?",
+      "options": [
+        "12",
+        "8",
+        "4",
+        "3",
+        "5"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "İşçi ölçmə vasitələri vahidlərinin ölçülərinin verilməsi üçün nəzərdə tutulmuş etalon",
+      "options": [
+        "Beynəlxalq etalon",
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "İkinci dərəcəli etalonlar",
+        "Əsas etalon",
+        "İşçi etalon"
+      ],
+      "answer": "İşçi etalon"
+    },
+    {
+      "question": "Nəzəri işləmələrin və qanunverici metrologiyanın müddəaların praktiki tətbiqi necə adlanır",
+      "options": [
+        "daimi",
+        "sadə",
+        "mürəkkəb",
+        "nəzəri",
+        "tətbiqi"
+      ],
+      "answer": "tətbiqi"
+    },
+    {
+      "question": "es – Eİ fərqi nəyi təmin edir?",
+      "options": [
+        "Birləşmədə max ara boşluğu",
+        "Birləşən detalların bir – birinə nəzərən yerdəyişməsini",
+        "Birləşmədə min gərilmə",
+        "Birləşmədə min ara boşluğu",
+        "Birləşmədə max gərilmə"
+      ],
+      "answer": "Birləşmədə max gərilmə"
+    }
+  ],
+  "answers": [
+    "ölçü cihazları",
+    "Əsas deşik (yuva).",
+    "doğru cavab yoxdur",
+    "...",
+    "eyni",
+    "texniki-iqtisadi",
+    "5",
+    "İşçi etalon",
+    "daimi",
+    "Birləşmədə min gərilmə"
+  ]
+}

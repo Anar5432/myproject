@@ -1,0 +1,156 @@
+{
+  "questions": [
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ". √ .",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 117,
+      "orig_index": 264
+    },
+    {
+      "question": ".",
+      "options": [
+        ". √ .",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 43,
+      "orig_index": 117
+    },
+    {
+      "question": ".",
+      "options": [
+        "-4",
+        "-1",
+        "1",
+        "0 √ 4",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 142,
+      "orig_index": 335
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        "2",
+        "1",
+        ". √ təyin edilməyib.",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 123,
+      "orig_index": 278
+    },
+    {
+      "question": ".",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "0 √ .",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 19,
+      "orig_index": 53
+    },
+    {
+      "question": ". √ .",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 145,
+      "orig_index": 342
+    },
+    {
+      "question": ".",
+      "options": [
+        "-1 √ təyin edilməyib",
+        "0",
+        "1",
+        "2",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 24,
+      "orig_index": 71
+    },
+    {
+      "question": ".",
+      "options": [
+        "1,4",
+        "1,5 √ 2,5",
+        "2,8",
+        "1,8",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 99,
+      "orig_index": 223
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ". √ .",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 77,
+      "orig_index": 181
+    },
+    {
+      "question": ".",
+      "options": [
+        ". √ .",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 136,
+      "orig_index": 315
+    }
+  ],
+  "answers": [
+    ".",
+    ". √ .",
+    "Option 5 (auto-added)",
+    ". √ təyin edilməyib.",
+    "Option 5 (auto-added)",
+    ".",
+    "0",
+    "Option 5 (auto-added)",
+    ".",
+    ". √ ."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "questions": [
+    {
+      "question": "İqtisadi kəmiyyətlə əmtəə məhsullarının  nəyi ölçülür?",
+      "options": [
+        "fiziki kəmiyyətləri",
+        "təcili",
+        "sabitliyi",
+        "zamanı",
+        "dəyər və qiyməti"
+      ],
+      "answer": "dəyər və qiyməti"
+    },
+    {
+      "question": "Aşağıdakılardan hansı max ara boşluğunu göstərir?",
+      "options": [
+        "D - d",
+        "...",
+        "....",
+        "..",
+        "."
+      ],
+      "answer": "."
+    },
+    {
+      "question": "Val sistеmində vаllаrın ...  müsаidə sаhəsi nəzərədə tutulmuşdur.",
+      "options": [
+        "30",
+        "60",
+        "50",
+        "40",
+        "42"
+      ],
+      "answer": "42"
+    },
+    {
+      "question": "“EAN – İnternational” Beynəlxalq təşkilatında Azərbaycan Respublikası hansı ştrix kodu ilə tanınır?",
+      "options": [
+        "477",
+        "478",
+        "475",
+        "474",
+        "476"
+      ],
+      "answer": "476"
+    },
+    {
+      "question": "Milli etalonlarla təkrarlanan və saxlanılan vahidlərin ölçüləri ilə müqayisə üçün beynəlxalq əsas qismində beynəlxalq razılaşma əsasında qəbul olunmuş etalon",
+      "options": [
+        "Təkrarlanmadı",
+        "Ölçmə-hesablamadı",
+        "Ölçmə sistemləridi",
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "Beynəlxalq etalon"
+      ],
+      "answer": "Beynəlxalq etalon"
+    },
+    {
+      "question": "Aşağıdakılardan hansı BEK-in təşkilati strukturuna aid deyildir?",
+      "options": [
+        "Icraiyyə komitəsi",
+        "Şura",
+        "Texniki komitələr",
+        "Mərkəzi büro",
+        "Baş Məclis"
+      ],
+      "answer": "Baş Məclis"
+    },
+    {
+      "question": "Aşağıdakılardan hansı müsaidə sahəsini göstərir?",
+      "options": [
+        "İstismar zamanı detalın yeyilməyə məruz qalan sahəsinə",
+        "Emal prosesində detalın kəski ilə təmas sahəsinə",
+        "Birləşmədə olan detalların qovuşan səthlərlə əhatə olunmuş sahəyə",
+        "Detalın birləşmə zamanı sərbəst qalan səthin sahəsinə",
+        "Yuxarı və aşağı sapmalarla məhdudlaşmış sahəyə"
+      ],
+      "answer": "Yuxarı və aşağı sapmalarla məhdudlaşmış sahəyə"
+    }
+  ],
+  "answers": [
+    "fiziki kəmiyyətləri",
+    "..",
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}
