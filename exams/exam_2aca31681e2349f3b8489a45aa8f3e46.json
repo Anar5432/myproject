@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "1936-cı ilin avqustunda Müsavat partiyasının konqresi keçirilmişdi:",
+      "options": [
+        "İstanbulda",
+        "Romada",
+        "Parisdə",
+        "Berlində",
+        "Varşavada"
+      ],
+      "answer": "Varşavada"
+    },
+    {
+      "question": "Ərəb işğalçılarına qarşı mübarizə aparmış Albaniya hökmdarı kim idi:",
+      "options": [
+        "II Vace",
+        "Mehran",
+        "III Yezdəgird",
+        "Urnayr",
+        "Cavanşir"
+      ],
+      "answer": "Cavanşir"
+    },
+    {
+      "question": "Vergi toplanmasını nizamlamaq",
+      "options": [
+        "Option 1 (auto-added)",
+        "Option 2 (auto-added)",
+        "Option 3 (auto-added)",
+        "Option 4 (auto-added)",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null
+    },
+    {
+      "question": "Qaraqoyunlu Cahanşahın ölümündən sonra Qaraqoyunluların qanuni varisi hesab olunurdu:",
+      "options": [
+        "Əbu Səid",
+        "Cahangir Mirzə",
+        "Məhəmməd",
+        "Hüseynəli",
+        "Həsənəli"
+      ],
+      "answer": "Həsənəli"
+    },
+    {
+      "question": "I şah Abbası hakimiyyətə gətirən qızılbaş tayfalar:",
+      "options": [
+        "İran etnik qrupları",
+        "Təkəli və rumlu tayfaları",
+        "Fars tayfaları",
+        "Şamlı və rumlu tayfaları",
+        "Ustaclı və Şamlı tayfalarından olan Xorasan qrupu"
+      ],
+      "answer": "Ustaclı və Şamlı tayfalarından olan Xorasan qrupu"
+    },
+    {
+      "question": "Azərbaycanda vahid dövlət yaratmaq istəyirdi:",
+      "options": [
+        "Lənkəran və Bakı xanlıqları",
+        "Şəki və Lənkəran xanlıqları",
+        "Şəki və Gəncə xanlıqları",
+        "Bakı və Quba xanlıqları",
+        "Şəki və Quba xanlıqları"
+      ],
+      "answer": "Şəki və Quba xanlıqları"
+    },
+    {
+      "question": "E. ə. XII -XI əsrlərə aid varlı  Sarıçoban  kurqanı  hansı  xarakterik xüsusiyyəti ilə  fərqlənir :",
+      "options": [
+        "Heyvan  fiqurlarının olması ilə",
+        "Ağac  qalıqlarının çoxluq  təşkil etməsi ilə",
+        "Səma cisimlərinə aid bütlərin olması ilə",
+        "Öküzə sitayişi  əks  etdirməsi ilə",
+        "Qəbirin xaç  şəklində olması ilə"
+      ],
+      "answer": "Qəbirin xaç  şəklində olması ilə"
+    },
+    {
+      "question": "Azərbaycan Respublikasında  ilk  dəfə test  üsulu tətbiq edildi:",
+      "options": [
+        "1994 - cü ildə",
+        "1996- cı ildə",
+        "1993- cü ildə",
+        "1995- ci ildə",
+        "1992- ci ildə"
+      ],
+      "answer": "1992- ci ildə"
+    },
+    {
+      "question": "Prezident H.Əliyev  əlaçı  ali məktəb tələbələri üçün prezident  təqaüdü təsis etdi:",
+      "options": [
+        "1998- ci ildə",
+        "1996- cı ildə",
+        "1995- ci ildə",
+        "2002- ci ildə",
+        "2001- ci ildə"
+      ],
+      "answer": "2001- ci ildə"
+    },
+    {
+      "question": "Monqol canişinlərinin, xüsusilə Arqun ağanın Azərbaycanda həyata keçirdiyi siyasətin əsas mahiyyəti:",
+      "options": [
+        "Təsərrüfatı gücləndirmək",
+        "Şəhər əhalisinə divan tutmaq",
+        "Vergiləri artırmaq",
+        "Tutduqları ərazilərdə qarətçiliklə məşğul olmaq və əhalini soyub talamaq",
+        "Feodalların – vassalların köçəri monqol əyanlardan asılılığını gücləndirmək"
+      ],
+      "answer": "Feodalların – vassalların köçəri monqol əyanlardan asılılığını gücləndirmək"
+    }
+  ],
+  "answers": [
+    "Romada",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Öküzə sitayişi  əks  etdirməsi ilə",
+    null,
+    null,
+    "Tutduqları ərazilərdə qarətçiliklə məşğul olmaq və əhalini soyub talamaq"
+  ]
+}

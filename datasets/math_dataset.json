@@ -1,0 +1,9802 @@
+[
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-1,8",
+      "-1,3",
+      "-1,4 √ -1,5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 1,
+    "orig_index": 1
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-3/8",
+      "-1/8",
+      "-5/8 √ -7/6",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 1,
+    "orig_index": 2
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 1,
+    "orig_index": 3
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 2,
+    "orig_index": 4
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 2,
+    "orig_index": 5
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 3,
+    "orig_index": 6
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 3,
+    "orig_index": 7
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 3,
+    "orig_index": 8
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 4,
+    "orig_index": 9
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 5,
+    "orig_index": 10
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 5,
+    "orig_index": 11
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 6,
+    "orig_index": 12
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 6,
+    "orig_index": 13
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 7,
+    "orig_index": 14
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "-8",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 7,
+    "orig_index": 15
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      "-8",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 8,
+    "orig_index": 16
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "e",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 8,
+    "orig_index": 17
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "-2 √ -2,5",
+      "-1",
+      "-2,4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 8,
+    "orig_index": 18
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1",
+      "-2",
+      "0",
+      "1 √ 2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 9,
+    "orig_index": 19
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-0,8",
+      "-0,3",
+      "-0,4 √ -0,5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 9,
+    "orig_index": 20
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "3 √ 1",
+      "2",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 9,
+    "orig_index": 21
+  },
+  {
+    "question": ".",
+    "options": [
+      "5",
+      "2 √ 0",
+      "1",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 9,
+    "orig_index": 22
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "təyin edilməyib √ 0",
+      "1",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 9,
+    "orig_index": 23
+  },
+  {
+    "question": ".",
+    "options": [
+      "0,005",
+      "0,006 √ 0,05",
+      "0,06",
+      "0,4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 10,
+    "orig_index": 24
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "0 √ 1",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 10,
+    "orig_index": 25
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-1",
+      ".",
+      ". √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 10,
+    "orig_index": 26
+  },
+  {
+    "question": ".",
+    "options": [
+      "2 √ 0",
+      "1",
+      "-1",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 10,
+    "orig_index": 27
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 11,
+    "orig_index": 28
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      "-2",
+      "0",
+      "-1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 11,
+    "orig_index": 29
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "1",
+      "Düzgün cavab yoxdur. √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 12,
+    "orig_index": 30
+  },
+  {
+    "question": ".",
+    "options": [
+      "4 √ 8",
+      "1",
+      "2",
+      "5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 12,
+    "orig_index": 31
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "4 √ 6",
+      "3",
+      "-4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 12,
+    "orig_index": 32
+  },
+  {
+    "question": ".",
+    "options": [
+      "6 √ 3",
+      "0",
+      "1",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 12,
+    "orig_index": 33
+  },
+  {
+    "question": ".",
+    "options": [
+      "-0,4 √ 2,5",
+      "12",
+      "1,8",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 13,
+    "orig_index": 34
+  },
+  {
+    "question": ".",
+    "options": [
+      "18",
+      "21 √ 15",
+      "24",
+      "20",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 13,
+    "orig_index": 35
+  },
+  {
+    "question": ".",
+    "options": [
+      "3",
+      "5",
+      ".",
+      "8 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 13,
+    "orig_index": 36
+  },
+  {
+    "question": ".",
+    "options": [
+      "3 √ 11",
+      "14",
+      "19",
+      "8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 13,
+    "orig_index": 37
+  },
+  {
+    "question": ".",
+    "options": [
+      "0,3 √ 0,5",
+      "0,2",
+      "1",
+      "0,8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 14,
+    "orig_index": 38
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      "5",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 14,
+    "orig_index": 39
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "9",
+      ".",
+      "7 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 15,
+    "orig_index": 40
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "0,8",
+      "0",
+      "0,6 √ 0,2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 15,
+    "orig_index": 41
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ 1",
+      "3",
+      "2",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 15,
+    "orig_index": 42
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "1 √ 0",
+      "2",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 16,
+    "orig_index": 43
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ 0",
+      "1",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 16,
+    "orig_index": 44
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      ".",
+      ".",
+      "-4 √ 2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 16,
+    "orig_index": 45
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      ".",
+      "7 √ 8",
+      "6",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 17,
+    "orig_index": 46
+  },
+  {
+    "question": ".",
+    "options": [
+      "2",
+      "1 √ 0",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 17,
+    "orig_index": 47
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "e",
+      "2",
+      "1 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 17,
+    "orig_index": 48
+  },
+  {
+    "question": ".",
+    "options": [
+      "2",
+      "4",
+      "7 √ 5",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 17,
+    "orig_index": 49
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "0,6 √ 0,5",
+      "1",
+      "0,8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 18,
+    "orig_index": 50
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      ".",
+      "1",
+      "2",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 18,
+    "orig_index": 51
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 18,
+    "orig_index": 52
+  },
+  {
+    "question": ".",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0 √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 19,
+    "orig_index": 53
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "3",
+      "2",
+      "1 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 19,
+    "orig_index": 54
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      "-1",
+      "0",
+      "-3",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 19,
+    "orig_index": 55
+  },
+  {
+    "question": ".",
+    "options": [
+      "2 √ 4",
+      "1",
+      "0",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 19,
+    "orig_index": 56
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ 1",
+      "-1",
+      "8",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 19,
+    "orig_index": 57
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 20,
+    "orig_index": 58
+  },
+  {
+    "question": ".",
+    "options": [
+      "Düzgün cavab yoxdur.",
+      "0",
+      "1 √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 20,
+    "orig_index": 59
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ 1/144",
+      "1",
+      "0",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 20,
+    "orig_index": 60
+  },
+  {
+    "question": ". √ 4",
+    "options": [
+      "1",
+      "-1",
+      "-3",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 21,
+    "orig_index": 61
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ 0",
+      "-1",
+      "e",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 21,
+    "orig_index": 62
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 21,
+    "orig_index": 63
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "e",
+      "0,2",
+      "-1 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 22,
+    "orig_index": 64
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      "-1",
+      "3",
+      "2",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 22,
+    "orig_index": 65
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      "1",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 22,
+    "orig_index": 66
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      "3",
+      "4",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 23,
+    "orig_index": 67
+  },
+  {
+    "question": ".",
+    "options": [
+      "6 √ -4",
+      "0",
+      "4",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 23,
+    "orig_index": 68
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ 0",
+      ".",
+      "2",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 23,
+    "orig_index": 69
+  },
+  {
+    "question": ".",
+    "options": [
+      "-0,5 √ 0,5",
+      "2",
+      "-0,4",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 24,
+    "orig_index": 70
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1 √ təyin edilməyib",
+      "0",
+      "1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 24,
+    "orig_index": 71
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 24,
+    "orig_index": 72
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 25,
+    "orig_index": 73
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 26,
+    "orig_index": 74
+  },
+  {
+    "question": ".",
+    "options": [
+      "b=-4 √ b=-10",
+      "b=0",
+      "b=8",
+      "b=12",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 26,
+    "orig_index": 75
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 27,
+    "orig_index": 76
+  },
+  {
+    "question": ".",
+    "options": [
+      "-4",
+      "0 √ .",
+      "1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 27,
+    "orig_index": 77
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 27,
+    "orig_index": 78
+  },
+  {
+    "question": ". √ 1/8",
+    "options": [
+      "1/16",
+      "2",
+      "1/4",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 28,
+    "orig_index": 79
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 28,
+    "orig_index": 80
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "-4",
+      "0",
+      "2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 28,
+    "orig_index": 81
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "-4",
+      "3",
+      "2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 28,
+    "orig_index": 82
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 29,
+    "orig_index": 83
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 29,
+    "orig_index": 84
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=0  nöqtəsi 1-ci növ kəsilmə nöqtəsidir √ x=5  nöqtəsi 1-ci növ kəsilmə nöqtəsidir",
+      "x=1 nöqtəsi 2-ci növ kəsilmə nöqtəsidir",
+      "x=5 nöqtəsi 2-ci növ kəsilmə nöqtəsidir",
+      "x=5-də funksiya kəsilməzdir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 29,
+    "orig_index": 85
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 30,
+    "orig_index": 86
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      "düzgün cavab yoxdur",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 31,
+    "orig_index": 87
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 31,
+    "orig_index": 88
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 32,
+    "orig_index": 89
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 33,
+    "orig_index": 90
+  },
+  {
+    "question": ". √ 2",
+    "options": [
+      "-2",
+      "0",
+      "-1",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 33,
+    "orig_index": 91
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 34,
+    "orig_index": 92
+  },
+  {
+    "question": ". √ 4/3",
+    "options": [
+      "1",
+      "1/2",
+      "3/4",
+      "7/2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 34,
+    "orig_index": 93
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "0",
+      "0,82 √ 0,64",
+      "0,7",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 34,
+    "orig_index": 94
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1",
+      "0 √ 0,4",
+      "0,2",
+      "0,3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 34,
+    "orig_index": 95
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 35,
+    "orig_index": 96
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 35,
+    "orig_index": 97
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 35,
+    "orig_index": 98
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 36,
+    "orig_index": 99
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 36,
+    "orig_index": 100
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 37,
+    "orig_index": 101
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 37,
+    "orig_index": 102
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 38,
+    "orig_index": 103
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 38,
+    "orig_index": 104
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 39,
+    "orig_index": 105
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ Roll teoreminin şərtləri ödənmir",
+      "3",
+      "0",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 39,
+    "orig_index": 106
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 40,
+    "orig_index": 107
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 40,
+    "orig_index": 108
+  },
+  {
+    "question": ".",
+    "options": [
+      "2",
+      "1 √ 0",
+      "-1",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 41,
+    "orig_index": 109
+  },
+  {
+    "question": ".",
+    "options": [
+      "(0;0)",
+      "(-1:-1) √ (1;1)",
+      "(2;8)",
+      "(3:27)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 41,
+    "orig_index": 110
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-4",
+      "-1",
+      "-3 √ 2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 41,
+    "orig_index": 111
+  },
+  {
+    "question": ".",
+    "options": [
+      "3",
+      "5 √ 2",
+      "1",
+      "-4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 41,
+    "orig_index": 112
+  },
+  {
+    "question": ". √ 4",
+    "options": [
+      "1",
+      "-2",
+      "0",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 42,
+    "orig_index": 113
+  },
+  {
+    "question": ".",
+    "options": [
+      "3 √ 4",
+      "2",
+      "1",
+      "5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 42,
+    "orig_index": 114
+  },
+  {
+    "question": ".. √ 3",
+    "options": [
+      "4",
+      "5",
+      "1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 42,
+    "orig_index": 115
+  },
+  {
+    "question": ".",
+    "options": [
+      "35 √ 17",
+      "yoxdur",
+      "10",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 42,
+    "orig_index": 116
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 43,
+    "orig_index": 117
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 44,
+    "orig_index": 118
+  },
+  {
+    "question": ".",
+    "options": [
+      "bütün ədəd oxunda kəsilməz funksiyadır. √ x=1 ikinci növ kəsilmə nöqtəsidir.",
+      "x=-1 ikinci növ kəsilmə nöqtəsidir.",
+      "x=1  birinci növ kəsilmə nöqtəsidir.",
+      "x=1 aradan qaldırıla bilən kəsilmə nöqtəsidir.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 44,
+    "orig_index": 119
+  },
+  {
+    "question": ".",
+    "options": [
+      "bütün ədəd oxunda kəsilməz funksiyadır.",
+      "x=0  birinci növ kəsilmə nöqtəsidir. √  x=0 ikinci növ kəsilmə nöqtəsidir.",
+      "x=0 aradan qaldırıla bilən kəsilmə nöqtəsidir.",
+      "x=1 birinci növ kəsilmə nöqtəsidir.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 44,
+    "orig_index": 120
+  },
+  {
+    "question": ".",
+    "options": [
+      "bütün ədəd oxunda kəsilməz funksiyadır.",
+      "x=1 aradan qaldırıla bilən kəsilmə nöqtəsidir.",
+      "x=1 ikinci növ kəsilmə nöqtəsidir.",
+      "x=-1  birinci növ kəsilmə nöqtəsidir. √  x=1 birinci növ kəsilmə nöqtəsidir.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 44,
+    "orig_index": 121
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 45,
+    "orig_index": 122
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 45,
+    "orig_index": 123
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 46,
+    "orig_index": 124
+  },
+  {
+    "question": ".",
+    "options": [
+      "b=-8",
+      "b=0 √ b=5",
+      "b=-4",
+      "b=2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 46,
+    "orig_index": 125
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 47,
+    "orig_index": 126
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "(1;0)",
+      "(0;1)",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 47,
+    "orig_index": 127
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ əyilmə nöqtəsi yoxdur",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 48,
+    "orig_index": 128
+  },
+  {
+    "question": ". √ (5;2)",
+    "options": [
+      "(6;3)",
+      "(0;-3)",
+      "(0;4)",
+      "(2;1)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 48,
+    "orig_index": 129
+  },
+  {
+    "question": ".",
+    "options": [
+      "(-2;27) və (2;-100) √ (2;-100) və (-3;-285)",
+      "(1;-21) və (0;12)",
+      "(0;12) və (-1;-25)",
+      "(-1;-25) və (-3;-285)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 48,
+    "orig_index": 130
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 49,
+    "orig_index": 131
+  },
+  {
+    "question": ". √ 2",
+    "options": [
+      "8",
+      "-1",
+      "0",
+      "4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 49,
+    "orig_index": 132
+  },
+  {
+    "question": ".",
+    "options": [
+      "4",
+      "-16 √ -18",
+      "0",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 49,
+    "orig_index": 133
+  },
+  {
+    "question": ". √ (-1;0)",
+    "options": [
+      "(1;2)",
+      "(-1;1)",
+      "(0;1)",
+      "(0;0,5)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 50,
+    "orig_index": 134
+  },
+  {
+    "question": ".",
+    "options": [
+      "(-1;1)",
+      "(1;2) √ (0;1)",
+      "(0;0,5)",
+      "(-1;0)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 50,
+    "orig_index": 135
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 50,
+    "orig_index": 136
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ artan funksiyadır",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 51,
+    "orig_index": 137
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 51,
+    "orig_index": 138
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ həmişə artan funksiyadır",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 52,
+    "orig_index": 139
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 52,
+    "orig_index": 140
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 53,
+    "orig_index": 141
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 54,
+    "orig_index": 142
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=-6; x=1nöqtələri birinci  növ kəsilmə nöqtələridir",
+      "x=-6; x=1nöqtələri aradan qaldırıla bilən  kəsilmə nöqtələridir",
+      "x=-6 birinci növ; x=1 ikinci növ kəsilmə nöqtəsidir.",
+      "x=-6 ikinci növ; x=1birinci növ  kəsilmə nöqtəsidir. √  x=-6; x=1nöqtələri ikinci növ kəsilmə nöqtələridir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 54,
+    "orig_index": 143
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 55,
+    "orig_index": 144
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 55,
+    "orig_index": 145
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 56,
+    "orig_index": 146
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 57,
+    "orig_index": 147
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 58,
+    "orig_index": 148
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 59,
+    "orig_index": 149
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 60,
+    "orig_index": 150
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 60,
+    "orig_index": 151
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 61,
+    "orig_index": 152
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 62,
+    "orig_index": 153
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 63,
+    "orig_index": 154
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 64,
+    "orig_index": 155
+  },
+  {
+    "question": ".",
+    "options": [
+      "e+1",
+      "-2",
+      "2 √ -1",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 64,
+    "orig_index": 156
+  },
+  {
+    "question": ".",
+    "options": [
+      "2",
+      "-2",
+      "-1 √ 1",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 64,
+    "orig_index": 157
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 65,
+    "orig_index": 158
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 65,
+    "orig_index": 159
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 66,
+    "orig_index": 160
+  },
+  {
+    "question": ". √ 2/3",
+    "options": [
+      "2/5",
+      "3/4",
+      "1/2",
+      "1/3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 66,
+    "orig_index": 161
+  },
+  {
+    "question": ". √ 3,75+7 ln2",
+    "options": [
+      "2,5+6 ln2",
+      "3,5+6 ln2",
+      "3,75-7 ln2",
+      "3,5-6 ln2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 67,
+    "orig_index": 162
+  },
+  {
+    "question": ". √ 2",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 67,
+    "orig_index": 163
+  },
+  {
+    "question": ".",
+    "options": [
+      "1,54",
+      "3,8",
+      "2,5",
+      "4,25 √ 5,25",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 67,
+    "orig_index": 164
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 68,
+    "orig_index": 165
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 68,
+    "orig_index": 166
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1 √ 0,5",
+      ".",
+      "1",
+      "0,3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 69,
+    "orig_index": 167
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 70,
+    "orig_index": 168
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "2",
+      "-2",
+      "-1 √ 1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 70,
+    "orig_index": 169
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 71,
+    "orig_index": 170
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 72,
+    "orig_index": 171
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ inteqral dağılır",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 73,
+    "orig_index": 172
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 73,
+    "orig_index": 173
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 74,
+    "orig_index": 174
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 74,
+    "orig_index": 175
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 75,
+    "orig_index": 176
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 75,
+    "orig_index": 177
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 76,
+    "orig_index": 178
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      ".düzgün cavab yoxdur",
+      "3",
+      "5",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 76,
+    "orig_index": 179
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 77,
+    "orig_index": 180
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 77,
+    "orig_index": 181
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 78,
+    "orig_index": 182
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 78,
+    "orig_index": 183
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 79,
+    "orig_index": 184
+  },
+  {
+    "question": ".",
+    "options": [
+      "(-1;3)",
+      ".",
+      ".",
+      "(-4;8) √ (-1;1)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 80,
+    "orig_index": 185
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "2",
+      "1/3",
+      "1",
+      "4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 80,
+    "orig_index": 186
+  },
+  {
+    "question": ". √ -9",
+    "options": [
+      "3",
+      "-8",
+      "2",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 80,
+    "orig_index": 187
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 81,
+    "orig_index": 188
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 81,
+    "orig_index": 189
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 82,
+    "orig_index": 190
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 82,
+    "orig_index": 191
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "3",
+      "-1",
+      "2 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 82,
+    "orig_index": 192
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "1",
+      "2",
+      "-1",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 82,
+    "orig_index": 193
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2",
+      "-1",
+      "2",
+      "1 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 83,
+    "orig_index": 194
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 83,
+    "orig_index": 195
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 84,
+    "orig_index": 196
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 85,
+    "orig_index": 197
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 85,
+    "orig_index": 198
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 86,
+    "orig_index": 199
+  },
+  {
+    "question": ".",
+    "options": [
+      "y=3x-1",
+      "y=1",
+      "y=-2x+4",
+      "y=2x √ y=0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 86,
+    "orig_index": 200
+  },
+  {
+    "question": ".",
+    "options": [
+      "y=x-1",
+      "y=-2x+1",
+      "y=2x+3",
+      "y=2 √ y=1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 86,
+    "orig_index": 201
+  },
+  {
+    "question": ".",
+    "options": [
+      "y=3x+2 √  y=2x",
+      "təyin edilməyib",
+      "y=3x",
+      "y=2x-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 86,
+    "orig_index": 202
+  },
+  {
+    "question": ".",
+    "options": [
+      "təyin edilməyib √ x=1",
+      "x=2",
+      "x=-1",
+      "x=-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 87,
+    "orig_index": 203
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 87,
+    "orig_index": 204
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 88,
+    "orig_index": 205
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 88,
+    "orig_index": 206
+  },
+  {
+    "question": ".",
+    "options": [
+      "-6",
+      "-5",
+      "-4 √ -2",
+      "-3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 89,
+    "orig_index": 207
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 89,
+    "orig_index": 208
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 90,
+    "orig_index": 209
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 91,
+    "orig_index": 210
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 91,
+    "orig_index": 211
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 92,
+    "orig_index": 212
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 93,
+    "orig_index": 213
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 94,
+    "orig_index": 214
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 94,
+    "orig_index": 215
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 95,
+    "orig_index": 216
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 96,
+    "orig_index": 217
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 97,
+    "orig_index": 218
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 98,
+    "orig_index": 219
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 98,
+    "orig_index": 220
+  },
+  {
+    "question": ".",
+    "options": [
+      "1,4",
+      "2",
+      "3 √ 1",
+      "1,8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 98,
+    "orig_index": 221
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "2",
+      "-1",
+      "1",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 99,
+    "orig_index": 222
+  },
+  {
+    "question": ".",
+    "options": [
+      "1,4",
+      "1,5 √ 2,5",
+      "2,8",
+      "1,8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 99,
+    "orig_index": 223
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 100,
+    "orig_index": 224
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 100,
+    "orig_index": 225
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 101,
+    "orig_index": 226
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 102,
+    "orig_index": 227
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 102,
+    "orig_index": 228
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 103,
+    "orig_index": 229
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 104,
+    "orig_index": 230
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 104,
+    "orig_index": 231
+  },
+  {
+    "question": ".",
+    "options": [
+      "2 √ .",
+      ".",
+      ".",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 105,
+    "orig_index": 232
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 106,
+    "orig_index": 233
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 106,
+    "orig_index": 234
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 106,
+    "orig_index": 235
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 107,
+    "orig_index": 236
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2,4",
+      "2 √ 0",
+      "-2",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 107,
+    "orig_index": 237
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1",
+      "2",
+      "-2",
+      "-2,4 √ 1,5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 107,
+    "orig_index": 238
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2 √ 2",
+      "1",
+      "0",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 108,
+    "orig_index": 239
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 108,
+    "orig_index": 240
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 108,
+    "orig_index": 241
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 109,
+    "orig_index": 242
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 109,
+    "orig_index": 243
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 110,
+    "orig_index": 244
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 110,
+    "orig_index": 245
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 111,
+    "orig_index": 246
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 111,
+    "orig_index": 247
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 112,
+    "orig_index": 248
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 112,
+    "orig_index": 249
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 113,
+    "orig_index": 250
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 114,
+    "orig_index": 251
+  },
+  {
+    "question": ".",
+    "options": [
+      "2 √ 1",
+      "-1",
+      "8",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 114,
+    "orig_index": 252
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      "1",
+      "e",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 114,
+    "orig_index": 253
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "1",
+      "e",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 115,
+    "orig_index": 254
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      "-8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 115,
+    "orig_index": 255
+  },
+  {
+    "question": ".",
+    "options": [
+      "3 √ 2",
+      "1",
+      "0",
+      "-4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 115,
+    "orig_index": 256
+  },
+  {
+    "question": ". √ 0,5",
+    "options": [
+      "0",
+      "0,3",
+      "0,2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 115,
+    "orig_index": 257
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "0 √ 1",
+      "-1",
+      "1/2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 116,
+    "orig_index": 258
+  },
+  {
+    "question": ".",
+    "options": [
+      "e",
+      "2 √ 1",
+      "0",
+      "0,5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 116,
+    "orig_index": 259
+  },
+  {
+    "question": ".",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "-2 √ -1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 116,
+    "orig_index": 260
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ 1",
+      "0,5",
+      "2",
+      "e",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 116,
+    "orig_index": 261
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ .",
+      ".",
+      "e",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 116,
+    "orig_index": 262
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 117,
+    "orig_index": 263
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 117,
+    "orig_index": 264
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "1 √ 0",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 118,
+    "orig_index": 265
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 119,
+    "orig_index": 266
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 119,
+    "orig_index": 267
+  },
+  {
+    "question": ". √ 24",
+    "options": [
+      "26",
+      "-13",
+      "0",
+      "21",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 120,
+    "orig_index": 268
+  },
+  {
+    "question": ".",
+    "options": [
+      "0,6 √ -0,5",
+      "-0,15",
+      "0,18",
+      "-0,42",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 120,
+    "orig_index": 269
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "-2 √ 1",
+      "0",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 120,
+    "orig_index": 270
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "3",
+      ".",
+      "0",
+      "4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 121,
+    "orig_index": 271
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      ".",
+      ".",
+      "0",
+      "9",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 121,
+    "orig_index": 272
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "9",
+      ".",
+      "2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 121,
+    "orig_index": 273
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      "-4",
+      "1 √ 9",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 122,
+    "orig_index": 274
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      ". √ 14",
+      "6",
+      "7",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 122,
+    "orig_index": 275
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ 0",
+      "1",
+      "6",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 123,
+    "orig_index": 276
+  },
+  {
+    "question": ". √ təyin edilməyib.",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 123,
+    "orig_index": 277
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "2",
+      "1",
+      ". √ təyin edilməyib.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 123,
+    "orig_index": 278
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "2e",
+      "1 √ 0",
+      "e",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 124,
+    "orig_index": 279
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ 0",
+      "1",
+      ".",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 124,
+    "orig_index": 280
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ 0",
+      "1",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 124,
+    "orig_index": 281
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ 0",
+      "1",
+      ".",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 125,
+    "orig_index": 282
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 125,
+    "orig_index": 283
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      "1,4",
+      "-3",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 125,
+    "orig_index": 284
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-6 √ -9",
+      "7",
+      "8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 126,
+    "orig_index": 285
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "0",
+      "1",
+      ". √ 6",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 126,
+    "orig_index": 286
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1",
+      ". √ təyin edilməyib",
+      "1",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 126,
+    "orig_index": 287
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "1",
+      "-4 √ -6",
+      "-5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 126,
+    "orig_index": 288
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 127,
+    "orig_index": 289
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 127,
+    "orig_index": 290
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ 0",
+      "3",
+      "2",
+      "6",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 128,
+    "orig_index": 291
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "1 √ 0,6",
+      "0,8",
+      "0,3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 128,
+    "orig_index": 292
+  },
+  {
+    "question": ".",
+    "options": [
+      "4 √ 1",
+      "2",
+      "-1",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 128,
+    "orig_index": 293
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 128,
+    "orig_index": 294
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1",
+      "0",
+      "-1/4",
+      "1 √ 1/4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 129,
+    "orig_index": 295
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 129,
+    "orig_index": 296
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "0",
+      "4",
+      "2 √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 129,
+    "orig_index": 297
+  },
+  {
+    "question": ". √ 120",
+    "options": [
+      "2",
+      "220",
+      "-60",
+      "60",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 130,
+    "orig_index": 298
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      "-1",
+      "6",
+      "e",
+      "4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 130,
+    "orig_index": 299
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "-2",
+      "0",
+      "1",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 130,
+    "orig_index": 300
+  },
+  {
+    "question": ".",
+    "options": [
+      "0,6 √ 0,5",
+      "0",
+      "0,2",
+      "-0,4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 130,
+    "orig_index": 301
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ 2",
+      ".",
+      "e",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 131,
+    "orig_index": 302
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ .",
+      ".",
+      ".",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 131,
+    "orig_index": 303
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ .",
+      ".",
+      "2",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 131,
+    "orig_index": 304
+  },
+  {
+    "question": ".",
+    "options": [
+      "2 √ e",
+      ".",
+      ".",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 132,
+    "orig_index": 305
+  },
+  {
+    "question": ". √ -2,5",
+    "options": [
+      ".",
+      "1",
+      "e",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 132,
+    "orig_index": 306
+  },
+  {
+    "question": ".",
+    "options": [
+      "-3",
+      "2",
+      ".",
+      "e √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 132,
+    "orig_index": 307
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 133,
+    "orig_index": 308
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 133,
+    "orig_index": 309
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 134,
+    "orig_index": 310
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 135,
+    "orig_index": 311
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 135,
+    "orig_index": 312
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 135,
+    "orig_index": 313
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 136,
+    "orig_index": 314
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 136,
+    "orig_index": 315
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 137,
+    "orig_index": 316
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "funksiya bütün ədəd oxunda kəsiləndir.",
+      "funksiya bütün ədəd oxunda kəsilməzdir.",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 137,
+    "orig_index": 317
+  },
+  {
+    "question": ". √ x=10 nöqtəsi 1-ci növ kəsilmə nöqtəsidir",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 138,
+    "orig_index": 318
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 138,
+    "orig_index": 319
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=2 -birinci növ kəsilmə nöqtəsidir √ x=1 -aradan qaldırıla bilən kəsilmə nöqtəsidir",
+      "x=0-birinci növ kəsilmə nöqtəsidir",
+      "x=-1 -ikinci növ kəsilmə nöqtəsidir",
+      "x=1-ikinci növ kəsilmə nöqtəsidir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 138,
+    "orig_index": 320
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=0- ikinci növ kəsilmə nöqtəsidir √ x=0 aradan qaldırıla bilən kəsilmə nöqtəsidir",
+      "x=0  -da kəsilməz funksiyadır",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 139,
+    "orig_index": 321
+  },
+  {
+    "question": ".",
+    "options": [
+      "sonlu sayda kəsilmə nöqtəsinə malikdir",
+      "x=0-da birinci növ kəsilməyə malikdir",
+      "x=-1 -də ikinci növ kəsilməyə malikdir",
+      "sonsuz sayda kəsilmə nöqtəsinə malikdir √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 139,
+    "orig_index": 322
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=1 nöqtəsi ikinci növ kəsilmə nöqtəsidir √  x=1 nöqtəsi birinci növ kəsilmə nöqtəsidir",
+      "x=-1 nöqtəsi ikinci növ kəsilmə nöqtəsidir",
+      "x=-1 nöqtəsi birinci növ kəsilmə nöqtəsidir",
+      "x=0 nöqtəsi ikinci növ kəsilmə nöqtəsidir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 139,
+    "orig_index": 323
+  },
+  {
+    "question": ". √ x=0 -da kəsilən funksiyadır",
+    "options": [
+      "x=4 -də kəsilən funksiyadır",
+      "x=-4 -də kəsilən funksiyadır",
+      "x=-1 -də kəsilən funksiyadır",
+      "x=1 -də kəsilən funksiyadır",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 139,
+    "orig_index": 324
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ kəsilməz funksiyadır",
+      "x=1 -də kəsilən funksiyadır",
+      "x=0 -da kəsilən funksiyadır",
+      "x=-1-də kəsilən funksiyadır",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 140,
+    "orig_index": 325
+  },
+  {
+    "question": ". √  x=2 nöqtəsi birinci növ kəsilmə nöqtəsidir",
+    "options": [
+      "x=3  ikinci növ kəsilmə nöqtəsidir",
+      "x=1 nöqtəsi kəsilmə nöqtəsidir",
+      ".",
+      "x=3 nöqtəsi birinci növ kəsilmə nöqtəsidir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 140,
+    "orig_index": 326
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 141,
+    "orig_index": 327
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 141,
+    "orig_index": 328
+  },
+  {
+    "question": ".",
+    "options": [
+      "0,8",
+      "1",
+      "0,6 √ 1,6",
+      "1,4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 141,
+    "orig_index": 329
+  },
+  {
+    "question": ".",
+    "options": [
+      "1/5",
+      "6/5",
+      "2/5 √ 9/5",
+      "9/4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 141,
+    "orig_index": 330
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "-1,3",
+      "1,3",
+      "1,2 √ 1,5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 142,
+    "orig_index": 331
+  },
+  {
+    "question": ". √ 1/8",
+    "options": [
+      "1",
+      "0",
+      "ln4",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 142,
+    "orig_index": 332
+  },
+  {
+    "question": ".",
+    "options": [
+      "k=-21",
+      "k=4",
+      "k=1",
+      "k=2 √ k=7",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 142,
+    "orig_index": 333
+  },
+  {
+    "question": ".",
+    "options": [
+      "42",
+      "52 √ 32",
+      "10",
+      "20",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 142,
+    "orig_index": 334
+  },
+  {
+    "question": ".",
+    "options": [
+      "-4",
+      "-1",
+      "1",
+      "0 √ 4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 142,
+    "orig_index": 335
+  },
+  {
+    "question": ". √ -1",
+    "options": [
+      "-2",
+      "2",
+      "1",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 143,
+    "orig_index": 336
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 143,
+    "orig_index": 337
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 144,
+    "orig_index": 338
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 144,
+    "orig_index": 339
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 144,
+    "orig_index": 340
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 145,
+    "orig_index": 341
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 145,
+    "orig_index": 342
+  },
+  {
+    "question": ". √ 4/3",
+    "options": [
+      "0",
+      "1",
+      "-1/2",
+      "1/2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 146,
+    "orig_index": 343
+  },
+  {
+    "question": ".",
+    "options": [
+      "6 √ 4",
+      "2",
+      "1",
+      "7",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 146,
+    "orig_index": 344
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 147,
+    "orig_index": 345
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 147,
+    "orig_index": 346
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      "1 √ 0",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 148,
+    "orig_index": 347
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 148,
+    "orig_index": 348
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      ".",
+      ".",
+      "2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 149,
+    "orig_index": 349
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 149,
+    "orig_index": 350
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2 √  1",
+      "2",
+      "3",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 149,
+    "orig_index": 351
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "1/2 √ 8/3",
+      "-8/3",
+      "1/3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 150,
+    "orig_index": 352
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      ".",
+      ".",
+      "1 √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 150,
+    "orig_index": 353
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "35 √ .",
+      "12",
+      "10",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 151,
+    "orig_index": 354
+  },
+  {
+    "question": ".",
+    "options": [
+      "k=3",
+      "k=-4 √  k=0",
+      "k=1",
+      "k=-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 151,
+    "orig_index": 355
+  },
+  {
+    "question": ".",
+    "options": [
+      "k=-2",
+      "k=-1",
+      "k=1 √ k=0",
+      "k=2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 151,
+    "orig_index": 356
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 152,
+    "orig_index": 357
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "x=-1 ikinci növ kəsilmə nöqtəsidir.",
+      "bütün ədəd oxunda kəsilməz funksiyadır.",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 152,
+    "orig_index": 358
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=0,x=1 ikinci növ kəsilmə nöqtələridir.",
+      ". √ .",
+      "x=-1 birinci növ, x=1 ikinci növ kəsilmə nöqtəsidir.",
+      "bütün ədəd oxunda kəsilməz funksiyadır.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 153,
+    "orig_index": 359
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=1,x=-2 ikinci növ kəsilmə nöqtələridir.",
+      "x=0,x=2 birinci növ kəsilmə nöqtəsidir. √ x=0,x=2 ikinci növ kəsilmə nöqtəsi, x=1 aradan qaldırıla bilən kəsilmə nöqtəsidir.",
+      "x=-1 ikinci növ kəsilmə nöqtəsidir.",
+      "bütün ədəd oxunda kəsilməz funksiyadır.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 153,
+    "orig_index": 360
+  },
+  {
+    "question": ".",
+    "options": [
+      "bütün ədəd oxunda kəsilməz funksiyadır. √  x=0 ikinci növ kəsilmə nöqtəsidir.",
+      "x=1 ikinci növ kəsilmə nöqtəsidir.",
+      "x=0  birinci növ kəsilmə nöqtəsidir.",
+      "x=1 birinci növ kəsilmə nöqtəsidir.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 153,
+    "orig_index": 361
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=0  birinci növ kəsilmə nöqtəsidir.",
+      "x=-1 birinci növ kəsilmə nöqtəsidir.",
+      "x=-1 ikinci növ kəsilmə nöqtəsidir.",
+      "x=1  birinci növ kəsilmə nöqtəsidir. √ x=1 ikinci növ kəsilmə nöqtəsidir.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 153,
+    "orig_index": 362
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 154,
+    "orig_index": 363
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      "(0;0)",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 154,
+    "orig_index": 364
+  },
+  {
+    "question": ".",
+    "options": [
+      "(1;3) √ (0;2)",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 154,
+    "orig_index": 365
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 155,
+    "orig_index": 366
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 156,
+    "orig_index": 367
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "düzgün cavab yoxdur",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 156,
+    "orig_index": 368
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 157,
+    "orig_index": 369
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "düzgün cavab yoxdur √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 157,
+    "orig_index": 370
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 158,
+    "orig_index": 371
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 158,
+    "orig_index": 372
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 159,
+    "orig_index": 373
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 160,
+    "orig_index": 374
+  },
+  {
+    "question": ".",
+    "options": [
+      "düzgün cavab yoxdur",
+      "x=-2",
+      "x=2",
+      "x=1 √ x=-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 160,
+    "orig_index": 375
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "y=-2x",
+      "y=2x",
+      "y=-x √ y=x",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 160,
+    "orig_index": 376
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 161,
+    "orig_index": 377
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 161,
+    "orig_index": 378
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 162,
+    "orig_index": 379
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 163,
+    "orig_index": 380
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 164,
+    "orig_index": 381
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 165,
+    "orig_index": 382
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 166,
+    "orig_index": 383
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 166,
+    "orig_index": 384
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 167,
+    "orig_index": 385
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 168,
+    "orig_index": 386
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 169,
+    "orig_index": 387
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 169,
+    "orig_index": 388
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 170,
+    "orig_index": 389
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 171,
+    "orig_index": 390
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 171,
+    "orig_index": 391
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 172,
+    "orig_index": 392
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 173,
+    "orig_index": 393
+  },
+  {
+    "question": ".",
+    "options": [
+      "ln3",
+      "ln(4e)-2",
+      "ln5+1",
+      "ln4 √ ln2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 173,
+    "orig_index": 394
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 174,
+    "orig_index": 395
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 174,
+    "orig_index": 396
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ 1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 175,
+    "orig_index": 397
+  },
+  {
+    "question": ". √ 4",
+    "options": [
+      "2",
+      "1",
+      "6",
+      "5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 175,
+    "orig_index": 398
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 176,
+    "orig_index": 399
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      "0",
+      "1 √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 176,
+    "orig_index": 400
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2",
+      "3 √ 4",
+      "0",
+      "-3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 177,
+    "orig_index": 401
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 177,
+    "orig_index": 402
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2",
+      ".",
+      "2 √ inteqral dağılır",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 178,
+    "orig_index": 403
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ 1",
+      "2",
+      "-2",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 178,
+    "orig_index": 404
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 179,
+    "orig_index": 405
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 180,
+    "orig_index": 406
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 180,
+    "orig_index": 407
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 181,
+    "orig_index": 408
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 181,
+    "orig_index": 409
+  },
+  {
+    "question": ".",
+    "options": [
+      "3",
+      "1/2",
+      "1 √ 0",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 181,
+    "orig_index": 410
+  },
+  {
+    "question": ".",
+    "options": [
+      "3",
+      "0 √ .",
+      "2",
+      "4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 182,
+    "orig_index": 411
+  },
+  {
+    "question": ". √ 3",
+    "options": [
+      "5",
+      "4",
+      "21",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 182,
+    "orig_index": 412
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 182,
+    "orig_index": 413
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 183,
+    "orig_index": 414
+  },
+  {
+    "question": ".",
+    "options": [
+      "A(0;0)",
+      "A(-2;32) √ A (2;16)",
+      "A (1;5)",
+      "A(-1;7)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 183,
+    "orig_index": 415
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 184,
+    "orig_index": 416
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ (0;4)",
+      "əyilmə nöqtəsi yoxdur",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 185,
+    "orig_index": 417
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 185,
+    "orig_index": 418
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 186,
+    "orig_index": 419
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 187,
+    "orig_index": 420
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 187,
+    "orig_index": 421
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 188,
+    "orig_index": 422
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 188,
+    "orig_index": 423
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 188,
+    "orig_index": 424
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 189,
+    "orig_index": 425
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 189,
+    "orig_index": 426
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1",
+      "-0,5 √ 0,5",
+      "1",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 190,
+    "orig_index": 427
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "3 √ yoxdur",
+      "2",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 190,
+    "orig_index": 428
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1",
+      "0 √ yoxdur",
+      "1",
+      "8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 190,
+    "orig_index": 429
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 191,
+    "orig_index": 430
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 192,
+    "orig_index": 431
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 192,
+    "orig_index": 432
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 193,
+    "orig_index": 433
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 194,
+    "orig_index": 434
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 195,
+    "orig_index": 435
+  },
+  {
+    "question": ". √ x=1",
+    "options": [
+      "x=3",
+      "x=-3",
+      "x=-2",
+      "x=2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 195,
+    "orig_index": 436
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=3",
+      "x=-4",
+      "x=2 √ x=1",
+      "x=-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 196,
+    "orig_index": 437
+  },
+  {
+    "question": ". √ x=0 ; x=2",
+    "options": [
+      "x=0 ; x=1",
+      "x=1 ; x=2",
+      "x=2 ; x=4",
+      "x=-2 ; x=3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 196,
+    "orig_index": 438
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 196,
+    "orig_index": 439
+  },
+  {
+    "question": ".",
+    "options": [
+      "y=x-4 √  y=x",
+      "y=6x+1",
+      "y=2x+3",
+      "y=x+1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 197,
+    "orig_index": 440
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 197,
+    "orig_index": 441
+  },
+  {
+    "question": ". √ y=-1",
+    "options": [
+      "y=x-2",
+      "y=2x-1",
+      "y=x+1",
+      "y=2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 197,
+    "orig_index": 442
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 198,
+    "orig_index": 443
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 198,
+    "orig_index": 444
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 199,
+    "orig_index": 445
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 200,
+    "orig_index": 446
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 200,
+    "orig_index": 447
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 201,
+    "orig_index": 448
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 202,
+    "orig_index": 449
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 203,
+    "orig_index": 450
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 203,
+    "orig_index": 451
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 204,
+    "orig_index": 452
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 205,
+    "orig_index": 453
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 205,
+    "orig_index": 454
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 206,
+    "orig_index": 455
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 207,
+    "orig_index": 456
+  },
+  {
+    "question": ".",
+    "options": [
+      "53 √ 56",
+      "54",
+      "52",
+      "58",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 207,
+    "orig_index": 457
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 208,
+    "orig_index": 458
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 208,
+    "orig_index": 459
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 209,
+    "orig_index": 460
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2",
+      "2",
+      "-1 √ 1",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 209,
+    "orig_index": 461
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 210,
+    "orig_index": 462
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 211,
+    "orig_index": 463
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 211,
+    "orig_index": 464
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 212,
+    "orig_index": 465
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 213,
+    "orig_index": 466
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 214,
+    "orig_index": 467
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 214,
+    "orig_index": 468
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "24",
+      "20",
+      "12 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 214,
+    "orig_index": 469
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-2",
+      "2 √ 0",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 214,
+    "orig_index": 470
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 215,
+    "orig_index": 471
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 215,
+    "orig_index": 472
+  },
+  {
+    "question": ".",
+    "options": [
+      "3",
+      "-4 √ 1",
+      "2",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 216,
+    "orig_index": 473
+  },
+  {
+    "question": ". √ -2,5",
+    "options": [
+      "0",
+      "0,5",
+      "1,2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 216,
+    "orig_index": 474
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 216,
+    "orig_index": 475
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 217,
+    "orig_index": 476
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 217,
+    "orig_index": 477
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 217,
+    "orig_index": 478
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 218,
+    "orig_index": 479
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 219,
+    "orig_index": 480
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 219,
+    "orig_index": 481
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 220,
+    "orig_index": 482
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 220,
+    "orig_index": 483
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 221,
+    "orig_index": 484
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 221,
+    "orig_index": 485
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "6",
+      "2",
+      "3",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 221,
+    "orig_index": 486
+  },
+  {
+    "question": ".",
+    "options": [
+      "1,5",
+      "0,5",
+      "0,8",
+      "1,8 √ 2,5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 222,
+    "orig_index": 487
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 222,
+    "orig_index": 488
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-2",
+      "0",
+      "-1 √ 2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 222,
+    "orig_index": 489
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "2",
+      "4",
+      "1",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 222,
+    "orig_index": 490
+  },
+  {
+    "question": ".",
+    "options": [
+      "3",
+      "1 √ 0",
+      "-1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 223,
+    "orig_index": 491
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ -1",
+      "2",
+      "-2",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 223,
+    "orig_index": 492
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      "2",
+      "-1",
+      "e",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 223,
+    "orig_index": 493
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1 √ 2",
+      "1",
+      "0",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 223,
+    "orig_index": 494
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      ".",
+      ". √ 1",
+      "e",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 223,
+    "orig_index": 495
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2",
+      "2 √ -1",
+      "e",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 224,
+    "orig_index": 496
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 224,
+    "orig_index": 497
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      "0",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 225,
+    "orig_index": 498
+  },
+  {
+    "question": ".",
+    "options": [
+      "1,6",
+      "-1,5",
+      "0,8",
+      "2 √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 225,
+    "orig_index": 499
+  },
+  {
+    "question": ".",
+    "options": [
+      "4",
+      "1,2 √ 2,5",
+      "3,1",
+      "-0,3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 225,
+    "orig_index": 500
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "10 √ 13",
+      "-34",
+      "-6",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 226,
+    "orig_index": 501
+  },
+  {
+    "question": ". √ 20",
+    "options": [
+      "-2",
+      "12",
+      "14",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 226,
+    "orig_index": 502
+  },
+  {
+    "question": ".",
+    "options": [
+      "-4",
+      "7",
+      "10 √ 12",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 226,
+    "orig_index": 503
+  },
+  {
+    "question": ".",
+    "options": [
+      "12",
+      "10",
+      "-1",
+      ". √ 7",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 227,
+    "orig_index": 504
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "3",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 227,
+    "orig_index": 505
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      "7",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 228,
+    "orig_index": 506
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      ".",
+      ".",
+      ". √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 228,
+    "orig_index": 507
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ 8",
+      "4e",
+      ".",
+      "5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 229,
+    "orig_index": 508
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "2",
+      "1 √ 0",
+      "6",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 229,
+    "orig_index": 509
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1 √ təyin edilməyib",
+      "1",
+      "0",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 229,
+    "orig_index": 510
+  },
+  {
+    "question": ". √ dağılır",
+    "options": [
+      "1",
+      "-1",
+      "ln2",
+      "ln(9e+5)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 229,
+    "orig_index": 511
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "ln6",
+      "ln2",
+      "2",
+      "e",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 230,
+    "orig_index": 512
+  },
+  {
+    "question": ".",
+    "options": [
+      "5e",
+      "ln2 √ təyin edilməyib.",
+      "2e-1",
+      "4e+1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 230,
+    "orig_index": 513
+  },
+  {
+    "question": ".",
+    "options": [
+      "2e",
+      ".",
+      "4",
+      "e √ təyin edilməyib.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 230,
+    "orig_index": 514
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      "2e-1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 230,
+    "orig_index": 515
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "ln4",
+      "3",
+      "2",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 231,
+    "orig_index": 516
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ .",
+      "-1",
+      "1",
+      "ln2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 231,
+    "orig_index": 517
+  },
+  {
+    "question": ". √ təyin edilməyib.",
+    "options": [
+      "1",
+      "2",
+      "ln2",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 231,
+    "orig_index": 518
+  },
+  {
+    "question": ".",
+    "options": [
+      "-2e+6",
+      "2e+1",
+      "2",
+      "0 √ təyin edilməyib.",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 231,
+    "orig_index": 519
+  },
+  {
+    "question": ".",
+    "options": [
+      "ln4",
+      "e √ təyin edilməyib.",
+      "-1",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 232,
+    "orig_index": 520
+  },
+  {
+    "question": ".",
+    "options": [
+      "2",
+      "e",
+      "4 √ təyin edilməyib.",
+      "sin1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 232,
+    "orig_index": 521
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      "-4",
+      ".",
+      "e",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 232,
+    "orig_index": 522
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 232,
+    "orig_index": 523
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      ".",
+      "-4",
+      "0",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 233,
+    "orig_index": 524
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ -6,5",
+      "-4,3",
+      "-5,2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 233,
+    "orig_index": 525
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ .",
+      "3",
+      "2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 233,
+    "orig_index": 526
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ 0",
+      "3",
+      "2",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 233,
+    "orig_index": 527
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1 √ 0",
+      "-2",
+      "1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 234,
+    "orig_index": 528
+  },
+  {
+    "question": ". √ 8",
+    "options": [
+      "5",
+      "2",
+      "7",
+      "4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 234,
+    "orig_index": 529
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "-1/3",
+      "-4/3 √ 3/4",
+      "1/3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 234,
+    "orig_index": 530
+  },
+  {
+    "question": ".",
+    "options": [
+      "a = 2 ; b = 0 √ a = 1 ; b = –1",
+      "a = 1 ; b = 3",
+      "a = –1 ; b = 0",
+      "a = –1 ; b = 1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 234,
+    "orig_index": 531
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "0",
+      ". √ .",
+      "e",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 235,
+    "orig_index": 532
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ 0,5",
+      "0,3",
+      "1",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 235,
+    "orig_index": 533
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      "1 √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 235,
+    "orig_index": 534
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      "0 √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 236,
+    "orig_index": 535
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 236,
+    "orig_index": 536
+  },
+  {
+    "question": ". √ 3",
+    "options": [
+      "1",
+      "-1",
+      "-3",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 236,
+    "orig_index": 537
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "-2",
+      "-1",
+      "1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 236,
+    "orig_index": 538
+  },
+  {
+    "question": ". √ 2",
+    "options": [
+      "e",
+      "-2",
+      "-1",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 237,
+    "orig_index": 539
+  },
+  {
+    "question": ". √ 0,25",
+    "options": [
+      "1",
+      "-0,3",
+      "-0,25",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 237,
+    "orig_index": 540
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 237,
+    "orig_index": 541
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 238,
+    "orig_index": 542
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 239,
+    "orig_index": 543
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      "bütün ədəd oxunda kəsilməz funksiyadır",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 239,
+    "orig_index": 544
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 240,
+    "orig_index": 545
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 240,
+    "orig_index": 546
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 241,
+    "orig_index": 547
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 241,
+    "orig_index": 548
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 242,
+    "orig_index": 549
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 242,
+    "orig_index": 550
+  },
+  {
+    "question": ".",
+    "options": [
+      "b=0  olduqda √ b=4  olduqda",
+      "b=2  olduqda",
+      "b=3  olduqda",
+      "b=1  olduqda",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 242,
+    "orig_index": 551
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=1- aradan qaldırıla bilən kəsilmə nöqtəsidir",
+      "x=1 -də funksiya 2-ci növ kəsilməyə malikdir",
+      "x=1 -də funksiya kəsilməzdir √ x=1 -də funksiya 1-ci növ kəsilməyə malikdir",
+      "x=4-də funksiya 2-ci növ kəsilməyə malikdir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 243,
+    "orig_index": 552
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=e - birinci növ kəsilmə nöqtəsidir",
+      "x=e - ikinci növ kəsilmə nöqtəsidir √ x=1-ikinci növ kəsilmə nöqtəsidir",
+      "x=1- birinci növ kəsilmə nöqtəsidir",
+      "x=1  - aradan qaldırıla bilən kəsilmə nöqtəsidir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 243,
+    "orig_index": 553
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=6-aradan qaldırıla bilən kəsilmə nöqtəsidir",
+      "x=e-birinci növ kəsilmə nöqtəsidir",
+      "x=e-ikinci növ kəsilmə nöqtəsidir",
+      "x=6-birinci növ kəsilmə nöqtəsidir √ x=6-ikinci növ kəsilmə nöqtəsidir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 243,
+    "orig_index": 554
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=2 -birinci növ kəsilmə nöqtəsidir",
+      "x=1-birinci növ kəsilmə nöqtəsidir √ x=1  -ikinci növ kəsilmə nöqtəsidir",
+      "x=1-aradan qaldırıla bilən kəsilmə nöqtəsidir",
+      "x=0  - kəsilmə nöqtəsidir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 243,
+    "orig_index": 555
+  },
+  {
+    "question": ". √ x=0 -ikinci növ kəsilmə nöqtəsidir",
+    "options": [
+      "funksiya bütün ədəd oxunda kəsilməzdir",
+      "x=1-ikinci növ kəsilmə nöqtəsidir",
+      "x=0-birinci növ kəsilmə nöqtəsidir",
+      "x=1-birinci növ kəsilmə nöqtəsidir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 244,
+    "orig_index": 556
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 244,
+    "orig_index": 557
+  },
+  {
+    "question": ". √ 1,4",
+    "options": [
+      "1,2",
+      "0",
+      "-1,3",
+      "1,3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 244,
+    "orig_index": 558
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 245,
+    "orig_index": 559
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 245,
+    "orig_index": 560
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 246,
+    "orig_index": 561
+  },
+  {
+    "question": ".",
+    "options": [
+      "1 √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 246,
+    "orig_index": 562
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 246,
+    "orig_index": 563
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 247,
+    "orig_index": 564
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 247,
+    "orig_index": 565
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 248,
+    "orig_index": 566
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 248,
+    "orig_index": 567
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 249,
+    "orig_index": 568
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 249,
+    "orig_index": 569
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 250,
+    "orig_index": 570
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 250,
+    "orig_index": 571
+  },
+  {
+    "question": ".",
+    "options": [
+      "15",
+      "30",
+      "10",
+      "5 √ 20",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 251,
+    "orig_index": 572
+  },
+  {
+    "question": ". √ 3",
+    "options": [
+      "6",
+      "1,8",
+      "4",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 251,
+    "orig_index": 573
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".1",
+      ".",
+      ". √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 251,
+    "orig_index": 574
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      "-1",
+      ".",
+      "1",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 252,
+    "orig_index": 575
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 252,
+    "orig_index": 576
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      ".",
+      ". √ 1/6",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 253,
+    "orig_index": 577
+  },
+  {
+    "question": ". √ 0,4",
+    "options": [
+      "3",
+      "0",
+      "1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 253,
+    "orig_index": 578
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 254,
+    "orig_index": 579
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 255,
+    "orig_index": 580
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 256,
+    "orig_index": 581
+  },
+  {
+    "question": ".",
+    "options": [
+      "10",
+      "-13",
+      "12",
+      "-4 √ 20",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 256,
+    "orig_index": 582
+  },
+  {
+    "question": ".",
+    "options": [
+      "-8 √ 0",
+      "-4",
+      "10",
+      "15",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 256,
+    "orig_index": 583
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "-4",
+      "10 √ yoxdur",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 256,
+    "orig_index": 584
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 257,
+    "orig_index": 585
+  },
+  {
+    "question": ". √ 4",
+    "options": [
+      ".",
+      ".",
+      ".",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 257,
+    "orig_index": 586
+  },
+  {
+    "question": ".",
+    "options": [
+      "x=0 ikinci növ kəsilmə nöqtəsidir",
+      "±1;±2;……. birinci növ kəsilmə nöqtələridir",
+      "bütün ədəd oxunda kəsilməz funksiyadır",
+      "x=0 aradan qaldırıla bilən kəsilmə nöqtəsidir √  x=0 birinci növ kəsilmə nöqtəsidir",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 258,
+    "orig_index": 587
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 258,
+    "orig_index": 588
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 259,
+    "orig_index": 589
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ x=1",
+      "x=e",
+      "x=10",
+      "x=2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 259,
+    "orig_index": 590
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      "0",
+      "-14",
+      "-20",
+      "12",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 259,
+    "orig_index": 591
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 260,
+    "orig_index": 592
+  },
+  {
+    "question": ". √ k=e",
+    "options": [
+      "k=3ln5",
+      "k=ln3",
+      "k=2e+1",
+      "k=ln2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 260,
+    "orig_index": 593
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 261,
+    "orig_index": 594
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 261,
+    "orig_index": 595
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "-3 √ 9",
+      "2",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 261,
+    "orig_index": 596
+  },
+  {
+    "question": ".",
+    "options": [
+      "-4",
+      "0 √ -3",
+      "-6",
+      "9",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 262,
+    "orig_index": 597
+  },
+  {
+    "question": ".",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "2 √ 4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 262,
+    "orig_index": 598
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "1",
+      "3",
+      "-2",
+      "-4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 262,
+    "orig_index": 599
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 263,
+    "orig_index": 600
+  },
+  {
+    "question": ".",
+    "options": [
+      "0 √ 2",
+      "1",
+      "-2",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 263,
+    "orig_index": 601
+  },
+  {
+    "question": ". √ 1/2",
+    "options": [
+      "4",
+      "1/3",
+      "1",
+      "-1/2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 263,
+    "orig_index": 602
+  },
+  {
+    "question": ".",
+    "options": [
+      "4e √ .",
+      ".",
+      ".",
+      "e",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 264,
+    "orig_index": 603
+  },
+  {
+    "question": ".",
+    "options": [
+      "-4  və  4",
+      "0  və  1 √ -1  və  1",
+      "-1  və  0",
+      "-2  və  2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 264,
+    "orig_index": 604
+  },
+  {
+    "question": ". √ 0",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 264,
+    "orig_index": 605
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      "düzgün cavab yoxdur",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 265,
+    "orig_index": 606
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 265,
+    "orig_index": 607
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ boş çoxluq",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 266,
+    "orig_index": 608
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 267,
+    "orig_index": 609
+  },
+  {
+    "question": ".",
+    "options": [
+      "funksiya bütün ədəd oxunda kəsiləndir",
+      "Kəsilmə nöqtəsi yoxdur",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 267,
+    "orig_index": 610
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 268,
+    "orig_index": 611
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 269,
+    "orig_index": 612
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 270,
+    "orig_index": 613
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 270,
+    "orig_index": 614
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 271,
+    "orig_index": 615
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 272,
+    "orig_index": 616
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 273,
+    "orig_index": 617
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 273,
+    "orig_index": 618
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 274,
+    "orig_index": 619
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 275,
+    "orig_index": 620
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 276,
+    "orig_index": 621
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 277,
+    "orig_index": 622
+  },
+  {
+    "question": ". √ k=-4",
+    "options": [
+      "k=1",
+      "k=-3",
+      "k=2",
+      "k=6",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 277,
+    "orig_index": 623
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 278,
+    "orig_index": 624
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 279,
+    "orig_index": 625
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 279,
+    "orig_index": 626
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 280,
+    "orig_index": 627
+  },
+  {
+    "question": ". √ 2/3",
+    "options": [
+      "5/3",
+      "7/3",
+      "1/4",
+      "1/3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 281,
+    "orig_index": 628
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 281,
+    "orig_index": 629
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 282,
+    "orig_index": 630
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 283,
+    "orig_index": 631
+  },
+  {
+    "question": ".",
+    "options": [
+      "-1",
+      "3",
+      "4",
+      "2 √ 1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 283,
+    "orig_index": 632
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 284,
+    "orig_index": 633
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 285,
+    "orig_index": 634
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      "düzgün cavab yoxdur",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 286,
+    "orig_index": 635
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 287,
+    "orig_index": 636
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 288,
+    "orig_index": 637
+  },
+  {
+    "question": ". √ 9",
+    "options": [
+      "-9",
+      "4",
+      "-3",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 288,
+    "orig_index": 638
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 289,
+    "orig_index": 639
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 289,
+    "orig_index": 640
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      ".",
+      "1",
+      "3 √ 2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 290,
+    "orig_index": 641
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "2",
+      "1",
+      "3 √ 0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 290,
+    "orig_index": 642
+  },
+  {
+    "question": ". √ 1",
+    "options": [
+      "3",
+      ".",
+      ".",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 290,
+    "orig_index": 643
+  },
+  {
+    "question": ".",
+    "options": [
+      "2",
+      "4",
+      "1/3 √ 1",
+      "1/4",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 290,
+    "orig_index": 644
+  },
+  {
+    "question": ".",
+    "options": [
+      "1/3",
+      "2",
+      "3",
+      "1/2 √ 1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 291,
+    "orig_index": 645
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 291,
+    "orig_index": 646
+  },
+  {
+    "question": ".",
+    "options": [
+      "b=5,3;  a=1,8",
+      "b=1;  a=3 √ b=1,5;  a=0,5",
+      "b=4,5;  a=2,4",
+      "b=6;  a=-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 291,
+    "orig_index": 647
+  },
+  {
+    "question": ".",
+    "options": [
+      "b=1;  a=0,2",
+      "b=0,4;  a=0,5 √  b=0,75;  a=-0,5",
+      "b=0,3;  a=1",
+      "b=-3;  a=5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 292,
+    "orig_index": 648
+  },
+  {
+    "question": ".",
+    "options": [
+      "A(-2;-27) √ A(1;0)",
+      "A(2;1)",
+      "A(0;-1)",
+      "A(-1;-8)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 292,
+    "orig_index": 649
+  },
+  {
+    "question": ".",
+    "options": [
+      "A (-1;-4)",
+      "A(2;-10)",
+      "A(-2;-21)",
+      "A(0;1) √ A(1;0)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 292,
+    "orig_index": 650
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 293,
+    "orig_index": 651
+  },
+  {
+    "question": ". √ A(2;-13)",
+    "options": [
+      "A(-2;-37)",
+      "A(-1;-10)",
+      "A(0;-1)",
+      "A(1;-4)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 293,
+    "orig_index": 652
+  },
+  {
+    "question": ". √ A(2;16)",
+    "options": [
+      "A(-1;-11)",
+      ".A(2;16)",
+      "A (1;15)",
+      "A(0;8)",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 293,
+    "orig_index": 653
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      "4 √ 0",
+      "2",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 293,
+    "orig_index": 654
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      "1",
+      "-3",
+      "2 √ -1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 294,
+    "orig_index": 655
+  },
+  {
+    "question": ".",
+    "options": [
+      "-4",
+      "6",
+      "2 √ 1",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 294,
+    "orig_index": 656
+  },
+  {
+    "question": ". √ 5",
+    "options": [
+      "-8",
+      "-6",
+      "4",
+      "1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 294,
+    "orig_index": 657
+  },
+  {
+    "question": ". √ 4",
+    "options": [
+      "2",
+      "0",
+      "3",
+      "5",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 294,
+    "orig_index": 658
+  },
+  {
+    "question": ".",
+    "options": [
+      "0",
+      ". √ təyin edilməyib",
+      "1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 295,
+    "orig_index": 659
+  },
+  {
+    "question": ".",
+    "options": [
+      "4",
+      "0 √ yoxdur",
+      "1",
+      "-2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 295,
+    "orig_index": 660
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 295,
+    "orig_index": 661
+  },
+  {
+    "question": ".",
+    "options": [
+      "4",
+      "1 √ 0",
+      "2",
+      "3",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 295,
+    "orig_index": 662
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 296,
+    "orig_index": 663
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 297,
+    "orig_index": 664
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 297,
+    "orig_index": 665
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 298,
+    "orig_index": 666
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 299,
+    "orig_index": 667
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 300,
+    "orig_index": 668
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 301,
+    "orig_index": 669
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 302,
+    "orig_index": 670
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 302,
+    "orig_index": 671
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 303,
+    "orig_index": 672
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 303,
+    "orig_index": 673
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 304,
+    "orig_index": 674
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      "2 √ 0",
+      "0,4",
+      "-1",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 304,
+    "orig_index": 675
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 305,
+    "orig_index": 676
+  },
+  {
+    "question": ".",
+    "options": [
+      "1,4",
+      "2,5",
+      "0,5 √ 1",
+      "2",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 305,
+    "orig_index": 677
+  },
+  {
+    "question": ". √ 7",
+    "options": [
+      ".",
+      "2",
+      "1",
+      "8",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 306,
+    "orig_index": 678
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 306,
+    "orig_index": 679
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 307,
+    "orig_index": 680
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 308,
+    "orig_index": 681
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 309,
+    "orig_index": 682
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 310,
+    "orig_index": 683
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 310,
+    "orig_index": 684
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 311,
+    "orig_index": 685
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 312,
+    "orig_index": 686
+  },
+  {
+    "question": ".",
+    "options": [
+      "0,5 √ 2",
+      "1",
+      "3",
+      "0",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 312,
+    "orig_index": 687
+  },
+  {
+    "question": ".",
+    "options": [
+      "80",
+      "40",
+      "50 √ 60",
+      "70",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 312,
+    "orig_index": 688
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 313,
+    "orig_index": 689
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 314,
+    "orig_index": 690
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 315,
+    "orig_index": 691
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 315,
+    "orig_index": 692
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ". √ .",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 316,
+    "orig_index": 693
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 317,
+    "orig_index": 694
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ". √ .",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 317,
+    "orig_index": 695
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ .",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 318,
+    "orig_index": 696
+  },
+  {
+    "question": ".",
+    "options": [
+      ". √ 0",
+      "1",
+      "-1",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 318,
+    "orig_index": 697
+  },
+  {
+    "question": ". √ .",
+    "options": [
+      ".",
+      ".",
+      ".",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 319,
+    "orig_index": 698
+  },
+  {
+    "question": ".",
+    "options": [
+      "1",
+      ".",
+      ". √ 0",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 319,
+    "orig_index": 699
+  },
+  {
+    "question": ".",
+    "options": [
+      ".",
+      ".",
+      ". √ .",
+      ".",
+      "Option 5 (auto-added)"
+    ],
+    "answer": null,
+    "answer_letter": null,
+    "orig_page": 319,
+    "orig_index": 700
+  }
+]

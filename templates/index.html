@@ -128,12 +128,13 @@
         <form method="post" action="{{ url_for('exam') }}" class="answer-form">
           <input type="hidden" name="q_index" value="{{ q_index }}">
           <div class="options-list">
-            {% for opt in question.display_options %}
-            <label class="option-label {% if current_answer == opt %}selected{% endif %}">
-              <input type="radio" name="answer" value="{{ opt }}" {% if current_answer == opt %}checked{% endif %} required>
-              <span class="option-text">{{ opt }}</span>
-            </label>
-            {% endfor %}
+           {% for opt in question.display_options %}
+           <label class="option-label {% if current_answer == opt %}selected{% endif %}">
+             <input type="radio" name="answer" value="{{ opt }}" {% if current_answer == opt %}checked{% endif %}>
+             <span class="option-text">{{ opt }}</span>
+           </label>
+           {% endfor %}
+
           </div>
 
           <div class="reveal-row">

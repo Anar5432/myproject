@@ -1,0 +1,42 @@
+{
+  "questions": [
+    {
+      "question": "Aşağıdakılardan hansı nominal ölçünü təmin edir?",
+      "options": [
+        "Aşağı hədd ölçüyə",
+        "Buraxıla bilən xəta ilə ölçülmüş ölçüyə",
+        "Detalın emalı zamanı alınan ölçüyə",
+        "Yuxarı hədd ölçüyə",
+        "Sapmaların hesablanması üçün başlanğıc rolunu oynayan və ona nəzərən hədd ölçüləri təyin edilən ölçüyə"
+      ],
+      "answer": "Sapmaların hesablanması üçün başlanğıc rolunu oynayan və ona nəzərən hədd ölçüləri təyin edilən ölçüyə"
+    },
+    {
+      "question": "Avropa kodlaşdırılması sistemində ən geniş yayılmış hesab olunan kodlar neçə dərəcəli kodlardır?",
+      "options": [
+        "12 və 7",
+        "11 və 6",
+        "16 və 8",
+        "14 və 9",
+        "13 və 8"
+      ],
+      "answer": "13 və 8"
+    },
+    {
+      "question": "Dövlət və ya sahə standartlarının tələblərinə müvafiq olaraq hazırlanmış və tətbiq olunan ölçü vasitələri",
+      "options": [
+        "İkinci dərəcəli etalonlar",
+        "Köməkçi ölçü vasitələri",
+        "Əsas ölçü vasitələri",
+        "İşçi ölçü vahidləri",
+        "Standartlaşdırılmış ölçü vasitələri"
+      ],
+      "answer": "Standartlaşdırılmış ölçü vasitələri"
+    }
+  ],
+  "answers": [
+    "Yuxarı hədd ölçüyə",
+    "16 və 8",
+    "İkinci dərəcəli etalonlar"
+  ]
+}

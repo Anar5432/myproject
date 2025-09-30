@@ -11,5 +11,15 @@
     "password_hash": "scrypt:32768:8:1$p3WNi1vsihsTB0Ur$570671e3e6bb6a64003fcbc1e6a585da887d6b171ef7b7256962492c2b6c0c52ade5e4f95130b13b106e55526ad0c18de9f928a6ef89ab64dcf99b1bbcf8bc69",
     "email": "mohsinismayilov@gmail.com",
     "full_name": ""
+  },
+  "ali": {
+    "password_hash": "scrypt:32768:8:1$oBzqFqVn8cAAKNj7$d70b885a08b95b2bc54913c70c78f43c9231e333fcaaed25f9d3d5db5a1bf831a6af0ba5142c0c12e4e7a305b9de6ad2d42e234db47d6829d4f73d25b495bf77",
+    "email": "iosfluxy@gmail.com",
+    "full_name": ""
+  },
+  "dadas": {
+    "password_hash": "scrypt:32768:8:1$i0mSG3RPISwY9KZa$dd584ca7dc3250c45eb53b18c533f844a2d1a79064095a9fb66a873a2491626d09103eb062d9dac53ca8c65e500113cf19f010351bfc94d011c00dc3c8b29fc9",
+    "email": "dadas@gmail.com",
+    "full_name": "dadas hesen"
   }
 }

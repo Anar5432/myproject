@@ -1,0 +1,156 @@
+{
+  "questions": [
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ".",
+        ". √ .",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 186,
+      "orig_index": 419
+    },
+    {
+      "question": ". √ 0",
+      "options": [
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 236,
+      "orig_index": 538
+    },
+    {
+      "question": ". √ -9",
+      "options": [
+        "3",
+        "-8",
+        "2",
+        "0",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 80,
+      "orig_index": 187
+    },
+    {
+      "question": ". √ .",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 92,
+      "orig_index": 212
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ". √ .",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 183,
+      "orig_index": 414
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ".",
+        "1 √ 0",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 148,
+      "orig_index": 347
+    },
+    {
+      "question": ".",
+      "options": [
+        ". √ .",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 43,
+      "orig_index": 117
+    },
+    {
+      "question": ".",
+      "options": [
+        "3",
+        "1 √ 0",
+        "-1",
+        "2",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 223,
+      "orig_index": 491
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ". √ .",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 135,
+      "orig_index": 312
+    },
+    {
+      "question": ".",
+      "options": [
+        "0",
+        "2",
+        "-2",
+        "-1 √ 1",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 70,
+      "orig_index": 169
+    }
+  ],
+  "answers": [
+    ".",
+    "2",
+    "-8",
+    ".",
+    ".",
+    ".",
+    ".",
+    "1 √ 0",
+    ".",
+    null
+  ]
+}

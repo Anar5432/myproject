@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question": "Sertifikatlaşdırılmaq üçün sifariş verən mütəxəssis hansı tələbi ödəməlidir?",
+      "options": [
+        "sertifikatlaşdırma üzrə orqanın üzvü olamlıdır",
+        "kefiyyət sisteminin iştirakçısı olmalıdır",
+        "standartlaşdırma üzrə texniki komitənin üzvü olmalıdır",
+        "orqanoleptik qiymətləndirmə bacarığına malik olmalıdır",
+        "professional etikaya malik olmalıdır"
+      ],
+      "answer": "professional etikaya malik olmalıdır"
+    },
+    {
+      "question": "Məmulatın formasının rasionallığını, kompozisiyasının bütövlülüyünü, onun cəlbedici xassəsini xarakterizə edir",
+      "options": [
+        "Uzunömürlülüyü",
+        "Texnoloji göstəricilərini",
+        "Təyinat göstəriciləri",
+        "Erqonomik göstəriciləri",
+        "Estetik göstəriciləri"
+      ],
+      "answer": "Estetik göstəriciləri"
+    },
+    {
+      "question": "Əsas valı seçin",
+      "options": [
+        "H7;",
+        "f9;",
+        "D8;",
+        "t10;",
+        "h6."
+      ],
+      "answer": "h6."
+    },
+    {
+      "question": "Ölçmələrin nəticələri qanuniləşdirilmiş vahidlərlə  ifadə olunması nədir?",
+      "options": [
+        "dəqiqlik",
+        "tarazlamaq",
+        "stabillilik",
+        "fiziki kəmiyyət",
+        "ölçmələrin  vəhdəti"
+      ],
+      "answer": "ölçmələrin  vəhdəti"
+    },
+    {
+      "question": "İSO və BEK tərəfindən yaradılmış prinsiplər əsasında milli sertifikatlaşdırma sisteminin uyğunlaşdırılmasına neçə yolla nail olmaq mümkündür?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "1",
+        "2"
+      ],
+      "answer": "2"
+    }
+  ],
+  "answers": [
+    "orqanoleptik qiymətləndirmə bacarığına malik olmalıdır",
+    "Erqonomik göstəriciləri",
+    "D8;",
+    "fiziki kəmiyyət",
+    null
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Detal ölçülərinə görə hansı halda yararlı sayılır?",
+      "options": [
+        "Hədd sapmalarının cəmi nominal ölçüdən böyük olduqda",
+        "Yuxarı hədd ölçüsü müsaidə sahəsindən kənarda olduqda",
+        "Aşağı hədd ölçüsü müsaidə sahəsindən kənarda olduqda",
+        "Hədd sapmaların fərqi nominal ölçüdən kiçik olduqda",
+        "Həqiqi ölçü müsaidə sahəsi daxilində ya da hədd ölçülərə bərabər olduqda"
+      ],
+      "answer": "Həqiqi ölçü müsaidə sahəsi daxilində ya da hədd ölçülərə bərabər olduqda"
+    },
+    {
+      "question": "Aşağıdakılardan hansı BEK-in təşkilati strukturuna aid deyildir?",
+      "options": [
+        "Icraiyyə komitəsi",
+        "Şura",
+        "Texniki komitələr",
+        "Mərkəzi büro",
+        "Baş Məclis"
+      ],
+      "answer": "Baş Məclis"
+    },
+    {
+      "question": "Ölçmələrin vəhdəti istifadə olunan fiziki kəmiyyətlərin vahidləri ilə nəyin qiymətini özündə birləşdirir?",
+      "options": [
+        "fiziki kəmiyyəti",
+        "dəqiqliyi",
+        "sadəliyi",
+        "mürəkkəbliyi",
+        "ölçmə xətası"
+      ],
+      "answer": "ölçmə xətası"
+    },
+    {
+      "question": "Maddənin miqdar vahidi necə adlanır?",
+      "options": [
+        "dərəcə",
+        "düzgün cavab yovdur",
+        "amper",
+        "kandella",
+        "mol"
+      ],
+      "answer": "mol"
+    },
+    {
+      "question": "Fiziki kəmiyyət nədir?",
+      "options": [
+        "sertifikatlaşdırmadır",
+        "standartın göstəricisidir",
+        "doğru cavab yoxdur",
+        "standartın əsas tələbidir",
+        "keyfiyyətcə əksər fiziki obyektlər üçün ümumi, lakin keyfiyyətcə hər bir obyekt üçün ayrıca qiymətə malik olan xassədir"
+      ],
+      "answer": "keyfiyyətcə əksər fiziki obyektlər üçün ümumi, lakin keyfiyyətcə hər bir obyekt üçün ayrıca qiymətə malik olan xassədir"
+    },
+    {
+      "question": "İerarxiya və faset metodları hansı informasiya obyektlərinin təsnifatlaşdırılmasının əsas metodları hesab olunur?",
+      "options": [
+        "texniki",
+        "sosial – iqtisadi",
+        "iqtisadi",
+        "sosial",
+        "texniki – iqtisadi və sosial"
+      ],
+      "answer": "texniki – iqtisadi və sosial"
+    },
+    {
+      "question": "Diametrlərlə təyində  max gərilmənin düsturu hansıdır?",
+      "options": [
+        "....",
+        "..",
+        ".",
+        "...",
+        "....."
+      ],
+      "answer": "....."
+    },
+    {
+      "question": "Ölçü cihazları nələrə görə siniflərə bölünürlər?",
+      "options": [
+        "vəziyyətinə",
+        "təsirinə",
+        "ölçülərinə",
+        "düzgün cavab yoxdur",
+        "müxtəlif xassələrinə"
+      ],
+      "answer": "müxtəlif xassələrinə"
+    },
+    {
+      "question": "Aşağıdakılardan hansı akkreditləşdirilməyə iddia edən sınaq laboratoriyasının sınaq və ölçmə avadanlıqları üçün sənədlər qrupuna daxil deyildir?",
+      "options": [
+        "hər bir sınaq avadanlığı və ölçmə vasitəsinin pasportu",
+        "attestasiya və yoxlamalar haqqında məlumatlar",
+        "avadanlıqların adları və növləri",
+        "avadanlığın alınan zaman vəziyyəti",
+        "sınaqların protokolu"
+      ],
+      "answer": "sınaqların protokolu"
+    },
+    {
+      "question": "Aşağıdakılardan hansı haqqında informasiya «Sertifikatlaşdırma üzrə orqanlar haqqında Əsasnamə»də əks olunmur?",
+      "options": [
+        "funksiyalar",
+        "sertifikatlaşdırma üzrə orqanın maliyyə fəaliyyəti",
+        "akkreditləşdirmə sahəsi",
+        "təşkilati strkutur",
+        "sertifikatlaşdırma sınaqlarının protokolları"
+      ],
+      "answer": "sertifikatlaşdırma sınaqlarının protokolları"
+    }
+  ],
+  "answers": [
+    "Yuxarı hədd ölçüsü müsaidə sahəsindən kənarda olduqda",
+    "Şura",
+    "ölçmə xətası",
+    "amper",
+    "standartın göstəricisidir",
+    "sosial",
+    "..",
+    "düzgün cavab yoxdur",
+    "hər bir sınaq avadanlığı və ölçmə vasitəsinin pasportu",
+    "təşkilati strkutur"
+  ]
+}

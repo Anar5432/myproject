@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "question": ". √ .",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 154,
+      "orig_index": 363
+    },
+    {
+      "question": ".",
+      "options": [
+        "-1",
+        "-0,5 √ 0,5",
+        "1",
+        "-2",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 190,
+      "orig_index": 427
+    },
+    {
+      "question": ".",
+      "options": [
+        ". √ .",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 176,
+      "orig_index": 399
+    },
+    {
+      "question": ".",
+      "options": [
+        "-2 √ 2",
+        "1",
+        "0",
+        "-1",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 108,
+      "orig_index": 239
+    }
+  ],
+  "answers": [
+    ".",
+    "1",
+    ". √ .",
+    "-2 √ 2"
+  ]
+}

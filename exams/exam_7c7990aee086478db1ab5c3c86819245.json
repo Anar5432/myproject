@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Hansı val əsas  val adlanır?",
+      "options": [
+        "Hədd sapmaları 0-0 xəttinə nəzərən simmetrik yerləşən.",
+        "Aşağı hədd sapması sıfır olan;",
+        "Hədd sapmalarının hər ikisi müsbət olan;",
+        "Hədd  sapmalarının hər ikisi mənfi olan;",
+        "Yuxarı hədd sapması sıfır olan;"
+      ],
+      "answer": "Yuxarı hədd sapması sıfır olan;"
+    },
+    {
+      "question": "Həm ayrılıqda, həm də müxtəlif uyğunluqda təcrübədə tətbiq üçün nəzərdə tutulmuş eyni fiziki kəmiyyətlərin  eyni dərəcəli ölçü komplekti",
+      "options": [
+        "ölçü mağazasıdır",
+        "birrəqəmlidir",
+        "çoxrəqəmlidir",
+        "sabitdir",
+        "ölçü dəstidir"
+      ],
+      "answer": "ölçü dəstidir"
+    },
+    {
+      "question": "Reper şkalasının nöqtələrinə müvafiq rəqəmlər qoyulur və onlara nə deyilir?",
+      "options": [
+        "fiziki kəmiyyətin şkalası",
+        "doğru cavab yoxdur",
+        "adların şkalası",
+        "ölçmə vasitələrinin şkalası",
+        "bal"
+      ],
+      "answer": "bal"
+    },
+    {
+      "question": "Aşağıdakılardan hansı ISO-ya üzvlüyün formasıdır?",
+      "options": [
+        "əlaqələndirici üzv",
+        "assosiasiya edən üzv",
+        "rəhbəredən üzv",
+        "komissiya-üzv",
+        "komitə-üzv"
+      ],
+      "answer": "komitə-üzv"
+    },
+    {
+      "question": "Yuvaların yuxarı sapmaları hansıdır?",
+      "options": [
+        "...",
+        "..",
+        "....",
+        ".",
+        "....."
+      ],
+      "answer": "....."
+    },
+    {
+      "question": "Yuvanın müsaidəsi hansıdır?",
+      "options": [
+        "Eİ – es;",
+        "es – ei;",
+        "ES - ei;",
+        "es – Eİ;",
+        "ES – Eİ."
+      ],
+      "answer": "ES – Eİ."
+    },
+    {
+      "question": "D8 yuvasının ən böyük ölçüsünü göstərin.",
+      "options": [
+        "65 – es;",
+        "65 – ei;",
+        "65 + EJ.",
+        "65 + ei;",
+        "65 + ES;"
+      ],
+      "answer": "65 + ES;"
+    },
+    {
+      "question": "Birgə ölçmələrdə tənliklərin sayi axtarılan kəmiyyətlərlə müqayisədə necə olmalıdır.",
+      "options": [
+        "düzgün cavb yoxdu",
+        "mənfi",
+        "az olmalıdır",
+        "sabit olmalıdır",
+        "az olmamalıdır"
+      ],
+      "answer": "az olmamalıdır"
+    },
+    {
+      "question": "Hansı deşik əsas deşik adlanır?",
+      "options": [
+        "Müsaidə sahəsinin ortasının koordinatı sıfır olan;",
+        "Hədd sapması olmayan;",
+        "Yuxarı hədd sapması sıfıra bərabər;",
+        "Hədd sapmaları müsbət olan.",
+        "Aşağı hədd sapması sıfıra bərabər;"
+      ],
+      "answer": "Aşağı hədd sapması sıfıra bərabər;"
+    },
+    {
+      "question": "Verilmiş ölçüyə malik fiziki kəmiyyəti təzələmək üçün istifadə olunan ölçmə vasitələrinə nə deyilir?",
+      "options": [
+        "vəhdət",
+        "cərgə",
+        "interval",
+        "ətalətlilik",
+        "ölcü"
+      ],
+      "answer": "ölcü"
+    }
+  ],
+  "answers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

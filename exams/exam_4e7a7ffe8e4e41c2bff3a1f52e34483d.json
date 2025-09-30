@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "Aşağıdakılardan hansi val sistemini xarakterizə edir?",
+      "options": [
+        "Detalların emal olunmayan səthlərini ifadə etmək üçün",
+        "Detalların yeyilmiş səthlərini ifadə etmək üçün",
+        "Detalların daxili səthlərini ifadə etmək üçün",
+        "Belə termindən istifadə olunmur",
+        "Detalların xarici,  əhatə olunan səthlərini ifadə etmək üçün"
+      ],
+      "answer": "Detalların xarici,  əhatə olunan səthlərini ifadə etmək üçün"
+    },
+    {
+      "question": "Nəzəri işləmələrin və qanunverici metrologiyanın müddəaların praktiki tətbiqi necə adlanır",
+      "options": [
+        "daimi",
+        "sadə",
+        "mürəkkəb",
+        "nəzəri",
+        "tətbiqi"
+      ],
+      "answer": "tətbiqi"
+    },
+    {
+      "question": "Hər hansi bir sistemin əmələ gətirən vahidlər  sistemi nədir?",
+      "options": [
+        "təkrarlanma",
+        "etibarlılq",
+        "sistemli düzlük",
+        "sistemli hədlər",
+        "sistemli vahidlər"
+      ],
+      "answer": "sistemli vahidlər"
+    },
+    {
+      "question": "Keçid oturtmaları ən böyük araboşluğu:",
+      "options": [
+        "N",
+        "n",
+        "F",
+        "smin",
+        "Smax"
+      ],
+      "answer": "Smax"
+    },
+    {
+      "question": "Diametrlərlə təyində  max gərilmənin düsturu hansıdır?",
+      "options": [
+        "....",
+        "..",
+        ".",
+        "...",
+        "....."
+      ],
+      "answer": "....."
+    },
+    {
+      "question": "Yuxarı hədd sapması yuva üçün hansı düsturla hesablanır?",
+      "options": [
+        ".",
+        "..",
+        ".....",
+        "....",
+        "..."
+      ],
+      "answer": "..."
+    },
+    {
+      "question": "ei – ES fərqi hansı növ birləşməni xarakterizə edir?",
+      "options": [
+        "Birləşmədə min ara boşluğu",
+        "Birləşmədə max ara boşluğu",
+        "Birləşmədə max gərilməni",
+        "Birləşən detalların bir – birinə nəzərən yerdəyişməsini",
+        "Birləşmədə min gərilməni"
+      ],
+      "answer": "Birləşmədə min gərilməni"
+    },
+    {
+      "question": "Hansı əsasverici standarta görə müxtəlif kateqoriyalı standartlar növlərə bölünür?",
+      "options": [
+        "AZS 1.5 - 96",
+        "AZS 1.2 - 96",
+        "AZS 1.3 - 96",
+        "AZS 1.6 - 96",
+        "AZS 1.0 - 96"
+      ],
+      "answer": "AZS 1.0 - 96"
+    },
+    {
+      "question": "Ölçü şkalasının onun köməyi ilə ölçülən kəmiyyətin ədədi qiyməti  müəyyən ölçünün  digər ölçüyə  riyazi nisbəti kimi nə təyin edilir ?",
+      "options": [
+        "Ölçmə vasitələrinin şkalası",
+        "Cərgə şkalası",
+        "Adların şkalası",
+        "Fiziki kəmiyyətin şkalası",
+        "Nisbətlər şkalası"
+      ],
+      "answer": "Nisbətlər şkalası"
+    },
+    {
+      "question": "Cərgə şkalası üzrə ölçmələrdə sıfra bərabər ölçü ilə müqayisə əsas yer tutur. Belə ölçməyə nə deyilir?",
+      "options": [
+        "kalibrləmə",
+        "qiymətləndirmə",
+        "müqayisə etmə",
+        "doğru cavab yoxdur",
+        "aşkaretmə"
+      ],
+      "answer": "aşkaretmə"
+    }
+  ],
+  "answers": [
+    "Detalların emal olunmayan səthlərini ifadə etmək üçün",
+    "sadə",
+    "sistemli hədlər",
+    "N",
+    "..",
+    "...",
+    "Birləşmədə min ara boşluğu",
+    "AZS 1.3 - 96",
+    "Ölçmə vasitələrinin şkalası",
+    "aşkaretmə"
+  ]
+}

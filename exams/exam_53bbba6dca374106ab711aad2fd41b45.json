@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "question": "Məsul dеtаllаrın kələ-kötürlülüyə, оnlаrın səthlərinin fоrmа və yеrləşməsinə görə qаrşılıqlı əvəzеdilməsini təmin еtmək üçün bu pаrаmеtrlər еlə sеçilməlidir ki, dеtаllаrın istismаr prоsеsində yеyilməsi minimum, istismаr kеyfiyyəti isə .....",
+      "options": [
+        "maxmimum",
+        "bərabərləşsin",
+        "heç biri",
+        "sifir olsun",
+        "Optimal olsun"
+      ],
+      "answer": "Optimal olsun"
+    },
+    {
+      "question": "Qiymətini ölçmə məqsədinə müvafiq olaraq alan fiziki kəmiyyətin ölçü vasitəsi",
+      "options": [
+        "İşçi ölçü vahidləri",
+        "Fiziki kəmiyyət vahidinin etalonu",
+        "İkinci dərəcəli etalonlar",
+        "İşçi etalon",
+        "Əsas ölçü vasitələri"
+      ],
+      "answer": "Əsas ölçü vasitələri"
+    }
+  ],
+  "answers": [
+    null,
+    null
+  ]
+}

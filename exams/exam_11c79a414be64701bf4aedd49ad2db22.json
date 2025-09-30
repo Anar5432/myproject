@@ -1,0 +1,156 @@
+{
+  "questions": [
+    {
+      "question": ".",
+      "options": [
+        "0 √ 2",
+        ".",
+        "e",
+        "1",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 131,
+      "orig_index": 302
+    },
+    {
+      "question": ".",
+      "options": [
+        "0 √ 1",
+        "2",
+        "-2",
+        "-1",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 178,
+      "orig_index": 404
+    },
+    {
+      "question": ". √ .",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 155,
+      "orig_index": 366
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ". √ .",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 73,
+      "orig_index": 173
+    },
+    {
+      "question": ".",
+      "options": [
+        ". √ .",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 6,
+      "orig_index": 12
+    },
+    {
+      "question": ".",
+      "options": [
+        "-4  və  4",
+        "0  və  1 √ -1  və  1",
+        "-1  və  0",
+        "-2  və  2",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 264,
+      "orig_index": 604
+    },
+    {
+      "question": ". √ .",
+      "options": [
+        "ln4",
+        "3",
+        "2",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 231,
+      "orig_index": 516
+    },
+    {
+      "question": ".",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ". √ .",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 214,
+      "orig_index": 468
+    },
+    {
+      "question": ".",
+      "options": [
+        ". √ .",
+        ".",
+        ".",
+        ".",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 157,
+      "orig_index": 369
+    },
+    {
+      "question": ".",
+      "options": [
+        "0",
+        ".",
+        "1",
+        "3 √ 2",
+        "Option 5 (auto-added)"
+      ],
+      "answer": null,
+      "answer_letter": null,
+      "orig_page": 290,
+      "orig_index": 641
+    }
+  ],
+  "answers": [
+    ".",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

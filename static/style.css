@@ -152,6 +152,9 @@ body{
 
 /* Exam area */
 .exam-section { display:flex; flex-direction:column; gap:14px; }
+.exam-grid{ display:grid; grid-template-columns: 1.3fr 1fr; gap:16px; align-items:start; }
+.exam-question{ min-height: 40px; }
+.exam-options{ min-height: 40px; }
 .question-header { display:flex; justify-content:space-between; align-items:center; gap:12px; }
 .question-header h2 { font-size:1.15rem; color:var(--deep); line-height:1.25; margin:0; font-weight:700; }
 .progress { color:var(--muted); font-size:0.9rem; }
@@ -187,14 +190,14 @@ body{
 /* selected / correct / wrong */
 .option-label.selected {
   border-color: rgba(17,100,176,0.12);
-  background: linear-gradient(90deg, rgba(17,100,176,0.04), #fff);
+  background: linear-gradient(90deg, rgba(17,100,176,0.04), #b6dafc);
 }
 .option-label.correct {
-  background: linear-gradient(90deg, rgba(17,100,176,0.06), #84f89e);
+  background: linear-gradient(90deg, rgba(17,100,176,0.06), #b8efcf);
   border-color: rgba(34,170,120,0.12);
 }
 .option-label.incorrect {
-  background: linear-gradient(90deg, rgba(255,80,80,0.04), #e9a1a1);
+  background: linear-gradient(90deg, rgba(255,80,80,0.04), #f3b3bb);
   border-color: rgba(255,80,80,0.12);
 }
 .option-label.your{ outline:2px dashed rgba(17,100,176,0.35); }
@@ -255,9 +258,7 @@ body{
   transform: scale(1.1);
 }
 
-.result-box.correct {
-  background-color: #1164b0;
-}
+.result-box.correct { background-color: #22c55e; }
 
 .result-box.incorrect {
   background-color: #E63946;
@@ -285,7 +286,7 @@ body{
 }
 
 .correct-card {
-  border-left: 5px solid #1164B0;
+  border-left: 5px solid #56b35e;
 }
 
 .incorrect-card {
@@ -317,7 +318,7 @@ body{
 }
 
 .question-card-body .correct-answer {
-  color: #1164B0;
+  color: #2be43a;
 }
 
 
@@ -325,6 +326,7 @@ body{
 /* small screens */
 @media (max-width:760px){
   .app-container { margin: 12px; }
+  .exam-grid{ grid-template-columns: 1fr; }
   .start-row { flex-direction:column; align-items:stretch; gap:10px; }
   .range-row { flex-direction:column; align-items:stretch; }
   .nav-row { justify-content:space-between; }

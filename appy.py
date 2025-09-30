@@ -12,6 +12,7 @@ from flask import (
     session, send_file, send_from_directory
 )
 from werkzeug.security import generate_password_hash, check_password_hash
+import fitz  # PyMuPDF
 from werkzeug.utils import secure_filename
 from pypdf import PdfReader
 
@@ -24,10 +25,12 @@ ALLOWED_EXTENSIONS = {"pdf"}
 ARCHIVE_FILE = (UPLOAD_DIR / "archive.json")
 USERS_FILE = (BASE_DIR / "users.json")
 USER_ARCHIVES_FILE = (BASE_DIR / "user_archives.json")
+PAGE_IMG_DIR = UPLOAD_DIR / "pages"
 
 UPLOAD_DIR.mkdir(exist_ok=True)
 DATASET_DIR.mkdir(exist_ok=True)
 EXAM_DIR.mkdir(exist_ok=True)
+PAGE_IMG_DIR.mkdir(exist_ok=True)
 if not ARCHIVE_FILE.exists():
     with open(ARCHIVE_FILE, "w", encoding="utf-8") as _f:
         json.dump([], _f)
@@ -74,6 +77,18 @@ def save_archive(entries: list) -> None:
     with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
         json.dump(entries, f, ensure_ascii=False, indent=2)
 
+def render_pdf_pages(pdf_path: Path, out_dir: Path):
+    out_dir.mkdir(parents=True, exist_ok=True)
+    doc = fitz.open(str(pdf_path))
+    zoom = 2.0  # ~144 DPI
+    mat = fitz.Matrix(zoom, zoom)
+    for i in range(len(doc)):
+        page = doc.load_page(i)
+        pix = page.get_pixmap(matrix=mat, alpha=False)
+        out_file = out_dir / f"page_{i+1}.png"
+        pix.save(str(out_file))
+    doc.close()
+
 def load_users() -> dict:
     try:
         with open(USERS_FILE, "r", encoding="utf-8") as f:
@@ -112,8 +127,9 @@ def current_username():
 def extract_text_from_pdf(pdf_path: str) -> str:
     pdf = PdfReader(pdf_path)
     text = ""
-    for page in pdf.pages:
+    for idx, page in enumerate(pdf.pages, start=1):
         page_text = page.extract_text()
+        text += f"[[PAGE {idx}]]\n"
         if page_text:
             text += page_text + "\n"
     return text
@@ -125,9 +141,16 @@ def parse_mcqs(text: str):
     answer = None
     answer_letter = None
     lines = [ln.rstrip() for ln in text.splitlines() if ln.strip() != ""]
+    current_page = None
 
     for raw in lines:
         line = raw.strip()
+
+        # Page marker
+        m_page = re.match(r"^\[\[PAGE\s+(\d+)\]\]$", line)
+        if m_page:
+            current_page = int(m_page.group(1))
+            continue
 
         # New question pattern
         m_q = re.match(r"^(\d+)[\.\)]\s*(.*)", line)
@@ -137,7 +160,8 @@ def parse_mcqs(text: str):
                     "question": question.strip(),
                     "options": options,
                     "answer": answer,
-                    "answer_letter": answer_letter
+                    "answer_letter": answer_letter,
+                    "orig_page": current_page
                 })
             question = m_q.group(2).strip()
             options = []
@@ -207,7 +231,8 @@ def parse_mcqs(text: str):
             "question": question.strip(),
             "options": options,
             "answer": answer,
-            "answer_letter": answer_letter
+            "answer_letter": answer_letter,
+            "orig_page": current_page
         })
 
     # Normalize strings and try to align answer text to an existing option
@@ -334,6 +359,9 @@ def remove_exam_file(fname):
 def index():
     dataset_file = session.get("dataset_file")
     available = 0
+    if not current_username():
+        # If not authenticated, go to login first
+        return redirect(url_for("login"))
     if dataset_file and os.path.exists(dataset_file):
         with open(dataset_file, "r", encoding="utf-8") as f:
             ds = json.load(f)
@@ -450,6 +478,11 @@ def upload():
             answer_fixed = sum(1 for a, b in zip(dataset, normalized) if a.get("answer") and a.get("answer") != b.get("answer"))
 
             ds_path = save_dataset_to_file(normalized, filename)
+            # Render per-page images for visuals (math diagrams, etc.)
+            try:
+                render_pdf_pages(save_path, PAGE_IMG_DIR / file_hash)
+            except Exception:
+                pass
 
             session["dataset_file"] = ds_path
             session["current_pdf_filename"] = filename
@@ -462,7 +495,8 @@ def upload():
                     "original_filename": filename,
                     "stored_filename": filename,
                     "dataset_path": ds_path,
-                    "num_questions": len(normalized)
+                    "num_questions": len(normalized),
+                    "page_image_dir": str((PAGE_IMG_DIR / file_hash).relative_to(BASE_DIR))
                 })
                 save_archive(main_archive)
             # persist in user archive
@@ -550,13 +584,20 @@ def exam():
 
     current_answer = answers[q_index] if q_index < len(answers) else None
 
+    # try to derive a likely PDF page for the current question
+    page_hint = None
+    if isinstance(exam_questions[q_index], dict):
+        page_hint = exam_questions[q_index].get("orig_page")
+
     return render_template(
         "index.html",
         page="exam",
         question=question,
         q_index=q_index,
         total=total,
-        current_answer=current_answer
+        current_answer=current_answer,
+        current_pdf_url=url_for("serve_upload", filename=session.get("current_pdf_filename")) if session.get("current_pdf_filename") else None,
+        current_pdf_page=page_hint
     )
 
 @app.route("/result", methods=["GET"])

@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "question": "1764- cü ildə İrəvanda tikilmiş  memarlıq abidəsi:",
+      "options": [
+        "Yeddi Günbəz  türbəsi",
+        "Şirvanşahlar sarayı",
+        "Qarabağlar türbəsi",
+        "Gülüstan qalası",
+        "Göy məscid"
+      ],
+      "answer": "Göy məscid"
+    },
+    {
+      "question": "Azərbaycan  Respublikasının Dövlət Müstəqilliyini bərpa  etmək haqqında Azərbaycan Respublikası Ali  Sovetinin Bəyannaməsi qəbul edildi:",
+      "options": [
+        "1991- ci il sentyabrın 3- də",
+        "1991- ci il noyabrın 17- də",
+        "1991- ci il oktyabrın 18- də",
+        "1991- ci il dekabrın 29- da",
+        "1991- ci il avqustun 30 - da"
+      ],
+      "answer": "1991- ci il avqustun 30 - da"
+    },
+    {
+      "question": "1852-ci ildə Şimali Azərbaycanda tətbiq edilən yeni vergi sisteminə əsasən dövlət kəndliləri:",
+      "options": [
+        "Vergiləri məhsulla ödəməli idilər",
+        "\"Həyat vergisi\" ödəməli idilər",
+        "Bütün vergi və mükəlləfiyyətlərdən azad idilər",
+        "Çöpbaşı ödəməli idilər",
+        "Vergiləri xəzinəyə pulla ödəməli idilər"
+      ],
+      "answer": "Vergiləri xəzinəyə pulla ödəməli idilər"
+    },
+    {
+      "question": "1853-cü ildə dövlət kəndlilərinin hansı hüququ ləğv edildi:",
+      "options": [
+        "Torpağa sahib çıxmaq",
+        "Birgə əmək fəaliyyəti",
+        "İcmada yaşamaq",
+        "Muzdlu əməkdən istifadə etmək",
+        "Bir kənddən başqa kəndə köçmək"
+      ],
+      "answer": "Bir kənddən başqa kəndə köçmək"
+    },
+    {
+      "question": "Hacı Çələbinin  Şəkinin  ərazisini genişləndirərək Ərəş və Qəbələ  mahallarını da özunə tabe  etməsi  haqqında ətraflı məlumat  verirdi:",
+      "options": [
+        "Hacı Zeynalabdin  Şirvani",
+        "Molla Pənah  Vaqif",
+        "F.Köçərli",
+        "M.F. Axundov",
+        "A. Bakıxanov"
+      ],
+      "answer": "A. Bakıxanov"
+    },
+    {
+      "question": "Eramızın I əsrində Albaniyanı idarə edirdi:",
+      "options": [
+        "İberlər",
+        "Romalılar",
+        "Midiya canişıni",
+        "Parfiya canişini",
+        "Yerli hökmdarlar"
+      ],
+      "answer": "Yerli hökmdarlar"
+    },
+    {
+      "question": "II Sarqonun şərəfinə abidə qoydurmuş Manna hökmdarı:",
+      "options": [
+        "İranzu",
+        "Ahşeri",
+        "Erisinni",
+        "Ualli",
+        "Ullusunu"
+      ],
+      "answer": "Ullusunu"
+    },
+    {
+      "question": "Bakıda milli eser təşkilatı olan “ İttifaq”  partiyası yaradılmışdı:",
+      "options": [
+        "1903- cü ildə",
+        "1900- cü ildə",
+        "1904- cü ildə",
+        "1902- ci ildə",
+        "1905- ci ildə"
+      ],
+      "answer": "1905- ci ildə"
+    },
+    {
+      "question": "Şimali Azərbaycanda komendatlara aiddir:",
+      "options": [
+        "Ölüm hökmü verə bilərdilər",
+        "Əyalət və dairələri idarə edə bilməzdilər",
+        "Quberniyaları idarə edirdilər",
+        "Duma tərəfindən seçilirdilər",
+        "Yerlərdə mütləq hakim hesab olunurdular"
+      ],
+      "answer": "Yerlərdə mütləq hakim hesab olunurdular"
+    },
+    {
+      "question": "Atropatena ilə Parfiya arasında münasibətlərin pozulmasının səbəbi:",
+      "options": [
+        "Atropatenanın həm Romaya  , həm də Parfiyaya qarşı eyni mövqedə dayanması",
+        "Atropatena  hökmdarlarının xarici syasətdə Romaya meyl etməsi",
+        "Romanın mülklərini ələ keçirmək uğrunda mübarizə",
+        "Atropatenanın Selevkilərin  tərəfinə  keçməsi",
+        "Parfiyanın Atropatenanı bütövlükdə özünə tabe etməyə  çalışması"
+      ],
+      "answer": "Parfiyanın Atropatenanı bütövlükdə özünə tabe etməyə  çalışması"
+    }
+  ],
+  "answers": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}
