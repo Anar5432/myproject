@@ -134,6 +134,117 @@ def extract_text_from_pdf(pdf_path: str) -> str:
             text += page_text + "\n"
     return text
 
+def extract_text_from_pdf_robust(pdf_path: str) -> str:
+    """
+    Extract text from a PDF with a robust, math-friendly strategy:
+    1) Try PyPDF native text extraction.
+    2) If a page has too little text, try PyMuPDF block extraction (keeps layout better).
+    3) If still too little, render the page and OCR it with Tesseract (if available),
+       preserving inter-word spaces and math symbols as best as possible.
+    Always emits page markers in the form of [[PAGE N]].
+    """
+    # Try to open via PyPDF and PyMuPDF
+    try:
+        pdf = PdfReader(pdf_path)
+        num_pages = len(pdf.pages)
+    except Exception:
+        pdf = None
+        num_pages = 0
+
+    try:
+        doc = fitz.open(str(pdf_path))
+        num_pages_fitz = len(doc)
+    except Exception:
+        doc = None
+        num_pages_fitz = 0
+
+    # Check OCR availability lazily
+    ocr_available = False
+    pytesseract_mod = None
+    Image_mod = None
+    try:
+        import pytesseract as _pyt
+        from PIL import Image as _Image
+        # ensure tesseract binary exists
+        _ = _pyt.get_tesseract_version()
+        pytesseract_mod = _pyt
+        Image_mod = _Image
+        ocr_available = True
+    except Exception:
+        ocr_available = False
+
+    total_pages = max(num_pages, num_pages_fitz)
+    out_parts = []
+
+    def too_little(txt: str) -> bool:
+        if txt is None:
+            return True
+        stripped = txt.strip()
+        # Consider too little if fewer than 50 visible chars
+        return len(stripped) < 50
+
+    for i in range(total_pages):
+        out_parts.append(f"[[PAGE {i+1}]]")
+        page_text = ""
+
+        # 1) Try PyPDF
+        if pdf is not None and i < num_pages:
+            try:
+                p = pdf.pages[i]
+                page_text = p.extract_text() or ""
+            except Exception:
+                page_text = ""
+
+        # 2) Try PyMuPDF blocks if PyPDF yielded too little
+        if too_little(page_text) and doc is not None and i < num_pages_fitz:
+            try:
+                page = doc.load_page(i)
+                blocks = page.get_text("blocks")  # (x0, y0, x1, y1, text, block_no, ...)
+                # sort top-to-bottom, then left-to-right
+                blocks_sorted = sorted(
+                    [b for b in blocks if len(b) >= 5 and b[4]],
+                    key=lambda b: (round(b[1], 1), round(b[0], 1))
+                )
+                lines = []
+                for b in blocks_sorted:
+                    t = (b[4] or "").strip()
+                    if t:
+                        lines.append(t)
+                page_text = "\n".join(lines)
+            except Exception:
+                pass
+
+        # 3) OCR fallback if still too little
+        if too_little(page_text) and doc is not None and i < num_pages_fitz and ocr_available:
+            try:
+                page = doc.load_page(i)
+                # Use higher DPI for better OCR quality
+                mat = fitz.Matrix(2.5, 2.5)
+                pix = page.get_pixmap(matrix=mat, alpha=False)
+                img_bytes = pix.tobytes("png")
+                from io import BytesIO
+                img = Image_mod.open(BytesIO(img_bytes))
+                # Keep spaces and avoid aggressive segmentation
+                config = "--oem 3 --psm 6 -c preserve_interword_spaces=1"
+                ocr_text = pytesseract_mod.image_to_string(img, config=config) or ""
+                page_text = ocr_text
+            except Exception:
+                pass
+
+        # light cleanup
+        if not page_text:
+            page_text = ""
+        page_text = re.sub(r"\n{3,}", "\n\n", page_text).strip()
+        out_parts.append(page_text)
+
+    if doc is not None:
+        try:
+            doc.close()
+        except Exception:
+            pass
+
+    return "\n".join(out_parts) + "\n"
+
 def parse_mcqs(text: str):
     dataset = []
     question = None
@@ -142,6 +253,43 @@ def parse_mcqs(text: str):
     answer_letter = None
     lines = [ln.rstrip() for ln in text.splitlines() if ln.strip() != ""]
     current_page = None
+
+    inline_label_regex = re.compile(r"([A-E])[\.\)]\s*", re.IGNORECASE)
+
+    def split_inline_options(line: str):
+        """
+        Split a line containing multiple inline labeled options like:
+        "A) x   B) y   C) z" into [("A", "x"), ("B", "y"), ("C", "z")].
+        Preserves math symbols and spacing within each option segment.
+        """
+        parts = []
+        matches = list(inline_label_regex.finditer(line))
+        if not matches:
+            return parts
+        for idx, m in enumerate(matches):
+            label = m.group(1).upper()
+            start = m.end()
+            end = matches[idx + 1].start() if idx + 1 < len(matches) else len(line)
+            seg = line[start:end].strip()
+            if seg.startswith("√") or seg.startswith("[x]") or seg.lower().startswith("(x)"):
+                cleaned = re.sub(r"^[√\[\(x\)\]]+\s*", "", seg)
+                parts.append((label, cleaned.strip(), True))
+            else:
+                parts.append((label, seg, False))
+        return parts
+
+    def is_mathy_option(text_line: str) -> bool:
+        """Heuristic to detect short math-like option candidates."""
+        s = text_line.strip()
+        if len(s) == 0:
+            return False
+        if len(s) > 70:
+            return False
+        # Not a new question starter
+        if re.match(r"^\d+[\.)]\s*", s):
+            return False
+        # Allow common math symbols, digits, letters for variables
+        return re.match(r"^[\s\.,;:\-+*/=×÷•√^%‰°±≤≥<>⇒→←∑∏≈≃≅≡≠πeij\(\)\[\]\{\}0-9a-zA-Z,]+$", s) is not None
 
     for raw in lines:
         line = raw.strip()
@@ -164,6 +312,8 @@ def parse_mcqs(text: str):
                     "orig_page": current_page
                 })
             question = m_q.group(2).strip()
+            if question in {".", "..", "...", "-", "–", "—"}:
+                question = ""
             options = []
             answer = None
             answer_letter = None
@@ -172,6 +322,15 @@ def parse_mcqs(text: str):
         # Option labelled A-E
         m_opt_label = re.match(r"^([A-E])[\.\)]\s*(.*)", line, re.IGNORECASE)
         if m_opt_label:
+            # If multiple inline labels present, split them all from this line
+            if len(list(inline_label_regex.finditer(line))) > 1:
+                for lbl, seg, marked in split_inline_options(line):
+                    options.append(seg)
+                    if marked:
+                        answer = seg
+                        answer_letter = lbl
+                continue
+            # Single labeled option on this line
             label = m_opt_label.group(1).upper()
             opt_text = m_opt_label.group(2).strip()
             if opt_text.startswith("√") or opt_text.startswith("[x]") or opt_text.lower().startswith("(x)"):
@@ -195,6 +354,54 @@ def parse_mcqs(text: str):
                 options.append(opt_text)
             continue
 
+        # Math-style inline correct mark like "-1,4 √ -1,5"
+        if question is not None and "√" in line and len(options) < 6:
+            left, _, right = line.partition("√")
+            left = left.strip()
+            right = right.strip()
+            added_any = False
+            if left and is_mathy_option(left):
+                options.append(left)
+                added_any = True
+            if right and is_mathy_option(right):
+                options.append(right)
+                answer = right
+                added_any = True
+            if added_any:
+                continue
+
+        # If looks like compact math options on one line, split by 2+ spaces
+        if question is not None and is_mathy_option(line):
+            parts = [p.strip() for p in re.split(r"\s{2,}", line) if p.strip()]
+            if len(parts) > 1 and all(is_mathy_option(p) for p in parts):
+                for p in parts:
+                    options.append(p)
+                continue
+
+        # Math-style inline correct mark like "-1,4 √ -1,5"
+        if question is not None and "√" in line and len(options) < 6:
+            left, _, right = line.partition("√")
+            left = left.strip()
+            right = right.strip()
+            added_any = False
+            if left and is_mathy_option(left):
+                options.append(left)
+                added_any = True
+            if right and is_mathy_option(right):
+                options.append(right)
+                answer = right
+                added_any = True
+            if added_any:
+                continue
+
+        # If looks like compact math options on one line, split by 2+ spaces
+        if question is not None and is_mathy_option(line):
+            parts = [p.strip() for p in re.split(r"\s{2,}", line) if p.strip()]
+            if len(parts) > 1 and all(is_mathy_option(p) for p in parts):
+                for p in parts:
+                    options.append(p)
+                continue
+
         # Explicit Answer: X
         if line.lower().startswith("answer:") or line.lower().startswith("correct:"):
             cleaned = re.sub(r"^answer[:\s]*|^correct[:\s]*", "", line, flags=re.IGNORECASE).strip()
@@ -213,7 +420,11 @@ def parse_mcqs(text: str):
             options[-1] = options[-1] + " " + line
             continue
         if question is not None and not options:
-            question += " " + line
+            if line not in {".", "..", "..."}:
+                if question:
+                    question += " " + line
+                else:
+                    question = line
             continue
 
         m_opt2 = re.match(r"^([A-E])\s+(.*)", line)
@@ -235,7 +446,7 @@ def parse_mcqs(text: str):
             "orig_page": current_page
         })
 
-    # Normalize strings and try to align answer text to an existing option
+# Normalize strings and try to align answer text to an existing option
     for item in dataset:
         item["options"] = [o.strip() for o in item.get("options", []) if o and o.strip() != ""]
         if item.get("answer") and item["answer"] not in item["options"]:
@@ -249,6 +460,9 @@ def parse_mcqs(text: str):
             if found:
                 item["answer"] = found
             # else keep answer text as-is but DO NOT mutate options (no forcing into E)
+        # Fill empty question text if options exist (better UX for math PDFs)
+        if (not item.get("question")) and item.get("options"):
+            item["question"] = "Choose the correct answer."
     return dataset
 
 def normalize_options(dataset, desired=5):
@@ -465,7 +679,12 @@ def upload():
                 return redirect(url_for("index"))
 
         try:
-            text = extract_text_from_pdf(str(save_path))
+            # Robust extraction (handles math by combining PyPDF, PyMuPDF and OCR fallback)
+            try:
+                text = extract_text_from_pdf_robust(str(save_path))
+            except Exception:
+                # fallback to basic extractor
+                text = extract_text_from_pdf(str(save_path))
             dataset = parse_mcqs(text)
             if not dataset:
                 flash("No questions detected in the PDF. Try a different file or check formatting.", "error")
