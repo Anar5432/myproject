@@ -2,3 +2,5 @@ Flask>=2.0
 pypdf>=3.0
 Werkzeug
 PyMuPDF>=1.24.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
